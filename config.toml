@@ -1,4 +1,4 @@
-baseurl = "https://smart-researchteam.github.io"  # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
+baseurl = "https://smart-researchteam.github.io/"  # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
 title = "SM@RT"
 copyright = "&copy; 2017. Last update: 24/11/2017"
 theme = "academic"
@@ -6,7 +6,7 @@ enableEmoji = true
 footnotereturnlinkcontents = "<sup>^</sup>"
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 paginate = 10
-publishDir = "."
+publishDir = "./"
 team = "SM@RT"
 
 # Enable comments by entering your Disqus shortname
