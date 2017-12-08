@@ -135,3 +135,6 @@
 
 - id: students
   translation: Students
+
+- id: positions
+  translation: Positions
