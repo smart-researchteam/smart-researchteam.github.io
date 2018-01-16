@@ -1,6 +1,6 @@
 baseurl = "https://smart-researchteam.github.io/"  # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
 title = "SM@RT Team"
-copyright = "&copy; 2017. Last update: 24/11/2017"
+copyright = "&copy; 2018. Last update: 15/01/2018"
 theme = "academic"
 enableEmoji = true
 footnotereturnlinkcontents = "<sup>^</sup>"
@@ -103,7 +103,7 @@ defaultContentLanguageInSubdir = false
 
   # Link custom CSS and JS assets
   #   (relative to /static/css and /static/js respectively)
-  custom_css = []
+  custom_css = ["agencyJMB.css"]
   custom_js  = []
 
   # Publication types.
@@ -177,34 +177,39 @@ defaultContentLanguageInSubdir = false
   weight = 1
 
 [[menu.main]]
+  name = "Team"
+  url = "#team"
+  weight = 3
+
+[[menu.main]]
   name = "Publications"
   url = "#publications"
-  weight = 2
+  weight = 5
 
 [[menu.main]]
   name = "Talks"
   url = "#talk"
-  weight = 3
+  weight = 7
 
 [[menu.main]]
   name = "Projects"
   url = "#projects"
-  weight = 4
+  weight = 9
 
 [[menu.main]]
   name = "Students"
   url = "#students"
-  weight = 5
+  weight = 11
 
 [[menu.main]]
   name = "Positions"
   url = "#positions"
-  weight = 6
+  weight = 13
 
 [[menu.main]]
   name = "Contact"
   url = "#contact"
-  weight = 7
+  weight = 15
 
 # Taxonomies.
 [taxonomies]
@@ -218,3 +223,4 @@ defaultContentLanguageInSubdir = false
 # Configure the English version of the website.
 [Languages.en]
   languageCode = "en-us"
+
