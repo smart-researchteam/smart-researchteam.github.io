@@ -28,6 +28,7 @@ weight = 10
     name = "Jean-Michel Bruel"
     url = "https://jmbruel.github.io/smartjmb/"
     position = "Professor, Head of the team"
+    worksAt = "IUT Blagnac, Toulouse"
 #    scope = [
 #      "UX for [member dashboard](#)",
 #      "Maintainer for [awesome-project](#)",
@@ -43,6 +44,7 @@ weight = 10
     img = "pjc.jpg"
     name = "Pierre-Jean Charrel"
     position = "Professor"
+    worksAt = "UT2J, Toulouse"
     social = [
       ["fa-twitter", "#"],
       ["fa-facebook", "#"],
@@ -54,6 +56,7 @@ weight = 10
     name = "Benoît Combemale"
     position = "Professor"
     # For bio markdown and even multiline strings are available.
+    worksAt = "UT2J, Toulouse"
     social = [
       ["fa-twitter", "#"],
       ["fa-facebook", "#"],
@@ -64,6 +67,7 @@ weight = 10
     img = "bc.jpg"
     name = "Bernard Coulette"
     position = "Professor"
+    worksAt = "UT2J, Toulouse"
     social = [
       ["fa-twitter", "#"],
       ["fa-facebook", "#"],
@@ -74,7 +78,8 @@ weight = 10
   [[team.members]]
     img = "sophie.png"
     name = "Sophie Ebersold"
-    position = "Lead Marketer"
+    position = "Associate Professor"
+    worksAt = "UT2J, Toulouse"
     social = [
       ["fa-twitter", "#"],
       ["fa-facebook", "#"],
