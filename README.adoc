@@ -19,5 +19,5 @@ Based on {hugo}.
 == To add content
 
 Students::
-Go to the +content\students+ folder and add a +.md+ file for each of your students.
+Go to the `content\students` folder and add a `.md+` file for each of your students.
 
