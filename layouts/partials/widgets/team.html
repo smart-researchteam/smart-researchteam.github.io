@@ -31,8 +31,8 @@
           <h5 class="report">Reports to {{ . | markdownify }}</h5>
           {{ end }}
   
-          {{ with .livesIn }}
-          <h5>Lives in {{ . | markdownify }}</h5>
+          {{ with .worksAt }}
+          <h5>Works at in {{ . | markdownify }}</h5>
           {{ end }}
   
           {{ with .scope }}
