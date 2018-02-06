@@ -79,7 +79,19 @@ weight = 10
     position = "Ph.D. Bombardier Transportation"
     worksAt = "UT2J, Toulouse"
 
-[[team.students]]
+  [[team.students]]
+    img = "portrait.jpg"
+    name = "Fabien Coulon"
+    position = "Ph.D. CIFRE Obeo"
+    worksAt = "UT2J, Toulouse"
+
+  [[team.students]]
+    img = "portrait.jpg"
+    name = "Mohammad Chami"
+    position = "Ph.D. Freelance"
+    worksAt = "UPS, Toulouse"
+
+  [[team.students]]
    img = "mamadou.jpg"
    name = "Mamadou Lakhassane Cissé"
    position = "Ph.D. MAE Campus France Grant"
@@ -92,9 +104,21 @@ weight = 10
    worksAt = "UPS, Toulouse"
 
   [[team.students]]
+    img = "portrait.jpg"
+    name = "Manuel Leduc"
+    position = "Pôle d'Excellence Cyber Grant"
+    worksAt = "U. of Rennes"
+
+  [[team.students]]
+    img = "portrait.jpg"
+    name = "Dorian Leroy"
+    position = "Ph.D. Austrian [Tetrabox](https://www.big.tuwien.ac.at/projects/40) project"
+    worksAt = "TU Wien, Austria"
+
+  [[team.students]]
   img = "anael.jpg"
   name = "Anaël Megna"
-  position = "Ph.D. Safran Tech"
+  position = "Ph.D. CIFRE Safran Tech"
   worksAt = "UT2J, Toulouse"
 
 # Associates
