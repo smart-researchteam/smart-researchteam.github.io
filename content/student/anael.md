@@ -4,7 +4,7 @@ date = "2018-02-06"
 
 # Student Name.
 name = "Anaël Megna"
-title = ""
+title = "xDSML Engineering - Metaprogramming and Concurrent Modeling Language Engineering"
 from = "2016-10-01"
 note = "CIFRE Safran Tech"
 external_link = ""

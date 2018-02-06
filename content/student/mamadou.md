@@ -5,7 +5,7 @@ date = "2018-02-06"
 # Student infos (FisrtName LastName)
 name = "Mamadou Lakhassane Cissé"
 from = "2016-10-01"
-title = "Ingénierie des architectures logicielles sécurisées : patrons, modèles et analyses"
+title = "Collaborative processes behavioral modeling and enacting"
 note = "Co-directed with U. of Dakar. MAE Campus France Grant"
 
 # Tags: can be used for filtering projects.
