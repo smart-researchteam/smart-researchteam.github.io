@@ -5,7 +5,7 @@ date = "2018-01-15"
 draft = false
 
 title = "Our Team"
-subtitle = "Permanent members"
+subtitle = ""
 widget = "team"
 center = true
 
@@ -35,21 +35,17 @@ weight = 10
 #      "Open Source [community management](#)"
 #    ]
     social = [
-      ["fa-twitter", "jmbruel"],
-      ["fa-facebook", "jmbruel"],
-      ["fa-linkedin", "jmbruel"]
+      ["fa-home", "https://jmbruel.github.io/smartjmb/"],
+      ["fa-twitter", "https://twitter.com/jmbruel"],
+      ["fa-linkedin", "https://www.linkedin.com/in/jmbruel/"]
     ]
 
+# Permanents
   [[team.members]]
     img = "pjc.jpg"
     name = "Pierre-Jean Charrel"
     position = "Professor"
     worksAt = "UT2J, Toulouse"
-    social = [
-      ["fa-twitter", "#"],
-      ["fa-facebook", "#"],
-      ["fa-linkedin", "#"]
-    ]
 
   [[team.members]]
     img = "benoit.jpg"
@@ -58,9 +54,9 @@ weight = 10
     # For bio markdown and even multiline strings are available.
     worksAt = "UT2J, Toulouse"
     social = [
-      ["fa-twitter", "bcombemale"],
-      ["fa-facebook", ""],
-      ["fa-linkedin", "combemale"]
+      ["fa-home", "http://combemale.fr/"],
+      ["fa-twitter", "https://twitter.com/bcombemale"],
+      ["fa-linkedin", "https://www.linkedin.com/in/combemale"]
     ]
 
   [[team.members]]
@@ -68,34 +64,58 @@ weight = 10
     name = "Bernard Coulette"
     position = "Professor"
     worksAt = "UT2J, Toulouse"
-    social = [
-      ["fa-twitter", "#"],
-      ["fa-facebook", "#"],
-      ["fa-linkedin", "#"]
-    ]
-
-
 
   [[team.members]]
     img = "sophie.png"
     name = "Sophie Ebersold"
     position = "Associate Professor"
     worksAt = "UT2J, Toulouse"
-    social = [
-      ["fa-twitter", "#"],
-      ["fa-facebook", "#"],
-      ["fa-linkedin", "#"]
-    ]
 
-  [[team.members]]
-    img = "sophie.png"
-    name = "Sophie Ebersold"
-    position = "Associate Professor"
+# Students
+
+  [[team.students]]
+    img = "portrait.jpg"
+    name = "Ronan Baduel"
+    position = "Ph.D. Bombardier Transportation"
     worksAt = "UT2J, Toulouse"
+
+[[team.students]]
+   img = "mamadou.jpg"
+   name = "Mamadou Lakhassane Cissé"
+   position = "Ph.D. MAE Campus France Grant"
+   worksAt = "UT2J, Toulouse"
+
+  [[team.students]]
+   img = "portrait.jpg"
+   name = "Florian Galinier"
+   position = "Ph.D. Grant"
+   worksAt = "UPS, Toulouse"
+
+  [[team.students]]
+  img = "anael.jpg"
+  name = "Anaël Megna"
+  position = "Ph.D. Safran Tech"
+  worksAt = "UT2J, Toulouse"
+
+# Associates
+
+  [[team.associates]]
+    img = "meyer.jpg"
+    name = "Bertrand Meyer"
+    position = "Professor"
+    worksAt = "Politecnico di Milano / Innopolis University"
     social = [
-      ["fa-twitter", "#"],
-      ["fa-facebook", "#"],
-      ["fa-linkedin", "#"]
+      ["fa-home", "https://bertrandmeyer.com/"],
+      ["fa-linkedin", "https://www.linkedin.com/in/bertrandmeyer/"]
+    ]
+  [[team.associates]]
+    img = "mahmoud.jpg"
+    name = "Mahmoud El Hamlaoui"
+    position = "Associate Professor"
+    worksAt = "U. Med V Souissi ENSIAS/SIME Laboratory"
+    social = [
+      ["fa-twitter", "https://twitter.com/elhamlaoui"],
+      ["fa-linkedin", "https://www.linkedin.com/in/mahmoud-el-hamlaoui-466b8617/"]
     ]
 
 

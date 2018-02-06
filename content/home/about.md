@@ -14,7 +14,7 @@ weight = 5
   topics = [
     "Software Agility and Safety for Cyber-Physical Systems",
     "Modeling and Languages Engineering",
-    "FUN (_Final User Need_) at the center of the concerns"
+    "FUN (Final User Need) at the center of the concerns"
   ]
 
 +++

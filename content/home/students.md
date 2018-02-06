@@ -5,8 +5,8 @@
 date = "2017-11-01T00:00:00"
 draft = false
 
-title = "Students"
-subtitle = "Supervision"
+title = "Thesis"
+subtitle = "Ph.D. & M.Sc."
 widget = "students"
 
 # Order that this section will appear in.
@@ -53,5 +53,8 @@ filter_default = 1
   name = "Grant"
   tag = ".grant"
 
+[[filter]]
+  name = "Co-Diplomation"
+  tag = ".codiplomation"
 
 +++
