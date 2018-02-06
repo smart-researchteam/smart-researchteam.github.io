@@ -58,9 +58,9 @@ weight = 10
     # For bio markdown and even multiline strings are available.
     worksAt = "UT2J, Toulouse"
     social = [
-      ["fa-twitter", "#"],
-      ["fa-facebook", "#"],
-      ["fa-linkedin", "#"]
+      ["fa-twitter", "bcombemale"],
+      ["fa-facebook", ""],
+      ["fa-linkedin", "combemale"]
     ]
 
   [[team.members]]
@@ -74,6 +74,18 @@ weight = 10
       ["fa-linkedin", "#"]
     ]
 
+
+
+  [[team.members]]
+    img = "sophie.png"
+    name = "Sophie Ebersold"
+    position = "Associate Professor"
+    worksAt = "UT2J, Toulouse"
+    social = [
+      ["fa-twitter", "#"],
+      ["fa-facebook", "#"],
+      ["fa-linkedin", "#"]
+    ]
 
   [[team.members]]
     img = "sophie.png"
