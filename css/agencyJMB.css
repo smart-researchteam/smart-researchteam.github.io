@@ -81,11 +81,9 @@
     padding: 15px
 }
 
-.img-responsive,
-
 .img-circle {
     border-radius: 50%;
-    max-width: 80%;
-    height: auto;
+    width: 150px;
+    height: 150px;
   }
   

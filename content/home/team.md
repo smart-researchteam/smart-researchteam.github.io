@@ -76,13 +76,7 @@ weight = 10
   [[team.students]]
     img = "portrait.jpg"
     name = "Ronan Baduel"
-    position = "Ph.D. Bombardier Transportation"
-    worksAt = "UT2J, Toulouse"
-
-  [[team.students]]
-    img = "portrait.jpg"
-    name = "Fabien Coulon"
-    position = "Ph.D. CIFRE Obeo"
+    position = "Ph.D. CIFRE, Bombardier Transportation"
     worksAt = "UT2J, Toulouse"
 
   [[team.students]]
@@ -98,7 +92,13 @@ weight = 10
    worksAt = "UT2J, Toulouse"
 
   [[team.students]]
-   img = "portrait.jpg"
+    img = "fcoulon.png"
+    name = "Fabien Coulon"
+    position = "Ph.D. [CIFRE](http://gemoc.org/kaulua/), Obeo"
+    worksAt = "UT2J, Toulouse"
+
+  [[team.students]]
+   img = "florian.jpg"
    name = "Florian Galinier"
    position = "Ph.D. Grant"
    worksAt = "UPS, Toulouse"
@@ -120,6 +120,12 @@ weight = 10
   name = "Anaël Megna"
   position = "Ph.D. CIFRE Safran Tech"
   worksAt = "UT2J, Toulouse"
+
+  [[team.students]]
+    img = "portrait.jpg"
+    name = "Otmani Nassim Abdeldjallal"
+    position = "Ph.D. Cotutelle: UMMTO, UT2J"
+    worksAt = "UT2J, Toulouse"
 
 # Associates
 
