@@ -81,6 +81,12 @@ weight = 10
 
   [[team.students]]
     img = "portrait.jpg"
+    name = "Saloua Bennani"
+    position = "Co-tutelle"
+    worksAt = "UT2J, Toulouse"
+
+  [[team.students]]
+    img = "portrait.jpg"
     name = "Mohammad Chami"
     position = "Ph.D. Freelance"
     worksAt = "UPS, Toulouse"
@@ -105,9 +111,27 @@ weight = 10
 
   [[team.students]]
     img = "portrait.jpg"
+    name = "Samia Iltache"
+    position = "Co-tutelle"
+    worksAt = "UT2J, Toulouse"
+
+  [[team.students]]
+    img = "portrait.jpg"
+    name = "Maroun Koussaifi"
+    position = "Ph.D. Grant"
+    worksAt = "UPS, Toulouse"
+
+  [[team.students]]
+    img = "portrait.jpg"
     name = "Manuel Leduc"
     position = "Pôle d'Excellence Cyber Grant"
     worksAt = "U. of Rennes"
+
+  [[team.students]]
+    img = "portrait.jpg"
+    name = "Renan Leroux"
+    position = "IRT Saint Exupery Grant"
+   worksAt = "UPS, Toulouse"
 
   [[team.students]]
     img = "portrait.jpg"
@@ -126,6 +150,19 @@ weight = 10
     name = "Otmani Nassim Abdeldjallal"
     position = "Ph.D. Cotutelle: UMMTO, UT2J"
     worksAt = "UT2J, Toulouse"
+
+  [[team.students]]
+    img = "portrait.jpg"
+    name = "Alexandr Naumchev"
+    position = "Innopolis University"
+    worksAt = "UPS, Toulouse"
+
+  [[team.students]]
+    img = "portrait.jpg"
+    name = " Abdeldjallal Otmani Nassim"
+    position = "Co-tutelle"
+    worksAt = "UT2J, Toulouse"
+
 
 # Associates
 
