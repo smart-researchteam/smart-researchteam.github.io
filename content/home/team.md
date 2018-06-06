@@ -93,7 +93,7 @@ weight = 10
 
   [[team.students]]
    img = "mamadou.jpg"
-   name = "Mamadou Lakhassane Cissé"
+   name = "Mamadou L. Cissé"
    position = "Ph.D. MAE Campus France Grant"
    worksAt = "UT2J, Toulouse"
 
@@ -144,6 +144,12 @@ weight = 10
   name = "Anaël Megna"
   position = "Ph.D. CIFRE Safran Tech"
   worksAt = "UT2J, Toulouse"
+  
+  [[team.students]]
+    img = "portrait.jpg"
+    name = "Saloua Bennani"
+    position = "Ph.D. Grant"
+    worksAt = "UT2J, Toulouse"
 
   [[team.students]]
     img = "portrait.jpg"
