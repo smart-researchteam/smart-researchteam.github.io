@@ -139,12 +139,12 @@ weight = 10
     position = "Ph.D. Austrian [Tetrabox](https://www.big.tuwien.ac.at/projects/40) project"
     worksAt = "TU Wien, Austria"
 
-  [[team.students]]
-  img = "anael.jpg"
-  name = "Anaël Megna"
-  position = "Ph.D. CIFRE Safran Tech"
-  worksAt = "UT2J, Toulouse"
-  
+  # [[team.students]]
+  # img = "anael.jpg"
+  # name = "Anaël Megna"
+  # position = "Ph.D. CIFRE Safran Tech"
+  # worksAt = "UT2J, Toulouse"
+
   [[team.students]]
     img = "portrait.jpg"
     name = "Saloua Bennani"
