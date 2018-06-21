@@ -2,7 +2,7 @@
 abstract = "A number of formal methods exist for capturing stimulus-response requirements in a declarative form. Someone yet needs to translate the resulting declarative statements into imperative programs. The present article describes a method for specification and verification of stimulus-response requirements in the form of imperative program routines with conditionals and assertions. A program prover then checks a candidate program directly against the stated requirements. The article illustrates the approach by applying it to an ASM model of the Landing Gear System, a widely used realistic example proposed for evaluating specification and verification techniques."
 authors = ["Alexandr Naumchev","Manuel Mazzara",
                "Bertrand Meyer",
-               "_Jean-Michel Bruel_",                 
+               "_Jean-Michel Bruel_",
                "Florian Galinier",
                "Sophie Ebersold"]
 date = "2017-06-07"

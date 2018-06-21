@@ -8,99 +8,101 @@
     <language>en-us</language>
     <copyright>&amp;copy; 2018. Last update: 2018/02/06</copyright>
     <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
-    
+
 	<atom:link href="https://smart-researchteam.github.io/home/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+
+
     <item>
       <title></title>
       <link>https://smart-researchteam.github.io/home/about/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
-      
+
       <guid>https://smart-researchteam.github.io/home/about/</guid>
-      <description>Smart Modeling for softw@re Research &amp;amp; Technology SM@RTis a software engineering team of the Reliability of Systems and Softwaredepartment that specializes in software agility and safety for cyber-physical systems. The team explores new foundations, and develops ground-breaking tools and methods for modeling and software languages (domain-specific languages, specification languages, programming and modeling languages), with a particular focus on the scientific breakthroughs related to socio-technical coordination (heterogeneity of models and execution platforms, final user in the loop, etc.</description>
+      <description>Smart Modeling for softw@re Research &amp;amp; Technology SM@RT
+is a software engineering team of the Reliability of Systems and Software
+department that specializes in software agility and safety for cyber-physical systems. The team explores new foundations, and develops ground-breaking tools and methods for modeling and software languages (domain-specific languages, specification languages, programming and modeling languages), with a particular focus on the scientific breakthroughs related to socio-technical coordination (heterogeneity of models and execution platforms, final user in the loop, etc.</description>
     </item>
-    
+
     <item>
       <title>Our Team</title>
       <link>https://smart-researchteam.github.io/home/team/</link>
       <pubDate>Mon, 15 Jan 2018 00:00:00 +0000</pubDate>
-      
+
       <guid>https://smart-researchteam.github.io/home/team/</guid>
       <description></description>
     </item>
-    
+
     <item>
       <title>Selected Publications</title>
       <link>https://smart-researchteam.github.io/home/publications_selected/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
-      
+
       <guid>https://smart-researchteam.github.io/home/publications_selected/</guid>
       <description></description>
     </item>
-    
+
     <item>
       <title>Recent Publications</title>
       <link>https://smart-researchteam.github.io/home/publications/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
-      
+
       <guid>https://smart-researchteam.github.io/home/publications/</guid>
       <description></description>
     </item>
-    
+
     <item>
       <title>Recent &amp; Upcoming Talks</title>
       <link>https://smart-researchteam.github.io/home/talk/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
-      
+
       <guid>https://smart-researchteam.github.io/home/talk/</guid>
       <description></description>
     </item>
-    
+
     <item>
       <title>Recent Posts</title>
       <link>https://smart-researchteam.github.io/home/posts/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
-      
+
       <guid>https://smart-researchteam.github.io/home/posts/</guid>
       <description></description>
     </item>
-    
+
     <item>
       <title>Projects</title>
       <link>https://smart-researchteam.github.io/home/projects/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
-      
+
       <guid>https://smart-researchteam.github.io/home/projects/</guid>
       <description></description>
     </item>
-    
+
     <item>
       <title>Thesis</title>
       <link>https://smart-researchteam.github.io/home/students/</link>
       <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
-      
+
       <guid>https://smart-researchteam.github.io/home/students/</guid>
       <description></description>
     </item>
-    
+
     <item>
       <title>Tags</title>
       <link>https://smart-researchteam.github.io/home/tags/</link>
       <pubDate>Wed, 20 Sep 2017 00:00:00 +0200</pubDate>
-      
+
       <guid>https://smart-researchteam.github.io/home/tags/</guid>
       <description></description>
     </item>
-    
+
     <item>
       <title>Contact</title>
       <link>https://smart-researchteam.github.io/home/contact/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
-      
+
       <guid>https://smart-researchteam.github.io/home/contact/</guid>
       <description></description>
     </item>
-    
+
   </channel>
 </rss>

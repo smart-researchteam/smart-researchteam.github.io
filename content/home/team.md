@@ -79,11 +79,11 @@ weight = 10
     position = "Ph.D. CIFRE, Bombardier Transportation"
     worksAt = "UT2J, Toulouse"
 
-  [[team.students]]
-    img = "portrait.jpg"
-    name = "Saloua Bennani"
-    position = "Co-tutelle"
-    worksAt = "UT2J, Toulouse"
+  # [[team.students]]
+  #  img = "portrait.jpg"
+  #  name = "Saloua Bennani"
+  #  position = "Co-tutelle"
+  #  worksAt = "UT2J, Toulouse"
 
   [[team.students]]
     img = "portrait.jpg"
@@ -146,10 +146,10 @@ weight = 10
   # worksAt = "UT2J, Toulouse"
 
   [[team.students]]
-    img = "portrait.jpg"
-    name = "Saloua Bennani"
-    position = "Ph.D. Grant"
-    worksAt = "UT2J, Toulouse"
+  img = "portrait.jpg"
+  name = "Saloua Bennani"
+  position = "Ph.D. Grant"
+  worksAt = "UT2J, Toulouse"
 
   [[team.students]]
     img = "portrait.jpg"
@@ -159,15 +159,21 @@ weight = 10
 
   [[team.students]]
     img = "portrait.jpg"
-    name = "Alexandr Naumchev"
+    name = "Alexandre Naumchev"
     position = "Innopolis University"
     worksAt = "UPS, Toulouse"
 
   [[team.students]]
     img = "portrait.jpg"
-    name = " Abdeldjallal Otmani Nassim"
-    position = "Co-tutelle"
+    name = " Chabane Djeddi"
+    position = "Ph.D."
     worksAt = "UT2J, Toulouse"
+
+  [[team.students]]
+    img = "portrait.jpg"
+    name = "Samia Iltache"
+    position = "Ph.D."
+    worksAt = "UPS, Toulouse"
 
 
 # Associates
