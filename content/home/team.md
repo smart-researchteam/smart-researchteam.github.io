@@ -104,7 +104,7 @@ weight = 10
     worksAt = "UT2J, Toulouse"
 
   [[team.students]]
-   img = "florian.jpg"
+   img = "florian.png"
    name = "Florian Galinier"
    position = "Ph.D. Grant"
    worksAt = "UPS, Toulouse"
@@ -122,7 +122,7 @@ weight = 10
     worksAt = "UPS, Toulouse"
 
   [[team.students]]
-    img = "portrait.jpg"
+    img = "manu.JPG"
     name = "Manuel Leduc"
     position = "Pôle d'Excellence Cyber Grant"
     worksAt = "U. of Rennes"

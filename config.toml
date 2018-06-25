@@ -148,7 +148,7 @@ defaultContentLanguageInSubdir = false
   [[params.social]]
     icon = "twitter"
     icon_pack = "fa"
-    link = "//twitter.com/SmartResearchTeam"
+    link = "//twitter.com/SmartModelTeam"
 
   [[params.social]]
     icon = "github"
