@@ -1,6 +1,6 @@
 baseurl = "https://smart-researchteam.github.io/"  # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
 title = "SM@RT Team"
-copyright = "&copy; 2018. Last update: 2018/02/06"
+copyright = "&copy; 2018. Last update: 2018/07/10"
 theme = "academic"
 enableEmoji = true
 footnotereturnlinkcontents = "<sup>^</sup>"
