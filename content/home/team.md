@@ -1,14 +1,15 @@
 +++
 # Team widget.
+# This widget displays team members from `content/team/`.
 
-date = "2018-01-15"
+date = 2018-01-15
 draft = false
 
 title = "Our Team"
 subtitle = ""
 widget = "team"
 center = true
-
+# baseurl = "content/team/"
 # Order that this section will appear in.
 weight = 10
 
@@ -196,6 +197,5 @@ weight = 10
       ["fa-twitter", "https://twitter.com/elhamlaoui"],
       ["fa-linkedin", "https://www.linkedin.com/in/mahmoud-el-hamlaoui-466b8617/"]
     ]
-
 
 +++

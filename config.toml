@@ -211,6 +211,11 @@ defaultContentLanguageInSubdir = false
   url = "#contact"
   weight = 15
 
+[[menu.main]]
+  name = "Feed"
+  url = "#feed"
+  weight = 17
+
 # Taxonomies.
 [taxonomies]
   tag = "tags"

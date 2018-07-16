@@ -5,7 +5,16 @@
     
     <url>
     
-      <loc>https://smart-researchteam.github.io/student/mamadou/</loc>
+      <loc>https://smart-researchteam.github.io/team/</loc>
+      <lastmod>2018-06-26T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://smart-researchteam.github.io/team/student/mamadou/</loc>
       <lastmod>2018-02-06T00:00:00+00:00</lastmod>
     </url>
     
@@ -14,7 +23,7 @@
     
     <url>
     
-      <loc>https://smart-researchteam.github.io/student/megna/</loc>
+      <loc>https://smart-researchteam.github.io/team/student/megna/</loc>
       <lastmod>2018-02-06T00:00:00+00:00</lastmod>
     </url>
     
@@ -32,7 +41,7 @@
     
     <url>
     
-      <loc>https://smart-researchteam.github.io/student/renan/</loc>
+      <loc>https://smart-researchteam.github.io/team/student/renan/</loc>
       <lastmod>2018-01-16T00:00:00+00:00</lastmod>
     </url>
     
@@ -41,7 +50,7 @@
     
     <url>
     
-      <loc>https://smart-researchteam.github.io/student/maroun/</loc>
+      <loc>https://smart-researchteam.github.io/team/student/maroun/</loc>
       <lastmod>2018-01-16T00:00:00+00:00</lastmod>
     </url>
     
@@ -95,7 +104,7 @@
     
     <url>
     
-      <loc>https://smart-researchteam.github.io/student/coulon/</loc>
+      <loc>https://smart-researchteam.github.io/team/student/coulon/</loc>
       <lastmod>2017-10-19T00:00:00+00:00</lastmod>
     </url>
     
@@ -104,7 +113,7 @@
     
     <url>
     
-      <loc>https://smart-researchteam.github.io/student/sacha/</loc>
+      <loc>https://smart-researchteam.github.io/team/student/sacha/</loc>
       <lastmod>2017-10-19T00:00:00+00:00</lastmod>
     </url>
     
@@ -122,7 +131,7 @@
     
     <url>
     
-      <loc>https://smart-researchteam.github.io/student/anas/</loc>
+      <loc>https://smart-researchteam.github.io/team/student/anas/</loc>
       <lastmod>2017-10-19T00:00:00+00:00</lastmod>
     </url>
     
@@ -140,7 +149,7 @@
     
     <url>
     
-      <loc>https://smart-researchteam.github.io/student/ronan/</loc>
+      <loc>https://smart-researchteam.github.io/team/student/ronan/</loc>
       <lastmod>2017-10-19T00:00:00+00:00</lastmod>
     </url>
     
@@ -149,7 +158,7 @@
     
     <url>
     
-      <loc>https://smart-researchteam.github.io/student/jacob/</loc>
+      <loc>https://smart-researchteam.github.io/team/student/jacob/</loc>
       <lastmod>2017-10-19T00:00:00+00:00</lastmod>
     </url>
     
@@ -158,7 +167,7 @@
     
     <url>
     
-      <loc>https://smart-researchteam.github.io/student/florian/</loc>
+      <loc>https://smart-researchteam.github.io/team/student/florian/</loc>
       <lastmod>2017-10-19T00:00:00+00:00</lastmod>
     </url>
     
@@ -221,7 +230,7 @@
     
     <url>
     
-      <loc>https://smart-researchteam.github.io/student/leduc/</loc>
+      <loc>https://smart-researchteam.github.io/team/student/leduc/</loc>
       <lastmod>2016-11-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -230,7 +239,7 @@
     
     <url>
     
-      <loc>https://smart-researchteam.github.io/student/leroy/</loc>
+      <loc>https://smart-researchteam.github.io/team/student/leroy/</loc>
       <lastmod>2016-11-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -449,16 +458,6 @@
     
       <loc>https://smart-researchteam.github.io/</loc>
       <lastmod>2016-04-20T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://smart-researchteam.github.io/student/</loc>
-      <lastmod>2018-02-06T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
