@@ -80,13 +80,13 @@ weight = 10
     worksAt = "UT2J, Toulouse"
 
   [[team.students]]
-    img = "portrait.jpg"
+    img = "saloua.jpg"
     name = "Saloua Bennani"
     position = "Co-tutelle"
     worksAt = "UT2J, Toulouse"
 
   [[team.students]]
-    img = "portrait.jpg"
+    img = "chami.jpg"
     name = "Mohammad Chami"
     position = "Ph.D. Freelance"
     worksAt = "UPS, Toulouse"
