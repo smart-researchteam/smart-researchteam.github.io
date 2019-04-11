@@ -4,7 +4,7 @@ date = "2017-10-19"
 
 # Student Name.
 name = "Alexandr Naumchev"
-title = ""
+title = "Seamless Object Oriented Requirements"
 from = "2018-10-01"
 note = "Co-directed with Betrand Meyer. Innopolis University employee"
 

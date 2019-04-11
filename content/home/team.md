@@ -98,12 +98,6 @@ weight = 10
    worksAt = "UT2J, Toulouse"
 
   [[team.students]]
-    img = "fcoulon.png"
-    name = "Fabien Coulon"
-    position = "Ph.D. [CIFRE](http://gemoc.org/kaulua/), Obeo"
-    worksAt = "UT2J, Toulouse"
-
-  [[team.students]]
    img = "florian.jpg"
    name = "Florian Galinier"
    position = "Ph.D. Grant"
@@ -123,39 +117,9 @@ weight = 10
 
   [[team.students]]
     img = "portrait.jpg"
-    name = "Manuel Leduc"
-    position = "Pôle d'Excellence Cyber Grant"
-    worksAt = "U. of Rennes"
-
-  [[team.students]]
-    img = "portrait.jpg"
     name = "Renan Leroux"
     position = "IRT Saint Exupery Grant"
    worksAt = "UPS, Toulouse"
-
-  [[team.students]]
-    img = "portrait.jpg"
-    name = "Dorian Leroy"
-    position = "Ph.D. Austrian [Tetrabox](https://www.big.tuwien.ac.at/projects/40) project"
-    worksAt = "TU Wien, Austria"
-
-  [[team.students]]
-  img = "anael.jpg"
-  name = "Anaël Megna"
-  position = "Ph.D. CIFRE Safran Tech"
-  worksAt = "UT2J, Toulouse"
-  
-  [[team.students]]
-    img = "portrait.jpg"
-    name = "Saloua Bennani"
-    position = "Ph.D. Grant"
-    worksAt = "UT2J, Toulouse"
-
-  [[team.students]]
-    img = "portrait.jpg"
-    name = "Otmani Nassim Abdeldjallal"
-    position = "Ph.D. Cotutelle: UMMTO, UT2J"
-    worksAt = "UT2J, Toulouse"
 
   [[team.students]]
     img = "portrait.jpg"
@@ -168,7 +132,6 @@ weight = 10
     name = " Abdeldjallal Otmani Nassim"
     position = "Co-tutelle"
     worksAt = "UT2J, Toulouse"
-
 
 # Associates
 
@@ -191,5 +154,31 @@ weight = 10
       ["fa-linkedin", "https://www.linkedin.com/in/mahmoud-el-hamlaoui-466b8617/"]
     ]
 
+# Past / Archives
+
+#  [[team.students]]
+#    img = "fcoulon.png"
+#    name = "Fabien Coulon"
+#    position = "Ph.D. [CIFRE](http://gemoc.org/kaulua/), Obeo"
+#    worksAt = "UT2J, Toulouse"
+
+#  [[team.students]]
+#    img = "portrait.jpg"
+#    name = "Manuel Leduc"
+#    position = "Pôle d'Excellence Cyber Grant"
+#    worksAt = "U. of Rennes"
+
+#  [[team.students]]
+#    img = "portrait.jpg"
+#    name = "Dorian Leroy"
+#    position = "Ph.D. Austrian [Tetrabox](https://www.big.tuwien.ac.at/projects/40) project"
+#    worksAt = "TU Wien, Austria"
+
+#  [[team.students]]
+#  img = "anael.jpg"
+#  name = "Anaël Megna"
+#  position = "Ph.D. CIFRE Safran Tech"
+#  worksAt = "UT2J, Toulouse"
+  
 
 +++
