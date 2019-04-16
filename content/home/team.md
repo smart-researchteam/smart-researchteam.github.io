@@ -86,7 +86,7 @@ weight = 10
     worksAt = "UT2J, Toulouse"
 
   [[team.students]]
-    img = "chami.jpg"
+    img = "chami.png"
     name = "Mohammad Chami"
     position = "Ph.D. Freelance"
     worksAt = "UPS, Toulouse"
@@ -110,7 +110,7 @@ weight = 10
     worksAt = "UT2J, Toulouse"
 
   [[team.students]]
-    img = "portrait.jpg"
+    img = "maroun.jpg"
     name = "Maroun Koussaifi"
     position = "Ph.D. Grant"
     worksAt = "UPS, Toulouse"
@@ -122,7 +122,7 @@ weight = 10
    worksAt = "UPS, Toulouse"
 
   [[team.students]]
-    img = "portrait.jpg"
+    img = "naumchev.jpg"
     name = "Alexandr Naumchev"
     position = "Innopolis University"
     worksAt = "UPS, Toulouse"
