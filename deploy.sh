@@ -1,9 +1,17 @@
 #!/bin/bash
 
+# info for the rsync IRIT
+USER=bruel
+HOST=ftpintra.irit.fr
+DIR=/usr/local/WWW2/Equipes/SMART/site/   # might sometimes be empty!
+
 echo -e "\033[0;32mDeploying updates to GitHub...\033[0m"
 
 # Build the project.
 hugo # if using a theme, replace with `hugo -t <YOURTHEME>`
+
+# Deploy @ IRIT.
+rsync -avz --delete public/ ${USER}@${HOST}:${DIR}
 
 # Go To Public folder
 cd public
@@ -22,3 +30,5 @@ git push origin master
 
 # Come Back up to the Project Root
 cd ..
+
+exit 0
