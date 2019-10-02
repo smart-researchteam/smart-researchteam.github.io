@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Workbench on SM@RT Team</title>
-    <link>https://smart-researchteam.github.io/tags/workbench/</link>
-    <description>Recent content in Workbench on SM@RT Team</description>
+    <title>workbench on SM@RT Team</title>
+    <link>/SMART/site/tags/workbench/</link>
+    <description>Recent content in workbench on SM@RT Team</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018. Last update: 2018/07/10</copyright>
     <lastBuildDate>Thu, 19 Oct 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://smart-researchteam.github.io/tags/workbench/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/SMART/site/tags/workbench/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>GEMOC Initiative</title>
-      <link>https://smart-researchteam.github.io/project/gemoc/</link>
+      <link>/SMART/site/project/gemoc/</link>
       <pubDate>Thu, 19 Oct 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://smart-researchteam.github.io/project/gemoc/</guid>
-      <description></description>
+      <guid>/SMART/site/project/gemoc/</guid>
+      <description>GEMOC is an open and international initiative that aims to coordinate and disseminate the research results regarding the support of the coordinated use of various modeling languages that will lead to the concept of the globalization of modeling languages.</description>
     </item>
     
   </channel>
