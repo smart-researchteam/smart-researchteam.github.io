@@ -4,7 +4,7 @@ date = "2018-01-16"
 
 # Student Name.
 name = "Renan Leroux"
-title = "Gestion de la propriété intellectuelle dans la définition et le déploiement d'une approche basée modèle pour l'IS"
+title = "Méthodologie de conception de systèmes de simulations en entreprise étendue, basée sur l'ingénierie système dirigée par les modèles"
 from = "2016-10-01"
 note = "Co-directed with Ileana Ober and Marc Pantel. IRT Saint Exupery funding"
 external_link = ""
