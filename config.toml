@@ -1,12 +1,12 @@
 baseurl = "/SMART/site/"  # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
 title = "SM@RT Team"
-copyright = "&copy; 2018. Last update: 2018/07/10"
+copyright = "&copy; 2020. Last update: 2020/01/01"
 theme = "academic"
 enableEmoji = true
 footnotereturnlinkcontents = "<sup>^</sup>"
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 paginate = 10
-publishDir = "./public"
+publishDir = "."
 team = "SM@RT"
 
 # Enable comments by entering your Disqus shortname

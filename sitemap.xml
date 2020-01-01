@@ -1,11 +1,10 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
     
     
     <url>
     
-      <loc>https://smart-researchteam.github.io/student/bennani/</loc>
+      <loc>/SMART/site/student/bennani/</loc>
       <lastmod>2019-04-11T00:00:00+00:00</lastmod>
     </url>
     
@@ -14,7 +13,7 @@
     
     <url>
     
-      <loc>https://smart-researchteam.github.io/position/2019-phd-lang/</loc>
+      <loc>/SMART/site/tags/codiplomation/</loc>
       <lastmod>2019-04-11T00:00:00+00:00</lastmod>
     </url>
     
@@ -23,7 +22,79 @@
     
     <url>
     
-      <loc>https://smart-researchteam.github.io/student/mamadou/</loc>
+      <loc>/SMART/site/tags/current/</loc>
+      <lastmod>2019-04-11T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/SMART/site/position/2019-phd-lang/</loc>
+      <lastmod>2019-04-11T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/SMART/site/tags/phd/</loc>
+      <lastmod>2019-04-11T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/SMART/site/position/</loc>
+      <lastmod>2019-04-11T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/SMART/site/tags/sle/</loc>
+      <lastmod>2019-04-11T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/SMART/site/</loc>
+      <lastmod>2019-04-11T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/SMART/site/student/</loc>
+      <lastmod>2019-04-11T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/SMART/site/tags/</loc>
+      <lastmod>2019-04-11T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/SMART/site/student/mamadou/</loc>
       <lastmod>2018-02-06T00:00:00+00:00</lastmod>
     </url>
     
@@ -32,7 +103,7 @@
     
     <url>
     
-      <loc>https://smart-researchteam.github.io/talk/20180119-cerfacs/</loc>
+      <loc>/SMART/site/talk/20180119-cerfacs/</loc>
       <lastmod>2018-01-19T11:00:00+00:00</lastmod>
     </url>
     
@@ -41,7 +112,7 @@
     
     <url>
     
-      <loc>https://smart-researchteam.github.io/student/renan/</loc>
+      <loc>/SMART/site/tags/grant/</loc>
       <lastmod>2018-01-16T00:00:00+00:00</lastmod>
     </url>
     
@@ -50,7 +121,7 @@
     
     <url>
     
-      <loc>https://smart-researchteam.github.io/student/maroun/</loc>
+      <loc>/SMART/site/tags/indus/</loc>
       <lastmod>2018-01-16T00:00:00+00:00</lastmod>
     </url>
     
@@ -59,7 +130,25 @@
     
     <url>
     
-      <loc>https://smart-researchteam.github.io/talk/20171128-gemoc-irt/</loc>
+      <loc>/SMART/site/student/renan/</loc>
+      <lastmod>2018-01-16T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/SMART/site/student/maroun/</loc>
+      <lastmod>2018-01-16T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/SMART/site/talk/20171128-gemoc-irt/</loc>
       <lastmod>2017-11-28T00:00:00+00:00</lastmod>
     </url>
     
@@ -68,7 +157,7 @@
     
     <url>
     
-      <loc>https://smart-researchteam.github.io/position/2018-m2-reqs/</loc>
+      <loc>/SMART/site/position/2018-m2-reqs/</loc>
       <lastmod>2017-11-27T00:00:00+00:00</lastmod>
     </url>
     
@@ -77,7 +166,25 @@
     
     <url>
     
-      <loc>https://smart-researchteam.github.io/talk/20171119-cafe-irit/</loc>
+      <loc>/SMART/site/tags/exigences/</loc>
+      <lastmod>2017-11-27T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/SMART/site/tags/m2/</loc>
+      <lastmod>2017-11-27T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/SMART/site/talk/20171119-cafe-irit/</loc>
       <lastmod>2017-11-19T00:00:00+00:00</lastmod>
     </url>
     
@@ -86,7 +193,7 @@
     
     <url>
     
-      <loc>https://smart-researchteam.github.io/project/bombardier/</loc>
+      <loc>/SMART/site/project/bombardier/</loc>
       <lastmod>2017-11-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -95,7 +202,43 @@
     
     <url>
     
-      <loc>https://smart-researchteam.github.io/teaching/mobilemodeling/</loc>
+      <loc>/SMART/site/tags/lean/</loc>
+      <lastmod>2017-11-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/SMART/site/tags/mbse/</loc>
+      <lastmod>2017-11-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/SMART/site/project/</loc>
+      <lastmod>2017-11-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/SMART/site/tags/validation/</loc>
+      <lastmod>2017-11-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/SMART/site/teaching/mobilemodeling/</loc>
       <lastmod>2017-10-20T00:00:00+00:00</lastmod>
     </url>
     
@@ -104,7 +247,16 @@
     
     <url>
     
-      <loc>https://smart-researchteam.github.io/project/gemoc/</loc>
+      <loc>/SMART/site/teaching/</loc>
+      <lastmod>2017-10-20T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/SMART/site/tags/collaboration/</loc>
       <lastmod>2017-10-19T00:00:00+00:00</lastmod>
     </url>
     
@@ -113,7 +265,7 @@
     
     <url>
     
-      <loc>https://smart-researchteam.github.io/student/anas/</loc>
+      <loc>/SMART/site/project/gemoc/</loc>
       <lastmod>2017-10-19T00:00:00+00:00</lastmod>
     </url>
     
@@ -122,7 +274,7 @@
     
     <url>
     
-      <loc>https://smart-researchteam.github.io/project/moise/</loc>
+      <loc>/SMART/site/tags/globalization/</loc>
       <lastmod>2017-10-19T00:00:00+00:00</lastmod>
     </url>
     
@@ -131,7 +283,7 @@
     
     <url>
     
-      <loc>https://smart-researchteam.github.io/student/ronan/</loc>
+      <loc>/SMART/site/student/anas/</loc>
       <lastmod>2017-10-19T00:00:00+00:00</lastmod>
     </url>
     
@@ -140,7 +292,7 @@
     
     <url>
     
-      <loc>https://smart-researchteam.github.io/student/jacob/</loc>
+      <loc>/SMART/site/tags/language/</loc>
       <lastmod>2017-10-19T00:00:00+00:00</lastmod>
     </url>
     
@@ -149,7 +301,7 @@
     
     <url>
     
-      <loc>https://smart-researchteam.github.io/student/sacha/</loc>
+      <loc>/SMART/site/project/moise/</loc>
       <lastmod>2017-10-19T00:00:00+00:00</lastmod>
     </url>
     
@@ -158,7 +310,7 @@
     
     <url>
     
-      <loc>https://smart-researchteam.github.io/student/florian/</loc>
+      <loc>/SMART/site/student/ronan/</loc>
       <lastmod>2017-10-19T00:00:00+00:00</lastmod>
     </url>
     
@@ -167,7 +319,61 @@
     
     <url>
     
-      <loc>https://smart-researchteam.github.io/talk/20171012-cs-irit/</loc>
+      <loc>/SMART/site/student/jacob/</loc>
+      <lastmod>2017-10-19T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/SMART/site/tags/past/</loc>
+      <lastmod>2017-10-19T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/SMART/site/tags/requirements/</loc>
+      <lastmod>2017-10-19T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/SMART/site/student/florian/</loc>
+      <lastmod>2017-10-19T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/SMART/site/student/sacha/</loc>
+      <lastmod>2017-10-19T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/SMART/site/tags/workbench/</loc>
+      <lastmod>2017-10-19T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/SMART/site/talk/20171012-cs-irit/</loc>
       <lastmod>2017-10-12T00:00:00+00:00</lastmod>
     </url>
     
@@ -176,7 +382,7 @@
     
     <url>
     
-      <loc>https://smart-researchteam.github.io/publication/mmbge17/</loc>
+      <loc>/SMART/site/publication_types/2/</loc>
       <lastmod>2017-06-07T00:00:00+00:00</lastmod>
     </url>
     
@@ -185,7 +391,25 @@
     
     <url>
     
-      <loc>https://smart-researchteam.github.io/teaching/innopolis/</loc>
+      <loc>/SMART/site/publication/mmbge17/</loc>
+      <lastmod>2017-06-07T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/SMART/site/publication_types/</loc>
+      <lastmod>2017-06-07T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/SMART/site/teaching/innopolis/</loc>
       <lastmod>2017-04-20T00:00:00+00:00</lastmod>
     </url>
     
@@ -194,7 +418,7 @@
     
     <url>
     
-      <loc>https://smart-researchteam.github.io/tags/academic/</loc>
+      <loc>/SMART/site/tags/academic/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -203,7 +427,7 @@
     
     <url>
     
-      <loc>https://smart-researchteam.github.io/publication/</loc>
+      <loc>/SMART/site/publication/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -212,7 +436,7 @@
     
     <url>
     
-      <loc>https://smart-researchteam.github.io/talk/</loc>
+      <loc>/SMART/site/talk/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -221,7 +445,7 @@
     
     <url>
     
-      <loc>https://smart-researchteam.github.io/publication/models16/</loc>
+      <loc>/SMART/site/publication_types/1/</loc>
       <lastmod>2016-10-03T00:00:00+00:00</lastmod>
     </url>
     
@@ -230,9 +454,8 @@
     
     <url>
     
-      <loc>https://smart-researchteam.github.io/publication_types/1/</loc>
+      <loc>/SMART/site/publication/models16/</loc>
       <lastmod>2016-10-03T00:00:00+00:00</lastmod>
-      <priority>0</priority>
     </url>
     
   
@@ -240,258 +463,7 @@
     
     <url>
     
-      <loc>https://smart-researchteam.github.io/publication_types/2/</loc>
-      <lastmod>2017-06-07T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://smart-researchteam.github.io/categories/</loc>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://smart-researchteam.github.io/tags/codiplomation/</loc>
-      <lastmod>2019-04-11T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://smart-researchteam.github.io/tags/collaboration/</loc>
-      <lastmod>2017-10-19T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://smart-researchteam.github.io/tags/current/</loc>
-      <lastmod>2019-04-11T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://smart-researchteam.github.io/tags/exigences/</loc>
-      <lastmod>2017-11-27T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://smart-researchteam.github.io/tags/globalization/</loc>
-      <lastmod>2017-10-19T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://smart-researchteam.github.io/tags/grant/</loc>
-      <lastmod>2018-01-16T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://smart-researchteam.github.io/tags/indus/</loc>
-      <lastmod>2018-01-16T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://smart-researchteam.github.io/tags/language/</loc>
-      <lastmod>2017-10-19T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://smart-researchteam.github.io/tags/lean/</loc>
-      <lastmod>2017-11-01T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://smart-researchteam.github.io/tags/m2/</loc>
-      <lastmod>2017-11-27T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://smart-researchteam.github.io/tags/mbse/</loc>
-      <lastmod>2017-11-01T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://smart-researchteam.github.io/tags/past/</loc>
-      <lastmod>2017-10-19T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://smart-researchteam.github.io/tags/phd/</loc>
-      <lastmod>2019-04-11T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://smart-researchteam.github.io/position/</loc>
-      <lastmod>2019-04-11T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://smart-researchteam.github.io/project/</loc>
-      <lastmod>2017-11-01T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://smart-researchteam.github.io/publication_types/</loc>
-      <lastmod>2016-10-03T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://smart-researchteam.github.io/tags/requirements/</loc>
-      <lastmod>2017-10-19T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://smart-researchteam.github.io/</loc>
-      <lastmod>2016-04-20T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://smart-researchteam.github.io/tags/sle/</loc>
-      <lastmod>2019-04-11T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://smart-researchteam.github.io/student/</loc>
-      <lastmod>2019-04-11T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://smart-researchteam.github.io/tags/</loc>
-      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://smart-researchteam.github.io/teaching/</loc>
-      <lastmod>2017-10-20T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://smart-researchteam.github.io/tags/validation/</loc>
-      <lastmod>2017-11-01T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://smart-researchteam.github.io/tags/workbench/</loc>
-      <lastmod>2017-10-19T00:00:00+00:00</lastmod>
-      <priority>0</priority>
+      <loc>/SMART/site/categories/</loc>
     </url>
     
   
