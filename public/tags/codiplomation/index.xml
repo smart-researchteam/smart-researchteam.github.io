@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>codiplomation | SM@RT Team</title>
+    <link>https://smart-researchteam.github.io/tags/codiplomation/</link>
+      <atom:link href="https://smart-researchteam.github.io/tags/codiplomation/index.xml" rel="self" type="application/rss+xml" />
+    <description>codiplomation</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020. Last update: 2020/01/01</copyright><lastBuildDate>Thu, 11 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Alignement collaboratif de modèles de conception hétérogènes</title>
+      <link>https://smart-researchteam.github.io/student/bennani/</link>
+      <pubDate>Thu, 11 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>https://smart-researchteam.github.io/student/bennani/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Collaborative processes behavioral modeling and enacting</title>
+      <link>https://smart-researchteam.github.io/student/mamadou/</link>
+      <pubDate>Tue, 06 Feb 2018 00:00:00 +0000</pubDate>
+      <guid>https://smart-researchteam.github.io/student/mamadou/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
