@@ -2,175 +2,175 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on SM@RT Team</title>
-    <link>/SMART/site/tags/</link>
+    <link>https://smart-researchteam.github.io/tags/</link>
     <description>Recent content in Tags on SM@RT Team</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2018. Last update: 2018/07/10</copyright>
+    <copyright>&amp;copy; 2020. Last update: 2020/01/01</copyright>
     <lastBuildDate>Thu, 11 Apr 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/SMART/site/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://smart-researchteam.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>codiplomation</title>
-      <link>/SMART/site/tags/codiplomation/</link>
+      <link>https://smart-researchteam.github.io/tags/codiplomation/</link>
       <pubDate>Thu, 11 Apr 2019 00:00:00 +0000</pubDate>
       
-      <guid>/SMART/site/tags/codiplomation/</guid>
+      <guid>https://smart-researchteam.github.io/tags/codiplomation/</guid>
       <description></description>
     </item>
     
     <item>
       <title>current</title>
-      <link>/SMART/site/tags/current/</link>
+      <link>https://smart-researchteam.github.io/tags/current/</link>
       <pubDate>Thu, 11 Apr 2019 00:00:00 +0000</pubDate>
       
-      <guid>/SMART/site/tags/current/</guid>
+      <guid>https://smart-researchteam.github.io/tags/current/</guid>
       <description></description>
     </item>
     
     <item>
       <title>PhD</title>
-      <link>/SMART/site/tags/phd/</link>
+      <link>https://smart-researchteam.github.io/tags/phd/</link>
       <pubDate>Thu, 11 Apr 2019 00:00:00 +0000</pubDate>
       
-      <guid>/SMART/site/tags/phd/</guid>
+      <guid>https://smart-researchteam.github.io/tags/phd/</guid>
       <description></description>
     </item>
     
     <item>
       <title>SLE</title>
-      <link>/SMART/site/tags/sle/</link>
+      <link>https://smart-researchteam.github.io/tags/sle/</link>
       <pubDate>Thu, 11 Apr 2019 00:00:00 +0000</pubDate>
       
-      <guid>/SMART/site/tags/sle/</guid>
+      <guid>https://smart-researchteam.github.io/tags/sle/</guid>
       <description></description>
     </item>
     
     <item>
       <title>grant</title>
-      <link>/SMART/site/tags/grant/</link>
+      <link>https://smart-researchteam.github.io/tags/grant/</link>
       <pubDate>Tue, 16 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>/SMART/site/tags/grant/</guid>
+      <guid>https://smart-researchteam.github.io/tags/grant/</guid>
       <description></description>
     </item>
     
     <item>
       <title>indus</title>
-      <link>/SMART/site/tags/indus/</link>
+      <link>https://smart-researchteam.github.io/tags/indus/</link>
       <pubDate>Tue, 16 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>/SMART/site/tags/indus/</guid>
+      <guid>https://smart-researchteam.github.io/tags/indus/</guid>
       <description></description>
     </item>
     
     <item>
       <title>exigences</title>
-      <link>/SMART/site/tags/exigences/</link>
+      <link>https://smart-researchteam.github.io/tags/exigences/</link>
       <pubDate>Mon, 27 Nov 2017 00:00:00 +0000</pubDate>
       
-      <guid>/SMART/site/tags/exigences/</guid>
+      <guid>https://smart-researchteam.github.io/tags/exigences/</guid>
       <description></description>
     </item>
     
     <item>
       <title>M2</title>
-      <link>/SMART/site/tags/m2/</link>
+      <link>https://smart-researchteam.github.io/tags/m2/</link>
       <pubDate>Mon, 27 Nov 2017 00:00:00 +0000</pubDate>
       
-      <guid>/SMART/site/tags/m2/</guid>
+      <guid>https://smart-researchteam.github.io/tags/m2/</guid>
       <description></description>
     </item>
     
     <item>
       <title>lean</title>
-      <link>/SMART/site/tags/lean/</link>
+      <link>https://smart-researchteam.github.io/tags/lean/</link>
       <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
       
-      <guid>/SMART/site/tags/lean/</guid>
+      <guid>https://smart-researchteam.github.io/tags/lean/</guid>
       <description></description>
     </item>
     
     <item>
       <title>mbse</title>
-      <link>/SMART/site/tags/mbse/</link>
+      <link>https://smart-researchteam.github.io/tags/mbse/</link>
       <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
       
-      <guid>/SMART/site/tags/mbse/</guid>
+      <guid>https://smart-researchteam.github.io/tags/mbse/</guid>
       <description></description>
     </item>
     
     <item>
       <title>validation</title>
-      <link>/SMART/site/tags/validation/</link>
+      <link>https://smart-researchteam.github.io/tags/validation/</link>
       <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
       
-      <guid>/SMART/site/tags/validation/</guid>
+      <guid>https://smart-researchteam.github.io/tags/validation/</guid>
       <description></description>
     </item>
     
     <item>
       <title>collaboration</title>
-      <link>/SMART/site/tags/collaboration/</link>
+      <link>https://smart-researchteam.github.io/tags/collaboration/</link>
       <pubDate>Thu, 19 Oct 2017 00:00:00 +0000</pubDate>
       
-      <guid>/SMART/site/tags/collaboration/</guid>
+      <guid>https://smart-researchteam.github.io/tags/collaboration/</guid>
       <description></description>
     </item>
     
     <item>
       <title>globalization</title>
-      <link>/SMART/site/tags/globalization/</link>
+      <link>https://smart-researchteam.github.io/tags/globalization/</link>
       <pubDate>Thu, 19 Oct 2017 00:00:00 +0000</pubDate>
       
-      <guid>/SMART/site/tags/globalization/</guid>
+      <guid>https://smart-researchteam.github.io/tags/globalization/</guid>
       <description></description>
     </item>
     
     <item>
       <title>language</title>
-      <link>/SMART/site/tags/language/</link>
+      <link>https://smart-researchteam.github.io/tags/language/</link>
       <pubDate>Thu, 19 Oct 2017 00:00:00 +0000</pubDate>
       
-      <guid>/SMART/site/tags/language/</guid>
+      <guid>https://smart-researchteam.github.io/tags/language/</guid>
       <description></description>
     </item>
     
     <item>
       <title>past</title>
-      <link>/SMART/site/tags/past/</link>
+      <link>https://smart-researchteam.github.io/tags/past/</link>
       <pubDate>Thu, 19 Oct 2017 00:00:00 +0000</pubDate>
       
-      <guid>/SMART/site/tags/past/</guid>
+      <guid>https://smart-researchteam.github.io/tags/past/</guid>
       <description></description>
     </item>
     
     <item>
       <title>requirements</title>
-      <link>/SMART/site/tags/requirements/</link>
+      <link>https://smart-researchteam.github.io/tags/requirements/</link>
       <pubDate>Thu, 19 Oct 2017 00:00:00 +0000</pubDate>
       
-      <guid>/SMART/site/tags/requirements/</guid>
+      <guid>https://smart-researchteam.github.io/tags/requirements/</guid>
       <description></description>
     </item>
     
     <item>
       <title>workbench</title>
-      <link>/SMART/site/tags/workbench/</link>
+      <link>https://smart-researchteam.github.io/tags/workbench/</link>
       <pubDate>Thu, 19 Oct 2017 00:00:00 +0000</pubDate>
       
-      <guid>/SMART/site/tags/workbench/</guid>
+      <guid>https://smart-researchteam.github.io/tags/workbench/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Content tagged as &#39;Academic&#39;</title>
-      <link>/SMART/site/tags/academic/</link>
+      <link>https://smart-researchteam.github.io/tags/academic/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>/SMART/site/tags/academic/</guid>
+      <guid>https://smart-researchteam.github.io/tags/academic/</guid>
       <description>Here is a list of all the content that has been tagged as academic.</description>
     </item>
     

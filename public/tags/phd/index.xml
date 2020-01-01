@@ -2,103 +2,103 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>PhD on SM@RT Team</title>
-    <link>/SMART/site/tags/phd/</link>
+    <link>https://smart-researchteam.github.io/tags/phd/</link>
     <description>Recent content in PhD on SM@RT Team</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2018. Last update: 2018/07/10</copyright>
+    <copyright>&amp;copy; 2020. Last update: 2020/01/01</copyright>
     <lastBuildDate>Thu, 11 Apr 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/SMART/site/tags/phd/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://smart-researchteam.github.io/tags/phd/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Alignement collaboratif de modèles de conception hétérogènes</title>
-      <link>/SMART/site/student/bennani/</link>
+      <link>https://smart-researchteam.github.io/student/bennani/</link>
       <pubDate>Thu, 11 Apr 2019 00:00:00 +0000</pubDate>
       
-      <guid>/SMART/site/student/bennani/</guid>
+      <guid>https://smart-researchteam.github.io/student/bennani/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Language Engineering</title>
-      <link>/SMART/site/position/2019-phd-lang/</link>
+      <link>https://smart-researchteam.github.io/position/2019-phd-lang/</link>
       <pubDate>Thu, 11 Apr 2019 00:00:00 +0000</pubDate>
       
-      <guid>/SMART/site/position/2019-phd-lang/</guid>
+      <guid>https://smart-researchteam.github.io/position/2019-phd-lang/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Collaborative processes behavioral modeling and enacting</title>
-      <link>/SMART/site/student/mamadou/</link>
+      <link>https://smart-researchteam.github.io/student/mamadou/</link>
       <pubDate>Tue, 06 Feb 2018 00:00:00 +0000</pubDate>
       
-      <guid>/SMART/site/student/mamadou/</guid>
+      <guid>https://smart-researchteam.github.io/student/mamadou/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Méthodologie de conception de systèmes de simulations en entreprise étendue, basée sur l&#39;ingénierie système dirigée par les modèles</title>
-      <link>/SMART/site/student/renan/</link>
+      <link>https://smart-researchteam.github.io/student/renan/</link>
       <pubDate>Tue, 16 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>/SMART/site/student/renan/</guid>
+      <guid>https://smart-researchteam.github.io/student/renan/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Smart User-Centric Modeling using Opportunistic Artefact Compositions</title>
-      <link>/SMART/site/student/maroun/</link>
+      <link>https://smart-researchteam.github.io/student/maroun/</link>
       <pubDate>Tue, 16 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>/SMART/site/student/maroun/</guid>
+      <guid>https://smart-researchteam.github.io/student/maroun/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Ingénierie des architectures logicielles sécurisées : patrons, modèles et analyses</title>
-      <link>/SMART/site/student/anas/</link>
+      <link>https://smart-researchteam.github.io/student/anas/</link>
       <pubDate>Thu, 19 Oct 2017 00:00:00 +0000</pubDate>
       
-      <guid>/SMART/site/student/anas/</guid>
+      <guid>https://smart-researchteam.github.io/student/anas/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Méthode outillée d&#39;intégration et de validation des modèles d&#39;un système de train</title>
-      <link>/SMART/site/student/ronan/</link>
+      <link>https://smart-researchteam.github.io/student/ronan/</link>
       <pubDate>Thu, 19 Oct 2017 00:00:00 +0000</pubDate>
       
-      <guid>/SMART/site/student/ronan/</guid>
+      <guid>https://smart-researchteam.github.io/student/ronan/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Méthodologie de conception et de mise en oeuvre au niveau système de la S&amp;D pour les RCES dynamiquement reconfigurables</title>
-      <link>/SMART/site/student/jacob/</link>
+      <link>https://smart-researchteam.github.io/student/jacob/</link>
       <pubDate>Thu, 19 Oct 2017 00:00:00 +0000</pubDate>
       
-      <guid>/SMART/site/student/jacob/</guid>
+      <guid>https://smart-researchteam.github.io/student/jacob/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Seamless development of complex systems: a multirequirements approach</title>
-      <link>/SMART/site/student/florian/</link>
+      <link>https://smart-researchteam.github.io/student/florian/</link>
       <pubDate>Thu, 19 Oct 2017 00:00:00 +0000</pubDate>
       
-      <guid>/SMART/site/student/florian/</guid>
+      <guid>https://smart-researchteam.github.io/student/florian/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Seamless Object Oriented Requirements</title>
-      <link>/SMART/site/student/sacha/</link>
+      <link>https://smart-researchteam.github.io/student/sacha/</link>
       <pubDate>Thu, 19 Oct 2017 00:00:00 +0000</pubDate>
       
-      <guid>/SMART/site/student/sacha/</guid>
+      <guid>https://smart-researchteam.github.io/student/sacha/</guid>
       <description></description>
     </item>
     
