@@ -1,9 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
+<<<<<<< HEAD
     <title>lean on SM@RT Team</title>
     <link>https://smart-researchteam.github.io/tags/lean/</link>
     <description>Recent content in lean on SM@RT Team</description>
+=======
+    <title>Lean on SM@RT Team</title>
+    <link>https://smart-researchteam.github.io/tags/lean/</link>
+    <description>Recent content in Lean on SM@RT Team</description>
+>>>>>>> parent of ff27a08... synchro avec site IRIT
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2020. Last update: 2020/01/01</copyright>
@@ -18,7 +24,11 @@
       <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
       
       <guid>https://smart-researchteam.github.io/project/bombardier/</guid>
+<<<<<<< HEAD
       <description>An integrated model-based early validation approach for Railway Systems</description>
+=======
+      <description></description>
+>>>>>>> parent of ff27a08... synchro avec site IRIT
     </item>
     
   </channel>

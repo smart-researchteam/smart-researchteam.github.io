@@ -1,9 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
+<<<<<<< HEAD
     <title>past on SM@RT Team</title>
     <link>https://smart-researchteam.github.io/tags/past/</link>
     <description>Recent content in past on SM@RT Team</description>
+=======
+    <title>Past on SM@RT Team</title>
+    <link>https://smart-researchteam.github.io/tags/past/</link>
+    <description>Recent content in Past on SM@RT Team</description>
+>>>>>>> parent of ff27a08... synchro avec site IRIT
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2020. Last update: 2020/01/01</copyright>

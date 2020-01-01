@@ -6,7 +6,7 @@ enableEmoji = true
 footnotereturnlinkcontents = "<sup>^</sup>"
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 paginate = 10
-publishDir = "./public"
+publishDir = "./"
 team = "SM@RT"
 
 # Enable comments by entering your Disqus shortname

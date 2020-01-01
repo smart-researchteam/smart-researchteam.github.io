@@ -31,7 +31,11 @@
     </item>
     
     <item>
+<<<<<<< HEAD
       <title>Méthodologie de conception de systèmes de simulations en entreprise étendue, basée sur l&#39;ingénierie système dirigée par les modèles</title>
+=======
+      <title>Gestion de la propriété intellectuelle dans la définition et le déploiement d&#39;une approche basée modèle pour l&#39;IS</title>
+>>>>>>> parent of ff27a08... synchro avec site IRIT
       <link>https://smart-researchteam.github.io/student/renan/</link>
       <pubDate>Tue, 16 Jan 2018 00:00:00 +0000</pubDate>
       
@@ -76,20 +80,36 @@
     </item>
     
     <item>
+<<<<<<< HEAD
       <title>Seamless development of complex systems: a multirequirements approach</title>
       <link>https://smart-researchteam.github.io/student/florian/</link>
       <pubDate>Thu, 19 Oct 2017 00:00:00 +0000</pubDate>
       
       <guid>https://smart-researchteam.github.io/student/florian/</guid>
-      <description></description>
-    </item>
-    
-    <item>
+=======
       <title>Seamless Object Oriented Requirements</title>
       <link>https://smart-researchteam.github.io/student/sacha/</link>
       <pubDate>Thu, 19 Oct 2017 00:00:00 +0000</pubDate>
       
       <guid>https://smart-researchteam.github.io/student/sacha/</guid>
+>>>>>>> parent of ff27a08... synchro avec site IRIT
+      <description></description>
+    </item>
+    
+    <item>
+<<<<<<< HEAD
+      <title>Seamless Object Oriented Requirements</title>
+      <link>https://smart-researchteam.github.io/student/sacha/</link>
+      <pubDate>Thu, 19 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://smart-researchteam.github.io/student/sacha/</guid>
+=======
+      <title>Seamless development of complex systems: a multirequirements approach</title>
+      <link>https://smart-researchteam.github.io/student/florian/</link>
+      <pubDate>Thu, 19 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://smart-researchteam.github.io/student/florian/</guid>
+>>>>>>> parent of ff27a08... synchro avec site IRIT
       <description></description>
     </item>
     

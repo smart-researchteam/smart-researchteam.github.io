@@ -1,9 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
+<<<<<<< HEAD
     <title>workbench on SM@RT Team</title>
     <link>https://smart-researchteam.github.io/tags/workbench/</link>
     <description>Recent content in workbench on SM@RT Team</description>
+=======
+    <title>Workbench on SM@RT Team</title>
+    <link>https://smart-researchteam.github.io/tags/workbench/</link>
+    <description>Recent content in Workbench on SM@RT Team</description>
+>>>>>>> parent of ff27a08... synchro avec site IRIT
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2020. Last update: 2020/01/01</copyright>
@@ -18,7 +24,11 @@
       <pubDate>Thu, 19 Oct 2017 00:00:00 +0000</pubDate>
       
       <guid>https://smart-researchteam.github.io/project/gemoc/</guid>
+<<<<<<< HEAD
       <description>GEMOC is an open and international initiative that aims to coordinate and disseminate the research results regarding the support of the coordinated use of various modeling languages that will lead to the concept of the globalization of modeling languages.</description>
+=======
+      <description></description>
+>>>>>>> parent of ff27a08... synchro avec site IRIT
     </item>
     
   </channel>
