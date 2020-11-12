@@ -2,49 +2,49 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Recent &amp; Upcoming Talks on SM@RT Team</title>
-    <link>/SMART/site/talk/</link>
+    <link>talk/</link>
     <description>Recent content in Recent &amp; Upcoming Talks on SM@RT Team</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2020. Last update: 2020/01/01</copyright>
     <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/SMART/site/talk/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="talk/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Ingénierie Dirigée par les Modèles et Domain Specific Languages : application à la simulation numérique haute-performance</title>
-      <link>/SMART/site/talk/20180119-cerfacs/</link>
+      <link>talk/20180119-cerfacs/</link>
       <pubDate>Fri, 19 Jan 2018 11:00:00 +0000</pubDate>
       
-      <guid>/SMART/site/talk/20180119-cerfacs/</guid>
+      <guid>talk/20180119-cerfacs/</guid>
       <description></description>
     </item>
     
     <item>
       <title>GEMOC pour le MBSE/MBSA</title>
-      <link>/SMART/site/talk/20171128-gemoc-irt/</link>
+      <link>talk/20171128-gemoc-irt/</link>
       <pubDate>Tue, 28 Nov 2017 00:00:00 +0000</pubDate>
       
-      <guid>/SMART/site/talk/20171128-gemoc-irt/</guid>
+      <guid>talk/20171128-gemoc-irt/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Défilé de modèles</title>
-      <link>/SMART/site/talk/20171119-cafe-irit/</link>
+      <link>talk/20171119-cafe-irit/</link>
       <pubDate>Sun, 19 Nov 2017 00:00:00 +0000</pubDate>
       
-      <guid>/SMART/site/talk/20171119-cafe-irit/</guid>
+      <guid>talk/20171119-cafe-irit/</guid>
       <description></description>
     </item>
     
     <item>
       <title>New SM@RT team presentation</title>
-      <link>/SMART/site/talk/20171012-cs-irit/</link>
+      <link>talk/20171012-cs-irit/</link>
       <pubDate>Thu, 12 Oct 2017 00:00:00 +0000</pubDate>
       
-      <guid>/SMART/site/talk/20171012-cs-irit/</guid>
+      <guid>talk/20171012-cs-irit/</guid>
       <description></description>
     </item>
     

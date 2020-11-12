@@ -2,103 +2,103 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Homes on SM@RT Team</title>
-    <link>/SMART/site/home/</link>
+    <link>home/</link>
     <description>Recent content in Homes on SM@RT Team</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2020. Last update: 2020/01/01</copyright>
     <lastBuildDate>Mon, 15 Jan 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/SMART/site/home/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="home/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title></title>
-      <link>/SMART/site/home/about/</link>
+      <link>home/about/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>/SMART/site/home/about/</guid>
+      <guid>home/about/</guid>
       <description>Smart Modeling for softw@re Research &amp;amp; Technology SM@RT is a great software engineering team of the Reliability of Systems and Software department that specializes in software agility and safety for cyber-physical systems. The team explores new foundations, and develops ground-breaking tools and methods for modeling and software languages (domain-specific languages, specification languages, programming and modeling languages), with a particular focus on the scientific breakthroughs related to socio-technical coordination (heterogeneity of models and execution platforms, final user in the loop, etc.</description>
     </item>
     
     <item>
       <title>Our Team</title>
-      <link>/SMART/site/home/team/</link>
+      <link>home/team/</link>
       <pubDate>Mon, 15 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>/SMART/site/home/team/</guid>
+      <guid>home/team/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Selected Publications</title>
-      <link>/SMART/site/home/publications_selected/</link>
+      <link>home/publications_selected/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
       
-      <guid>/SMART/site/home/publications_selected/</guid>
+      <guid>home/publications_selected/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Recent Publications</title>
-      <link>/SMART/site/home/publications/</link>
+      <link>home/publications/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
       
-      <guid>/SMART/site/home/publications/</guid>
+      <guid>home/publications/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Recent &amp; Upcoming Talks</title>
-      <link>/SMART/site/home/talk/</link>
+      <link>home/talk/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>/SMART/site/home/talk/</guid>
+      <guid>home/talk/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Recent Posts</title>
-      <link>/SMART/site/home/posts/</link>
+      <link>home/posts/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>/SMART/site/home/posts/</guid>
+      <guid>home/posts/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Projects</title>
-      <link>/SMART/site/home/projects/</link>
+      <link>home/projects/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>/SMART/site/home/projects/</guid>
+      <guid>home/projects/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Thesis</title>
-      <link>/SMART/site/home/students/</link>
+      <link>home/students/</link>
       <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
       
-      <guid>/SMART/site/home/students/</guid>
+      <guid>home/students/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tags</title>
-      <link>/SMART/site/home/tags/</link>
+      <link>home/tags/</link>
       <pubDate>Wed, 20 Sep 2017 00:00:00 +0200</pubDate>
       
-      <guid>/SMART/site/home/tags/</guid>
+      <guid>home/tags/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Contact</title>
-      <link>/SMART/site/home/contact/</link>
+      <link>home/contact/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>/SMART/site/home/contact/</guid>
+      <guid>home/contact/</guid>
       <description></description>
     </item>
     

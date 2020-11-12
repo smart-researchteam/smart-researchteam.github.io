@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>M2 on SM@RT Team</title>
-    <link>/SMART/site/tags/m2/</link>
+    <link>tags/m2/</link>
     <description>Recent content in M2 on SM@RT Team</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2020. Last update: 2020/01/01</copyright>
     <lastBuildDate>Mon, 27 Nov 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/SMART/site/tags/m2/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="tags/m2/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Développement d&#39;un langage centré utilisateur pour l&#39;expression des exigences</title>
-      <link>/SMART/site/position/2018-m2-reqs/</link>
+      <link>position/2018-m2-reqs/</link>
       <pubDate>Mon, 27 Nov 2017 00:00:00 +0000</pubDate>
       
-      <guid>/SMART/site/position/2018-m2-reqs/</guid>
+      <guid>position/2018-m2-reqs/</guid>
       <description></description>
     </item>
     

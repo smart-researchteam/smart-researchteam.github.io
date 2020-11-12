@@ -2,175 +2,175 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on SM@RT Team</title>
-    <link>/SMART/site/tags/</link>
+    <link>tags/</link>
     <description>Recent content in Tags on SM@RT Team</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2020. Last update: 2020/01/01</copyright>
     <lastBuildDate>Thu, 11 Apr 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/SMART/site/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>codiplomation</title>
-      <link>/SMART/site/tags/codiplomation/</link>
+      <link>tags/codiplomation/</link>
       <pubDate>Thu, 11 Apr 2019 00:00:00 +0000</pubDate>
       
-      <guid>/SMART/site/tags/codiplomation/</guid>
+      <guid>tags/codiplomation/</guid>
       <description></description>
     </item>
     
     <item>
       <title>current</title>
-      <link>/SMART/site/tags/current/</link>
+      <link>tags/current/</link>
       <pubDate>Thu, 11 Apr 2019 00:00:00 +0000</pubDate>
       
-      <guid>/SMART/site/tags/current/</guid>
+      <guid>tags/current/</guid>
       <description></description>
     </item>
     
     <item>
       <title>PhD</title>
-      <link>/SMART/site/tags/phd/</link>
+      <link>tags/phd/</link>
       <pubDate>Thu, 11 Apr 2019 00:00:00 +0000</pubDate>
       
-      <guid>/SMART/site/tags/phd/</guid>
+      <guid>tags/phd/</guid>
       <description></description>
     </item>
     
     <item>
       <title>SLE</title>
-      <link>/SMART/site/tags/sle/</link>
+      <link>tags/sle/</link>
       <pubDate>Thu, 11 Apr 2019 00:00:00 +0000</pubDate>
       
-      <guid>/SMART/site/tags/sle/</guid>
+      <guid>tags/sle/</guid>
       <description></description>
     </item>
     
     <item>
       <title>grant</title>
-      <link>/SMART/site/tags/grant/</link>
+      <link>tags/grant/</link>
       <pubDate>Tue, 16 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>/SMART/site/tags/grant/</guid>
+      <guid>tags/grant/</guid>
       <description></description>
     </item>
     
     <item>
       <title>indus</title>
-      <link>/SMART/site/tags/indus/</link>
+      <link>tags/indus/</link>
       <pubDate>Tue, 16 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>/SMART/site/tags/indus/</guid>
+      <guid>tags/indus/</guid>
       <description></description>
     </item>
     
     <item>
       <title>exigences</title>
-      <link>/SMART/site/tags/exigences/</link>
+      <link>tags/exigences/</link>
       <pubDate>Mon, 27 Nov 2017 00:00:00 +0000</pubDate>
       
-      <guid>/SMART/site/tags/exigences/</guid>
+      <guid>tags/exigences/</guid>
       <description></description>
     </item>
     
     <item>
       <title>M2</title>
-      <link>/SMART/site/tags/m2/</link>
+      <link>tags/m2/</link>
       <pubDate>Mon, 27 Nov 2017 00:00:00 +0000</pubDate>
       
-      <guid>/SMART/site/tags/m2/</guid>
+      <guid>tags/m2/</guid>
       <description></description>
     </item>
     
     <item>
       <title>lean</title>
-      <link>/SMART/site/tags/lean/</link>
+      <link>tags/lean/</link>
       <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
       
-      <guid>/SMART/site/tags/lean/</guid>
+      <guid>tags/lean/</guid>
       <description></description>
     </item>
     
     <item>
       <title>mbse</title>
-      <link>/SMART/site/tags/mbse/</link>
+      <link>tags/mbse/</link>
       <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
       
-      <guid>/SMART/site/tags/mbse/</guid>
+      <guid>tags/mbse/</guid>
       <description></description>
     </item>
     
     <item>
       <title>validation</title>
-      <link>/SMART/site/tags/validation/</link>
+      <link>tags/validation/</link>
       <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
       
-      <guid>/SMART/site/tags/validation/</guid>
+      <guid>tags/validation/</guid>
       <description></description>
     </item>
     
     <item>
       <title>collaboration</title>
-      <link>/SMART/site/tags/collaboration/</link>
+      <link>tags/collaboration/</link>
       <pubDate>Thu, 19 Oct 2017 00:00:00 +0000</pubDate>
       
-      <guid>/SMART/site/tags/collaboration/</guid>
+      <guid>tags/collaboration/</guid>
       <description></description>
     </item>
     
     <item>
       <title>globalization</title>
-      <link>/SMART/site/tags/globalization/</link>
+      <link>tags/globalization/</link>
       <pubDate>Thu, 19 Oct 2017 00:00:00 +0000</pubDate>
       
-      <guid>/SMART/site/tags/globalization/</guid>
+      <guid>tags/globalization/</guid>
       <description></description>
     </item>
     
     <item>
       <title>language</title>
-      <link>/SMART/site/tags/language/</link>
+      <link>tags/language/</link>
       <pubDate>Thu, 19 Oct 2017 00:00:00 +0000</pubDate>
       
-      <guid>/SMART/site/tags/language/</guid>
+      <guid>tags/language/</guid>
       <description></description>
     </item>
     
     <item>
       <title>past</title>
-      <link>/SMART/site/tags/past/</link>
+      <link>tags/past/</link>
       <pubDate>Thu, 19 Oct 2017 00:00:00 +0000</pubDate>
       
-      <guid>/SMART/site/tags/past/</guid>
+      <guid>tags/past/</guid>
       <description></description>
     </item>
     
     <item>
       <title>requirements</title>
-      <link>/SMART/site/tags/requirements/</link>
+      <link>tags/requirements/</link>
       <pubDate>Thu, 19 Oct 2017 00:00:00 +0000</pubDate>
       
-      <guid>/SMART/site/tags/requirements/</guid>
+      <guid>tags/requirements/</guid>
       <description></description>
     </item>
     
     <item>
       <title>workbench</title>
-      <link>/SMART/site/tags/workbench/</link>
+      <link>tags/workbench/</link>
       <pubDate>Thu, 19 Oct 2017 00:00:00 +0000</pubDate>
       
-      <guid>/SMART/site/tags/workbench/</guid>
+      <guid>tags/workbench/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Content tagged as &#39;Academic&#39;</title>
-      <link>/SMART/site/tags/academic/</link>
+      <link>tags/academic/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>/SMART/site/tags/academic/</guid>
+      <guid>tags/academic/</guid>
       <description>Here is a list of all the content that has been tagged as academic.</description>
     </item>
     
