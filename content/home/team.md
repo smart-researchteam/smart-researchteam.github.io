@@ -20,7 +20,7 @@ view = 0
 # Filter toolbar.
 
 # Default filter index (e.g. 0 corresponds to the first `[[filter]]` instance below).
-filter_default = 1
+filter_default = 0
 
 # Add or remove as many filters (`[[filter]]` instances) as you like.
 # Use "*" tag to show all projects or an existing tag prefixed with "." to filter by specific tag.
@@ -31,16 +31,16 @@ filter_default = 1
   tag = "*"
 
 [[filter]]
-  name = "Ph.D"
-  tag = ".Ph.D"
+  name = "Professors"
+  tag = ".professors"
 
 [[filter]]
-  name = "Professor"
-  tag = ".professor"
+  name = "Students"
+  tag = ".students"
 
 [[filter]]
   name = "Associate"
-  tag = "associate"
+  tag = "associates"
 
 # Team section
 [team]
