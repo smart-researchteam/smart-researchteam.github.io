@@ -25,8 +25,8 @@ filter_default = 0
   tag = "*"
 
 [[filter]]
-  name = "Languages & Models"
-  tag = ".language"
+  name = "Ph.D"
+  tag = ".Ph.D"
 
 [[filter]]
   name = "Requirements"
