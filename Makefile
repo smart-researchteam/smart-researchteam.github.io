@@ -21,7 +21,7 @@ clean:
 install_netlify_client:
 	npm install netlify-cli -g
 
-deploy: public/index.html
+deploy: docs/index.html
 	@echo "========================================"
 	@echo "==> Deploy updates "
 	#       rake && git commit -am ":memo: Deploy updates"; git pull; git push
