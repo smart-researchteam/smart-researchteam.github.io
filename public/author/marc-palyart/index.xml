@@ -1,30 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Marc Palyart | Jean-Michel Bruel</title>
-    <link>https://jmbruell.netlify.app/author/marc-palyart/</link>
-      <atom:link href="https://jmbruell.netlify.app/author/marc-palyart/index.xml" rel="self" type="application/rss+xml" />
+    <title>Marc Palyart | Sm@RT Research Team</title>
+    <link>https://smart-researchteam.github.io/author/marc-palyart/</link>
+      <atom:link href="https://smart-researchteam.github.io/author/marc-palyart/index.xml" rel="self" type="application/rss+xml" />
     <description>Marc Palyart</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 - ACDC. Last update: July 27th, 2021</copyright><lastBuildDate>Fri, 27 Jul 2018 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 - ACDC. Last update: October 6th, 2021</copyright><lastBuildDate>Fri, 27 Jul 2018 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://jmbruell.netlify.app/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <url>https://smart-researchteam.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
       <title>Marc Palyart</title>
-      <link>https://jmbruell.netlify.app/author/marc-palyart/</link>
+      <link>https://smart-researchteam.github.io/author/marc-palyart/</link>
     </image>
     
     <item>
       <title>On the use of models for high-performance scientific computing applications: an experience report</title>
-      <link>https://jmbruell.netlify.app/publication/sosym2018/</link>
+      <link>https://smart-researchteam.github.io/publication/sosym2018/</link>
       <pubDate>Fri, 27 Jul 2018 00:00:00 +0000</pubDate>
-      <guid>https://jmbruell.netlify.app/publication/sosym2018/</guid>
+      <guid>https://smart-researchteam.github.io/publication/sosym2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title>On the Use of Models for High-Performance Scientific Computing Applications: an Experience Report</title>
-      <link>https://jmbruell.netlify.app/publication/ob-pa-br-lu-2018-1/</link>
+      <link>https://smart-researchteam.github.io/publication/ob-pa-br-lu-2018-1/</link>
       <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
-      <guid>https://jmbruell.netlify.app/publication/ob-pa-br-lu-2018-1/</guid>
+      <guid>https://smart-researchteam.github.io/publication/ob-pa-br-lu-2018-1/</guid>
       <description></description>
     </item>
     

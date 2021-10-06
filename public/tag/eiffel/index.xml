@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Eiffel | Jean-Michel Bruel</title>
-    <link>https://jmbruell.netlify.app/tag/eiffel/</link>
-      <atom:link href="https://jmbruell.netlify.app/tag/eiffel/index.xml" rel="self" type="application/rss+xml" />
+    <title>Eiffel | Sm@RT Research Team</title>
+    <link>https://smart-researchteam.github.io/tag/eiffel/</link>
+      <atom:link href="https://smart-researchteam.github.io/tag/eiffel/index.xml" rel="self" type="application/rss+xml" />
     <description>Eiffel</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 - ACDC. Last update: July 27th, 2021</copyright><lastBuildDate>Mon, 01 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 - ACDC. Last update: October 6th, 2021</copyright><lastBuildDate>Mon, 01 Apr 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://jmbruell.netlify.app/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <url>https://smart-researchteam.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
       <title>Eiffel</title>
-      <link>https://jmbruell.netlify.app/tag/eiffel/</link>
+      <link>https://smart-researchteam.github.io/tag/eiffel/</link>
     </image>
     
     <item>
       <title>AutoReq: expressing and verifying requirements for control systems</title>
-      <link>https://jmbruell.netlify.app/publication/na-me-ga-br-ma-eb-2019-1/</link>
+      <link>https://smart-researchteam.github.io/publication/na-me-ga-br-ma-eb-2019-1/</link>
       <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>https://jmbruell.netlify.app/publication/na-me-ga-br-ma-eb-2019-1/</guid>
+      <guid>https://smart-researchteam.github.io/publication/na-me-ga-br-ma-eb-2019-1/</guid>
       <description></description>
     </item>
     
