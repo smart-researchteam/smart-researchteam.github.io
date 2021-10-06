@@ -1,6 +1,6 @@
 +++
 abstract = ""
-authors = ["Francis Bordeleau", "_Jean-Michel Bruel_", "Jürgen Dingel", "Sébastien Gérard", "Henry Muccini", "Gunter Mussbacher", "Sebastian Voss"]
+authors = ["Francis Bordeleau", "Jean-Michel Bruel", "Jürgen Dingel", "Sébastien Gérard", "Henry Muccini", "Gunter Mussbacher", "Sebastian Voss"]
 date = "2016-10-03"
 image_preview = ""
 math = false
@@ -15,6 +15,8 @@ url_pdf = "http://ceur-ws.org/Vol-1835"
 url_project = ""
 url_slides = ""
 url_video = ""
+
+tags = ["MDE", "Education","Publications"]
 
 [[url_custom]]
 name = "Workshop link"

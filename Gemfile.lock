@@ -1,0 +1,24 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    amazon-ec2 (0.9.17)
+      xml-simple (>= 1.0.12)
+    hugo (0.4.1)
+      amazon-ec2
+      amazon-ec2 (>= 0.7.5)
+      json
+      json (>= 1.2.0)
+      net-ssh
+      net-ssh (>= 2.0.16)
+    json (2.3.1)
+    net-ssh (6.1.0)
+    xml-simple (1.1.5)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  hugo
+
+BUNDLED WITH
+   2.1.2

@@ -1,19 +1,20 @@
 +++
 # Students widget.
 # This widget displays all students from `content/student/`.
+headless = true  # This file represents a page section.
 
 date = "2017-11-01T00:00:00"
-draft = false
+active = false  # Activate this widget? true/false
 
-title = "Thesis"
-subtitle = "Ph.D. & M.Sc."
+title = "Students"
+subtitle = "Supervision"
 widget = "students"
 
 # Order that this section will appear in.
 weight = 55
 
 # View.
-# Customize how projects are displayed.
+# Customize how students are displayed.
 # Legend: 0 = list, 1 = cards.
 view = 0
 
@@ -53,8 +54,5 @@ filter_default = 1
   name = "Grant"
   tag = ".grant"
 
-[[filter]]
-  name = "Co-Diplomation"
-  tag = ".codiplomation"
 
 +++
