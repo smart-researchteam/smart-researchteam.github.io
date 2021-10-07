@@ -25,5 +25,6 @@ deploy: docs/index.html
 	@echo "========================================"
 	@echo "==> Deploy updates "
 	hugo
-	cp -r public docs
+	rm -rf docs
+	mv public docs
 	git commit -am "🤖 DEPLOY: last updates"; git pull; git push

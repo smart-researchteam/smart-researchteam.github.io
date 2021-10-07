@@ -67,7 +67,7 @@ social:
   link: https://scholar.google.com/citations?user=5shVHyoAAAAJ&hl=en
 - icon: cv
   icon_pack: ai
-  link: files/cv-jmb.pdf
+  link: https://bit.ly/jmbruel
 
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
@@ -79,11 +79,12 @@ highlight_name: true
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Researchers
+- Permanent
 ---
 
-Jean-Michel Bruel is head of the {{< smart >}} team of the {{< irit >}} CNRS laboratory.
+Jean-Michel Bruel was head of the {{< smart >}} team of the {{< irit >}} CNRS laboratory until September 2021.
 His research areas include the development of software-intensive Cyber-Physical Systems, and methods/model/language integration, with a focus on Requirements and Model-Based Systems Engineering.
 He has defended his "Habilitation à Diriger des Recherches" in December 2006 and obtained in 2008 a full professor position at the {{< univtlse >}}.
-He has been head of the Computer Science department of the {{< iut-blagnac >}} from 2009 to 2012, and Laboratory Representative for the {{< ut2j >}} from 2016 to 2020. 
+He has been head Laboratory Representative for the {{< ut2j >}} from 2016 to 2020. 
+He is head of the Computer Science department of the {{< iut-blagnac >}} since september 2021. 
 He is now a member of the Strategic Research Committee of the {{< irit >}} CNRS laboratory since 2021.
