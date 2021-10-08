@@ -8,8 +8,10 @@ summary: ''
 authors:
 - Ronan Baduel
 - Iulian Ober
-- Jean-Michel Bruel
-tags: []
+- jmb 
+tags:
+- '"System of Systems (SoS)- Early validation"'
+- '"States and modes"'
 categories: []
 date: '2020-03-01'
 lastmod: 2020-10-17T22:08:04+02:00
@@ -30,7 +32,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-10-19T13:28:58.534076Z'
+publishDate: '2021-10-08T09:48:09.346479Z'
 publication_types:
 - '1'
 abstract: This paper presents the results achieved while pursuing the verification
@@ -39,9 +41,7 @@ abstract: This paper presents the results achieved while pursuing the verificati
   the train can be considered as a System of Systems (SoS). A method is proposed,
   supported by preliminary results through the definition and verification of constrained
   states and preconditions to use cases, as well as a structure for the behavior.
-publication: '*ACM Symposium on Applied Computing (SAC 2020), Brno, Czech Republic,
-  30/03/2020-03/04/2020*'
-url_pdf: https://www.irit.fr/~Iulian.Ober/docs/SAC2020.pdf,%20https://doi.org/10.1145/3341105.3373944
-  - https://oatao.univ-toulouse.fr/26362/
+publication: '*35th Annual ACM Symposium on Applied Computing (SAC 2020)*'
+url_pdf: https://hal.archives-ouvertes.fr/hal-02891673
 doi: 10.1145/3341105.3373944
 ---

@@ -5,15 +5,16 @@ title: Automated user-oriented description of emerging composite ambient applica
 subtitle: ''
 summary: ''
 authors:
-- maroun
+- Maroun Koussaifi
 - Sylvie Trouilhet
 - Jean-Paul Arcangeli
-- jmb
+- jmb 
 tags:
-- 'Ambient intelligence'
-- 'Service composition'
-- 'FUN'
-
+- '"Service description"'
+- '"User-oriented description language"'
+- '"Service composition"'
+- '"Ambient intelligence"'
+- '"Emergence"'
 categories: []
 date: '2019-07-01'
 lastmod: 2020-10-19T15:19:50+02:00
@@ -34,7 +35,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-10-19T13:28:58.774727Z'
+publishDate: '2021-10-08T09:48:09.585551Z'
 publication_types:
 - '1'
 abstract: Ambient environments consist of components surrounding the user and offering

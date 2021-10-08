@@ -9,8 +9,8 @@ authors:
 - Bertrand Meyer
 - Manuel Mazzara
 - Florian Galinier
-- Jean-Michel Bruel
-- Sophie Ebersold
+- jmb 
+- sophie  
 tags:
 - '"AutoReq"'
 - '"seamless requirements"'

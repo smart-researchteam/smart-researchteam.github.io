@@ -2,21 +2,22 @@
 # A Recent Publications section created with the Pages widget.
 # This section displays recent blog posts from `content/publication/`.
 
+#widget = "portfolio"  # See https://sourcethemes.com/academic/docs/page-builder/
 widget = "pages"  # See https://sourcethemes.com/academic/docs/page-builder/
-#widget = "pages"  # See https://sourcethemes.com/academic/docs/page-builder/
+#widget = "github.jmbruel.mypub"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 20  # Order that this section will appear.
+weight = 40  # Order that this section will appear.
 
-title = "Recent Publications"
-subtitle = ""
+title = "Conference Publications"
+subtitle = "(and workshops)"
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
   page_type = "publication"
   
-  # Choose how much pages you would like to display (0 = all pages)
-  count = 8
+  # Choose how many pages you would like to display (0 = all pages)
+  count = 5
   
   # Choose how many pages you would like to offset by
   offset = 0
@@ -28,17 +29,17 @@ subtitle = ""
   [content.filters]
     tag = ""
     category = ""
-    publication_type = ""
+    publication_type = "1"
     author = ""
-    exclude_featured = false
-  
+
+
 [design]
   # Toggle between the various page layout types.
   #   1 = List
   #   2 = Compact
   #   3 = Card
   #   4 = Citation (publication only)
-  view = 1
+  view = 4
   
 [design.background]
   # Apply a background color, gradient, or image.
@@ -67,4 +68,3 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-You can also access the <a href="https://hal.archives-ouvertes.fr/IRIT-SMART/search/index/?q=*">official list</a> from the lab (up to date, but only related to it).

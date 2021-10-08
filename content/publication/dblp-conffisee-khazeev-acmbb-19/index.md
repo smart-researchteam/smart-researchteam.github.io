@@ -6,10 +6,10 @@ subtitle: ''
 summary: ''
 authors:
 - Mansur Khazeev
-- hamna
+- Hamna Aslam
 - Daniel de Carvalho
 - Manuel Mazzara
-- jmb
+- jmb 
 - Joseph Alexander Brown
 tags: []
 categories: []
@@ -32,7 +32,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-10-19T14:21:14.912039Z'
+publishDate: '2021-10-08T09:48:12.349380Z'
 publication_types:
 - '1'
 abstract: ''

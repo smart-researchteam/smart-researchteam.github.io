@@ -8,7 +8,7 @@ authors:
 - Antonio Bucchiarone
 - Maxime Savary-Leblanc
 - Xavier Le Pallec
-- Jean-Michel Bruel
+- jmb 
 - Antonio Cicchetti
 - Jordi Cabot
 - Sebastien Gerard
@@ -40,7 +40,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-07-30T09:18:09.361540Z'
+publishDate: '2021-10-08T09:48:13.319987Z'
 publication_types:
 - '1'
 abstract: Gamification refers to the exploitation of gaming mechanisms for serious

@@ -5,8 +5,8 @@ title: Comparing and classifying model transformation reuse approaches across me
 subtitle: ''
 summary: ''
 authors:
-- jmb
-- benoit
+- jmb 
+- Benoît Combemale
 - Esther Guerra
 - Jean-Marc Jézéquel
 - Jörg Kienzle
@@ -14,7 +14,12 @@ authors:
 - Gunter Mussbacher
 - Eugene Syriani
 - Hans Vangheluwe
-tags: [MDE]
+tags:
+- '"Survey"'
+- '"Classification"'
+- '"Feature Model"'
+- '"Reuse"'
+- '"Model Transformation"'
 categories: []
 date: '2020-01-01'
 lastmod: 2020-10-19T15:57:41+02:00
@@ -35,7 +40,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-10-19T13:57:41.371014Z'
+publishDate: '2021-10-08T09:48:14.341170Z'
 publication_types:
 - '2'
 abstract: ''

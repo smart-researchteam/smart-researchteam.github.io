@@ -6,10 +6,10 @@ title: Modeling and verification method for an early evaluation of systems of sy
 subtitle: ''
 summary: ''
 authors:
-- ronan
+- Ronan Baduel
 - Iulian Ober
-- jmb
-tags: ['Systems of Systems','V&V']
+- jmb 
+tags: [Systems of Systems, V&V]
 categories: []
 date: '2020-01-01'
 lastmod: 2020-10-19T16:17:57+02:00
@@ -30,7 +30,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-10-19T14:17:56.743263Z'
+publishDate: '2021-10-08T09:48:11.243933Z'
 publication_types:
 - '1'
 abstract: ''

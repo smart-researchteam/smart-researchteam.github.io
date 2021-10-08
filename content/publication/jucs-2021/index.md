@@ -7,7 +7,7 @@ summary: ''
 authors:
 - Sylvie Trouilhet
 - Jean-Paul Arcangeli
-- Jean-Michel Bruel
+- jmb 
 - Maroun Koussaifi
 tags: []
 categories: []
@@ -30,7 +30,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-07-28T07:40:39.104474Z'
+publishDate: '2021-10-08T09:48:13.888887Z'
 publication_types:
 - '2'
 abstract: At the heart of cyber-physical and ambient systems, the user should permanently

@@ -93,7 +93,7 @@ show_related = {docs = true, page = false, post = true, project = true, publicat
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "smart@irit.fr"
+# email = "smart@irit.fr"
 phone = "+33 (0)6.07.65.19.70"
 
 # Address

@@ -5,8 +5,8 @@ title: The Role of Formalism in System Requirements
 subtitle: ''
 summary: ''
 authors:
-- Jean-Michel Bruel
-- Sophie Ebersold
+- jmb
+- sophie 
 - Florian Galinier
 - Manuel Mazzara
 - Alexandr Naumchev
@@ -17,7 +17,7 @@ tags:
 - '"software"'
 - '"requirement"'
 - '"seamless"'
-categories: []
+categories: [A]
 date: '2021-05-01'
 lastmod: 2021-06-15T16:57:30+02:00
 featured: false
@@ -37,7 +37,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-06-15T14:57:30.180159Z'
+publishDate: '2021-10-08T09:48:13.612749Z'
 publication_types:
 - '2'
 abstract: 'A major determinant of the quality of software systems is the quality of
@@ -55,7 +55,7 @@ abstract: 'A major determinant of the quality of software systems is the quality
   Eiffel, Event-B, and Alloy.The review discusses a number of open questions, including
   seamlessness, the role of tools and education, and how to make industrial applications
   benefit more from the contributions of formal approaches.'
-publication: '*ACM Comput. Surv.*'
+publication: '*ACM Computing Surveys*'
 url_pdf: https://doi.org/10.1145/3448975
 doi: 10.1145/3448975
 ---

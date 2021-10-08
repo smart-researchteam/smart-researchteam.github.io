@@ -4,7 +4,7 @@ title: Sophie Ebersold-Marcaillou
 
 # Username (this should match the folder name)
 authors:
-- sophie
+- sophie 
 
 # Is this the primary user of the site?
 superuser: false
@@ -43,7 +43,7 @@ social:
 email: "sophie.ebersold@irit.fr"
 
 # Highlight the author in author lists? (true/false)
-highlight_name: false
+highlight_name: true
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.

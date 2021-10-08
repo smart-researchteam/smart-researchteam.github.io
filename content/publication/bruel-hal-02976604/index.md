@@ -3,9 +3,9 @@ title: Software Engineering Aspects of Continuous Development and New Paradigms 
   Software Production and Deployment
 date: '2019-01-01'
 draft: true
-publishDate: '2020-12-18T15:21:58.030688Z'
+publishDate: '2021-10-08T09:48:13.090252Z'
 authors:
-- Jean-Michel Bruel
+- jmb 
 - Manuel Mazzara
 - Bertrand Meyer
 publication_types:

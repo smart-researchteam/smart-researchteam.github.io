@@ -5,11 +5,11 @@ title: Towards an Anatomy of Software Requirements
 subtitle: ''
 summary: ''
 authors:
-- bertrand
-- jmb
-- sophie
-- florian
-- sacha
+- Bertrand Meyer
+- jmb 
+- sophie  
+- Florian Galinier
+- Alexandr Naumchev
 tags: []
 categories: []
 date: '2019-01-01'
@@ -31,7 +31,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-10-19T14:22:27.721285Z'
+publishDate: '2021-10-08T09:48:12.592809Z'
 publication_types:
 - '1'
 abstract: ''

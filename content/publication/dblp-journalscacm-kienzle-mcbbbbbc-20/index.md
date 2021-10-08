@@ -7,10 +7,10 @@ summary: ''
 authors:
 - Jörg Kienzle
 - Gunter Mussbacher
-- benoit
+- Benoît Combemale
 - Lucy Bastin
 - Nelly Bencomo
-- jmb
+- jmb 
 - Christoph Becker
 - Stefanie Betz
 - Ruzanna Chitchyan
@@ -21,7 +21,7 @@ authors:
 - Norbert Seyff
 - Eugene Syriani
 - Colin C. Venters
-tags: ['Sustainability','MDE']
+tags: [Sustainability, MDE]
 categories: []
 date: '2020-01-01'
 lastmod: 2020-10-19T15:28:59+02:00
@@ -42,7 +42,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-10-19T13:28:59.062205Z'
+publishDate: '2021-10-08T09:48:14.116285Z'
 publication_types:
 - '2'
 abstract: ''
