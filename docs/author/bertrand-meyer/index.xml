@@ -13,6 +13,17 @@
     </image>
     
     <item>
+      <title>Towards an Anatomy of Software Requirements</title>
+      <link>https://smart-researchteam.github.io/publication/dblp-conftools-0001-begn-19/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://smart-researchteam.github.io/publication/dblp-conftools-0001-begn-19/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
+
+    <item>
       <title>AutoReq: expressing and verifying requirements for control systems</title>
       <link>https://smart-researchteam.github.io/publication/na-me-ga-br-ma-eb-2019-1/</link>
       <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
@@ -21,10 +32,10 @@
     </item>
     
     <item>
-      <title>Towards an Anatomy of Software Requirements</title>
-      <link>https://smart-researchteam.github.io/publication/dblp-conftools-0001-begn-19/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://smart-researchteam.github.io/publication/dblp-conftools-0001-begn-19/</guid>
+      <title>A contract-based method to specify stimulus-response requirements</title>
+      <link>https://smart-researchteam.github.io/publication/mmbge17/</link>
+      <pubDate>Wed, 07 Jun 2017 00:00:00 +0000</pubDate>
+      <guid>https://smart-researchteam.github.io/publication/mmbge17/</guid>
       <description></description>
     </item>
     

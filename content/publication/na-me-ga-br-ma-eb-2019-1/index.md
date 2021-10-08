@@ -5,20 +5,24 @@ title: 'AutoReq: expressing and verifying requirements for control systems'
 subtitle: ''
 summary: ''
 authors:
-- sacha
-- bertrand
+- Alexandr Naumchev
+- Bertrand Meyer
 - Manuel Mazzara
-- florian
-- jmb
-- sophie
+- Florian Galinier
+- Jean-Michel Bruel
+- Sophie Ebersold
 tags:
-- 'Lean'
-- 'Eiffel'
-- 'Multirequirements'
-
+- '"AutoReq"'
+- '"seamless requirements"'
+- '"Design by Contract"'
+- '"AutoProof"'
+- '"Eiffel"'
+- '"Landing Gear System"'
+- '"specification drivers"'
+- '"multirequirements"'
 categories: []
 date: '2019-04-01'
-lastmod: 2020-10-17T20:50:56+02:00
+lastmod: 2021-10-08T09:23:44+02:00
 featured: false
 draft: false
 
@@ -36,7 +40,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-10-19T13:28:57.872724Z'
+publishDate: '2021-10-08T07:23:44.693214Z'
 publication_types:
 - '2'
 abstract: "The considerable effort of writing requirements is only worthwhile if the\
