@@ -67,4 +67,4 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-You can also access the <a href="http://www.irit.fr/-Publications-?code=528&amp;equipe=SMART">official list</a> from the lab (up to date, but only related to it)
+You can also access the <a href="https://hal.archives-ouvertes.fr/IRIT-SMART/search/index/?q=*">official list</a> from the lab (up to date, but only related to it).

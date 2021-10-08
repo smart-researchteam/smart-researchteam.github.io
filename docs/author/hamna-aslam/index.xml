@@ -5,23 +5,24 @@
     <link>https://smart-researchteam.github.io/author/hamna-aslam/</link>
       <atom:link href="https://smart-researchteam.github.io/author/hamna-aslam/index.xml" rel="self" type="application/rss+xml" />
     <description>Hamna Aslam</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 - ACDC. Last update: October 6th, 2021</copyright><lastBuildDate>Wed, 21 Oct 2020 18:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 - ACDC. Last update: October 6th, 2021</copyright>
     <image>
-      <url>https://smart-researchteam.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <url>https://smart-researchteam.github.io/author/hamna-aslam/avatar_hu87b7617ab028b5acaff36f925c49ef82_248517_270x270_fill_lanczos_center_2.png</url>
       <title>Hamna Aslam</title>
       <link>https://smart-researchteam.github.io/author/hamna-aslam/</link>
     </image>
     
     <item>
-      <title>Papyrus for gamers, let&#39;s play modeling (Best Demo Award!)</title>
-      <link>https://smart-researchteam.github.io/talk/20201021-modelsdemo/</link>
-      <pubDate>Wed, 21 Oct 2020 18:00:00 +0000</pubDate>
-      <guid>https://smart-researchteam.github.io/talk/20201021-modelsdemo/</guid>
+      <title>Reflections on Teaching Formal Methods for Software Development in Higher Education</title>
+      <link>https://smart-researchteam.github.io/publication/dblp-conffisee-khazeev-acmbb-19/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://smart-researchteam.github.io/publication/dblp-conffisee-khazeev-acmbb-19/</guid>
       <description></description>
     </item>
     
-    <item>
-      <title>Papyrus for Gamers, Let&#39;s Play Modeling</title>
+  </channel>
+</rss>
+or Gamers, Let&#39;s Play Modeling</title>
       <link>https://smart-researchteam.github.io/publication/papygame-2020/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       <guid>https://smart-researchteam.github.io/publication/papygame-2020/</guid>
