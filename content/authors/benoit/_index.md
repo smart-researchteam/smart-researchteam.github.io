@@ -17,7 +17,7 @@ organizations:
 - name: Université Rennes 1
   url: "https://international.univ-rennes1.fr/en"
 # Short bio (displayed in user profile at end of posts)
-bio: 
+bio: I am Full Professor of Software Engineering at the University of Rennes 1. I was part and founder of the team from 2017 to 2020, and remain as an adjunct researcher since 2021.
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -35,7 +35,9 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/combemale/
-
+- icon: cv
+  icon_pack: ai
+  link: https://people.irisa.fr/Benoit.Combemale/
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "benoit.combemale@irisa.fr"
