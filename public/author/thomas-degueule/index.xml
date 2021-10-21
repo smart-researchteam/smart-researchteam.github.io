@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Thomas Degueule | Sm@RT Research Team</title>
+    <link>https://smart-researchteam.github.io/author/thomas-degueule/</link>
+      <atom:link href="https://smart-researchteam.github.io/author/thomas-degueule/index.xml" rel="self" type="application/rss+xml" />
+    <description>Thomas Degueule</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 - ACDC. Last update: October 6th, 2021</copyright><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://smart-researchteam.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>Thomas Degueule</title>
+      <link>https://smart-researchteam.github.io/author/thomas-degueule/</link>
+    </image>
+    
+    <item>
+      <title>Automatic generation of Truffle-based interpreters for Domain-Specific Languages</title>
+      <link>https://smart-researchteam.github.io/publication/leduc-hal-02395867/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://smart-researchteam.github.io/publication/leduc-hal-02395867/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Software Language Extension Problem</title>
+      <link>https://smart-researchteam.github.io/publication/leduc-hal-02399166/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://smart-researchteam.github.io/publication/leduc-hal-02399166/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modular Language Composition for the Masses</title>
+      <link>https://smart-researchteam.github.io/publication/leduc-hal-01890446/</link>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>https://smart-researchteam.github.io/publication/leduc-hal-01890446/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Shape-Diverse DSLs: Languages without Borders (Vision Paper)</title>
+      <link>https://smart-researchteam.github.io/publication/coulon-hal-01889155/</link>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>https://smart-researchteam.github.io/publication/coulon-hal-01889155/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Concern-Oriented Language Development (COLD): Fostering Reuse in Language Engineering</title>
+      <link>https://smart-researchteam.github.io/publication/combemale-hal-01803008/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://smart-researchteam.github.io/publication/combemale-hal-01803008/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
