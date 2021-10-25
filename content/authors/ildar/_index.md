@@ -1,28 +1,28 @@
 ---
 # Display name
-title: Saloua Bennani
+title: Ildar Nigmatullin
 
 # Username (this should match the folder name)
 authors:
-- saloua
+- ildar
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: 2021 - Software Engineer
+#role: 2019 - Associate Professor at Innopolis University
 
 # Short bio (displayed in user profile at end of posts)
-bio: "Ph.D. thesis on Alignement collaboratif de modèles de conception hétérogènes"
+bio: Ph.D. thesis on "Security Requirements"
 
 
 # Organizations/Affiliations
-# organizations:
-# - name: Sogeti
-#   url: ""
+organizations:
+- name: Innopolis University
+  url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: Co-directed with U. Mohammed V, Rabat, Morocco.
+bio: Co-directed with Andrey Sadovykh, Innopolis University.
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -31,13 +31,13 @@ bio: Co-directed with U. Mohammed V, Rabat, Morocco.
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:saloua.bennani91@gmail.com'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:i.nigmatullin@yahoo.com'  # For a direct email link, use "mailto:test@example.org".
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/in/saloua-bennani/
+  link: https://www.linkedin.com/in/ildar-nigmatullin
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "saloua.bennani91@gmail.com"
+email: "i.nigmatullin@yahoo.com"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
@@ -45,8 +45,8 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Former Ph.D. Students
+- Ph.D. Students
 
-tags: ["past","phd"]
+tags: ["current", "phd", "indus"]
 
 ---
