@@ -2,5 +2,8 @@ github.com/jmbruel/wowchemy-widget-mypub v0.0.0-20211008092615-82555652185d h1:i
 github.com/jmbruel/wowchemy-widget-mypub v0.0.0-20211008092615-82555652185d/go.mod h1:K5JNoK1xmgtx+tKoWtPfd2hqq6DqgJjCcZ5NJOJGbHo=
 github.com/wowchemy/wowchemy-hugo-modules/netlify-cms-academic v0.0.0-20201129124759-cdcfa2da28e2 h1:9xMDzFv9AeLK1hk+/zUQZn9xMVEqnaEXLucTDmuV9wo=
 github.com/wowchemy/wowchemy-hugo-modules/netlify-cms-academic v0.0.0-20201129124759-cdcfa2da28e2/go.mod h1:TU3QDPUdBSQnvDP5QVCwjAkBIdVMS/bKFA8jr3eI5AY=
+github.com/wowchemy/wowchemy-hugo-modules/v5 v5.3.0/go.mod h1:akNBhhT0UAOXSREplKkLe2wyHeo51qm6f+vqNkQkcmE=
 github.com/wowchemy/wowchemy-hugo-modules/wowchemy v0.0.0-20210619224513-b739d8d390b9 h1:ocik752/O3DrPapsRdCbcam4LBGUji87g7LqKJjzyJU=
 github.com/wowchemy/wowchemy-hugo-modules/wowchemy v0.0.0-20210619224513-b739d8d390b9/go.mod h1:H22qfH9qj3FWwsk7+bAZpmT24yRGNQURah2/IRwjbn8=
+github.com/wowchemy/wowchemy-hugo-modules/wowchemy-cms/v5 v5.0.0-20210629192904-559885af86b7/go.mod h1:Sp/AKo+2HAPi/IPHp1MEdKPmee+mzO5+efUBUPLPqPE=
+github.com/wowchemy/wowchemy-hugo-modules/wowchemy/v5 v5.0.0-20210629192904-559885af86b7/go.mod h1:2iL9rdrUYyJXX2BeHKfK+QbqZlubCsaR60nQ87NRQTY=
