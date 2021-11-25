@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-#role: 2019 - Associate Professor at Innopolis University
+role: Registration pending
 
 # Short bio (displayed in user profile at end of posts)
 bio: Ph.D. thesis on "Security Requirements"

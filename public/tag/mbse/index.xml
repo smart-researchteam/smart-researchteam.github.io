@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>MBSE | Sm@RT Research Team</title>
+    <link>https://smart-researchteam.github.io/tag/mbse/</link>
+      <atom:link href="https://smart-researchteam.github.io/tag/mbse/index.xml" rel="self" type="application/rss+xml" />
+    <description>MBSE</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 - ACDC. Last update: October 6th, 2021</copyright><lastBuildDate>Fri, 23 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://smart-researchteam.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>MBSE</title>
+      <link>https://smart-researchteam.github.io/tag/mbse/</link>
+    </image>
+    
+    <item>
+      <title>Chaire Industrielle</title>
+      <link>https://smart-researchteam.github.io/project/airbus/</link>
+      <pubDate>Fri, 23 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://smart-researchteam.github.io/project/airbus/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Survey on MBSE Adoption Challenges</title>
+      <link>https://smart-researchteam.github.io/publication/chami-hal-02124402/</link>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>https://smart-researchteam.github.io/publication/chami-hal-02124402/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards Solving MBSE Adoption Challenges: The D3 MBSE Adoption Toolbox</title>
+      <link>https://smart-researchteam.github.io/publication/chami-hal-02124403/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+      <guid>https://smart-researchteam.github.io/publication/chami-hal-02124403/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SysML Models Verification and Validation in an Industrial Context: Challenges and Experimentation</title>
+      <link>https://smart-researchteam.github.io/publication/baduel-hal-01815510/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>https://smart-researchteam.github.io/publication/baduel-hal-01815510/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MBSE &amp; Early Validation</title>
+      <link>https://smart-researchteam.github.io/project/bombardier/</link>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
+      <guid>https://smart-researchteam.github.io/project/bombardier/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modeling Co-simulation: A First Experiment</title>
+      <link>https://smart-researchteam.github.io/publication/gemoc2017/</link>
+      <pubDate>Fri, 27 Oct 2017 00:00:00 +0000</pubDate>
+      <guid>https://smart-researchteam.github.io/publication/gemoc2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Moise</title>
+      <link>https://smart-researchteam.github.io/project/moise/</link>
+      <pubDate>Thu, 19 Oct 2017 00:00:00 +0000</pubDate>
+      <guid>https://smart-researchteam.github.io/project/moise/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -10,18 +10,19 @@ authors:
 superuser: false
 
 # Role/position
-role: Ph.D. student since 09/2016
+role: 2021 - Spilen CEO
 
 # Short bio (displayed in user profile at end of posts)
 bio: "Ph.D. thesis on Seamless development of complex systems: a multirequirements approach"
 from: "2016-10-01"
+to: "2021-11-08"
 note: "Co-directed with Bertrand Meyer and Sophie Ebersold. Doctorial School Grant"
-external_link: "http://fgalinier.fr"
+external_link: "https://www.linkedin.com/in/fgalinier-spilen"
 
 
 # Organizations/Affiliations
-#organizations:
-#- name: Sogeti
+organizations:
+- name: Spilen
 #  url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -35,6 +36,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:galinierflo@gmail.com'  # For a direct email link, use "mailto:test@example.org".
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/fgalinier-spilen
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "galinierflo@gmail.com"
@@ -45,10 +49,10 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Ph.D. Students
+- Former Ph.D. Students
 
 # Tags: can be used for filtering projects.
 #tags = ["past","phd","grant"]
-tags: ["current","phd","grant"]
+tags: ["past","phd","grant"]
 
 ---

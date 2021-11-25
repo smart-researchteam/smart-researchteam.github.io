@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hugo Bruneliere | Sm@RT Research Team</title>
+    <link>https://smart-researchteam.github.io/author/hugo-bruneliere/</link>
+      <atom:link href="https://smart-researchteam.github.io/author/hugo-bruneliere/index.xml" rel="self" type="application/rss+xml" />
+    <description>Hugo Bruneliere</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 - ACDC. Last update: October 6th, 2021</copyright><lastBuildDate>Wed, 10 Oct 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://smart-researchteam.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>Hugo Bruneliere</title>
+      <link>https://smart-researchteam.github.io/author/hugo-bruneliere/</link>
+    </image>
+    
+    <item>
+      <title>Model-Driven Engineering for Design-Runtime Interaction in Complex Systems: Scientific Challenges and Roadmap</title>
+      <link>https://smart-researchteam.github.io/publication/staf18/</link>
+      <pubDate>Wed, 10 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>https://smart-researchteam.github.io/publication/staf18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Model-Driven Engineering for Design-Runtime Interaction in Complex Systems: Scientific Challenges and Roadmap</title>
+      <link>https://smart-researchteam.github.io/publication/bruneliere-hal-01890878/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>https://smart-researchteam.github.io/publication/bruneliere-hal-01890878/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
