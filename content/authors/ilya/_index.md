@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Mariya Naumcheva
+title: Ilya Baimetov
 
 # Username (this should match the folder name)
 authors:
-- maria
+- ilya
 
 # Is this the primary user of the site?
 superuser: false
@@ -13,12 +13,12 @@ superuser: false
 role: Registration pending
 
 # Short bio (displayed in user profile at end of posts)
-bio: Ph.D. thesis on "Formal Requirements"
+bio: Ph.D. thesis on "Intelligent collaborative platform for online/blended education"
 
 
 # Organizations/Affiliations
 organizations:
-- name: Innopolis University
+- name: Alemira, Schaffhausen Institute of Technology
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -31,13 +31,13 @@ bio: Co-directed with Bertrand Meyer, Schaffhausen Institute of Technology.
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:m.naumcheva@innopolis.university'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:ib@alemira.com'  # For a direct email link, use "mailto:test@example.org".
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/in/ildar-nigmatullin
+  link: https://www.linkedin.com/in/ilya-baimetov/
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "m.naumcheva@innopolis.university"
+email: "ib@alemira.com"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false

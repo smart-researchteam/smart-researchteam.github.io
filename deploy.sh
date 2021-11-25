@@ -13,26 +13,6 @@ hugo # if using a theme, replace with `hugo -t <YOURTHEME>`
 echo -e "\033[0;32mDeploying updates to IRIT...\033[0m"
 
 # Deploy @ IRIT.
-rsync -avz --delete public/ ${USER}@${HOST}:${DIR}
-
-echo -e "\033[0;32mDeploying updates to GitHub...\033[0m"
-
-# Go To Public folder
-cd public
-# Add changes to git.
-git add .
-
-# Commit changes.
-msg="rebuilding site `date`"
-if [ $# -eq 1 ]
-  then msg="$1"
-fi
-git commit -m "$msg"
-
-# Push source and build repos.
-git push origin master
-
-# Come Back up to the Project Root
-cd ..
+rsync -avz --protocol=29 --delete public/ ${USER}@${HOST}:${DIR}
 
 exit 0
