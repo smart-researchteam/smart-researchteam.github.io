@@ -1,7 +1,7 @@
 #!/bin/sh
 
 # info for the rsync IRIT
-USER=bruel
+USER=ebersold
 HOST=ftpintra.irit.fr
 DIR=/usr/local/WWW2/Equipes   # might sometimes be empty!
 
