@@ -1,21 +1,18 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Eugene Syriani | Sm@RT Research Team</title>
+    <title>Eugene Syriani on Sm@RT Research Team</title>
     <link>https://smart-researchteam.github.io/author/eugene-syriani/</link>
-      <atom:link href="https://smart-researchteam.github.io/author/eugene-syriani/index.xml" rel="self" type="application/rss+xml" />
-    <description>Eugene Syriani</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 - ACDC. Last update: October 6th, 2021</copyright><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>https://smart-researchteam.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
-      <title>Eugene Syriani</title>
-      <link>https://smart-researchteam.github.io/author/eugene-syriani/</link>
-    </image>
-    
+    <description>Recent content in Eugene Syriani on Sm@RT Research Team</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; {year} - ACDC. Last update: October 6th, 2021</copyright>
+    <lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://smart-researchteam.github.io/author/eugene-syriani/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>A Hitchhiker&#39;s Guide to Model-Driven Engineering for Data-Centric Systems</title>
       <link>https://smart-researchteam.github.io/publication/combemale-hal-02612087/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
       <guid>https://smart-researchteam.github.io/publication/combemale-hal-02612087/</guid>
       <description></description>
     </item>
@@ -24,6 +21,7 @@
       <title>Comparing and classifying model transformation reuse approaches across metamodels</title>
       <link>https://smart-researchteam.github.io/publication/dblp-journalssosym-bruel-cgjklmsv-20/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
       <guid>https://smart-researchteam.github.io/publication/dblp-journalssosym-bruel-cgjklmsv-20/</guid>
       <description></description>
     </item>
@@ -32,6 +30,7 @@
       <title>Opportunities in Intelligent Modeling Assistance</title>
       <link>https://smart-researchteam.github.io/publication/mussbacher-hal-02876536/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
       <guid>https://smart-researchteam.github.io/publication/mussbacher-hal-02876536/</guid>
       <description></description>
     </item>
@@ -40,6 +39,7 @@
       <title>Toward model-driven sustainability evaluation</title>
       <link>https://smart-researchteam.github.io/publication/dblp-journalscacm-kienzle-mcbbbbbc-20/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
       <guid>https://smart-researchteam.github.io/publication/dblp-journalscacm-kienzle-mcbbbbbc-20/</guid>
       <description></description>
     </item>
@@ -48,6 +48,7 @@
       <title>Model Transformation Reuse across Metamodels - A classification and comparison of approaches</title>
       <link>https://smart-researchteam.github.io/publication/bruel-hal-01910113/</link>
       <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
+      
       <guid>https://smart-researchteam.github.io/publication/bruel-hal-01910113/</guid>
       <description></description>
     </item>

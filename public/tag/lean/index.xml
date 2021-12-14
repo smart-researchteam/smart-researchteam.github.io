@@ -1,39 +1,38 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Lean | Sm@RT Research Team</title>
+    <title>Lean on Sm@RT Research Team</title>
     <link>https://smart-researchteam.github.io/tag/lean/</link>
-      <atom:link href="https://smart-researchteam.github.io/tag/lean/index.xml" rel="self" type="application/rss+xml" />
-    <description>Lean</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 - ACDC. Last update: October 6th, 2021</copyright><lastBuildDate>Fri, 23 Oct 2020 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>https://smart-researchteam.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
-      <title>Lean</title>
-      <link>https://smart-researchteam.github.io/tag/lean/</link>
-    </image>
-    
+    <description>Recent content in Lean on Sm@RT Research Team</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; {year} - ACDC. Last update: October 6th, 2021</copyright>
+    <lastBuildDate>Fri, 23 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://smart-researchteam.github.io/tag/lean/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Chaire Industrielle</title>
       <link>https://smart-researchteam.github.io/project/airbus/</link>
       <pubDate>Fri, 23 Oct 2020 00:00:00 +0000</pubDate>
+      
       <guid>https://smart-researchteam.github.io/project/airbus/</guid>
-      <description></description>
+      <description>Despite the success of Model-Based Systems Engineering adoption, its application at scale and in a continuous approach to ensure the delivery of added value for its adopters is far from straightforward. The inherent complexity in terms of implied domains or of massively heterogeneous and poorly related data is not weaved by the simple use of a formal and disciplined modeling approach. A collaborative and continuous framework and process are required and need to aggregate up-to-date technologies in complementary techniques such as models, ontologies, and complex data management. It is the purpose of this Chair to study and make effective such complementarity.</description>
     </item>
     
     <item>
       <title>Formal Requirements</title>
       <link>https://smart-researchteam.github.io/project/innopolis/</link>
       <pubDate>Mon, 19 Oct 2020 00:00:00 +0000</pubDate>
+      
       <guid>https://smart-researchteam.github.io/project/innopolis/</guid>
-      <description></description>
+      <description>Collaboration initiated with the Innopolis University on the use of formal methods in Requirements Engineering</description>
     </item>
     
     <item>
       <title>MBSE &amp; Early Validation</title>
       <link>https://smart-researchteam.github.io/project/bombardier/</link>
       <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
+      
       <guid>https://smart-researchteam.github.io/project/bombardier/</guid>
-      <description></description>
+      <description>An integrated model-based early validation approach for Railway Systems</description>
     </item>
     
   </channel>

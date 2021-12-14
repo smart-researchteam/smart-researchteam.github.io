@@ -1,16 +1,11 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>SM@RT | Sm@RT Research Team</title>
+    <title>SM@RT on Sm@RT Research Team</title>
     <link>https://smart-researchteam.github.io/author/smrt/</link>
-      <atom:link href="https://smart-researchteam.github.io/author/smrt/index.xml" rel="self" type="application/rss+xml" />
-    <description>SM@RT</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 - ACDC. Last update: October 6th, 2021</copyright>
-    <image>
-      <url>https://smart-researchteam.github.io/author/smrt/avatar_hu2cc4cfc7ee7bb369cd5cda4298484307_60923_270x270_fill_lanczos_center_2.png</url>
-      <title>SM@RT</title>
-      <link>https://smart-researchteam.github.io/author/smrt/</link>
-    </image>
-    
+    <description>Recent content in SM@RT on Sm@RT Research Team</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; {year} - ACDC. Last update: October 6th, 2021</copyright><atom:link href="https://smart-researchteam.github.io/author/smrt/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

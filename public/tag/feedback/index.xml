@@ -1,21 +1,18 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>&#34;Feedback&#34; | Sm@RT Research Team</title>
+    <title>&#34;Feedback&#34; on Sm@RT Research Team</title>
     <link>https://smart-researchteam.github.io/tag/feedback/</link>
-      <atom:link href="https://smart-researchteam.github.io/tag/feedback/index.xml" rel="self" type="application/rss+xml" />
-    <description>&#34;Feedback&#34;</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 - ACDC. Last update: October 6th, 2021</copyright><lastBuildDate>Thu, 01 Oct 2020 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>https://smart-researchteam.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
-      <title>&#34;Feedback&#34;</title>
-      <link>https://smart-researchteam.github.io/tag/feedback/</link>
-    </image>
-    
+    <description>Recent content in &#34;Feedback&#34; on Sm@RT Research Team</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; {year} - ACDC. Last update: October 6th, 2021</copyright>
+    <lastBuildDate>Thu, 01 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://smart-researchteam.github.io/tag/feedback/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Towards an Assessment Grid for Intelligent Modeling Assistance</title>
       <link>https://smart-researchteam.github.io/publication/mussbacher-hal-02925142/</link>
       <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
+      
       <guid>https://smart-researchteam.github.io/publication/mussbacher-hal-02925142/</guid>
       <description></description>
     </item>
@@ -24,6 +21,7 @@
       <title>Model-Driven Engineering for Design-Runtime Interaction in Complex Systems: Scientific Challenges and Roadmap</title>
       <link>https://smart-researchteam.github.io/publication/bruneliere-hal-01890878/</link>
       <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
+      
       <guid>https://smart-researchteam.github.io/publication/bruneliere-hal-01890878/</guid>
       <description></description>
     </item>
