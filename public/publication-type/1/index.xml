@@ -1,18 +1,21 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>1 on Sm@RT Research Team</title>
+    <title>1 | Sm@RT Research Team</title>
     <link>https://smart-researchteam.github.io/publication-type/1/</link>
-    <description>Recent content in 1 on Sm@RT Research Team</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; {year} - ACDC. Last update: October 6th, 2021</copyright>
-    <lastBuildDate>Sun, 01 Nov 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://smart-researchteam.github.io/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
+      <atom:link href="https://smart-researchteam.github.io/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
+    <description>1</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 - ACDC. Last update: October 6th, 2021</copyright><lastBuildDate>Sun, 01 Nov 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://smart-researchteam.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>1</title>
+      <link>https://smart-researchteam.github.io/publication-type/1/</link>
+    </image>
+    
     <item>
       <title>Using Comp-O to Build and Describe Component-Based Services</title>
       <link>https://smart-researchteam.github.io/publication/alary-hal-03120764/</link>
       <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
-      
       <guid>https://smart-researchteam.github.io/publication/alary-hal-03120764/</guid>
       <description></description>
     </item>
@@ -21,7 +24,6 @@
       <title>Towards an Assessment Grid for Intelligent Modeling Assistance</title>
       <link>https://smart-researchteam.github.io/publication/mussbacher-hal-02925142/</link>
       <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
-      
       <guid>https://smart-researchteam.github.io/publication/mussbacher-hal-02925142/</guid>
       <description></description>
     </item>
@@ -30,7 +32,6 @@
       <title>Comp-O: an OWL-S Extension for Composite Service Description</title>
       <link>https://smart-researchteam.github.io/publication/alary-hal-02986555/</link>
       <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
-      
       <guid>https://smart-researchteam.github.io/publication/alary-hal-02986555/</guid>
       <description></description>
     </item>
@@ -39,7 +40,6 @@
       <title>Modeling and verification method for an early evaluation of Systems of Systems interactions</title>
       <link>https://smart-researchteam.github.io/publication/ba-ob-br-2020-1/</link>
       <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
-      
       <guid>https://smart-researchteam.github.io/publication/ba-ob-br-2020-1/</guid>
       <description></description>
     </item>
@@ -48,7 +48,6 @@
       <title>Modeling and verification method for an early evaluation of systems of systems interactions</title>
       <link>https://smart-researchteam.github.io/publication/dblp-confsac-baduel-ob-20/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      
       <guid>https://smart-researchteam.github.io/publication/dblp-confsac-baduel-ob-20/</guid>
       <description></description>
     </item>
@@ -57,7 +56,6 @@
       <title>Papyrus for Gamers, Let&#39;s Play Modeling</title>
       <link>https://smart-researchteam.github.io/publication/papygame-2020/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      
       <guid>https://smart-researchteam.github.io/publication/papygame-2020/</guid>
       <description></description>
     </item>
@@ -66,7 +64,6 @@
       <title>From DSL Specification to Interactive Computer Programming Environment</title>
       <link>https://smart-researchteam.github.io/publication/jeanjean-hal-02307953/</link>
       <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://smart-researchteam.github.io/publication/jeanjean-hal-02307953/</guid>
       <description></description>
     </item>
@@ -75,7 +72,6 @@
       <title>Bringing Intelligence to Sociotechnical IoT Systems: Modeling Opportunities and Challenges</title>
       <link>https://smart-researchteam.github.io/publication/combemale-hal-02285737/</link>
       <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://smart-researchteam.github.io/publication/combemale-hal-02285737/</guid>
       <description></description>
     </item>
@@ -84,7 +80,6 @@
       <title>Live-UMLRT: A Tool for Live Modeling of UML-RT Models</title>
       <link>https://smart-researchteam.github.io/publication/bagherzadeh-hal-02407932/</link>
       <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://smart-researchteam.github.io/publication/bagherzadeh-hal-02407932/</guid>
       <description></description>
     </item>
@@ -93,7 +88,6 @@
       <title>Automated user-oriented description of emerging composite ambient applications</title>
       <link>https://smart-researchteam.github.io/publication/ko-2019-2/</link>
       <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://smart-researchteam.github.io/publication/ko-2019-2/</guid>
       <description></description>
     </item>
@@ -102,7 +96,6 @@
       <title>A collaborative decision approach for alignment of heterogeneous models</title>
       <link>https://smart-researchteam.github.io/publication/bennani-hal-02456775/</link>
       <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://smart-researchteam.github.io/publication/bennani-hal-02456775/</guid>
       <description></description>
     </item>
@@ -111,7 +104,6 @@
       <title>Using Patterns to parameterize the execution of Collaborative Tasks</title>
       <link>https://smart-researchteam.github.io/publication/cisse-hal-02456742/</link>
       <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://smart-researchteam.github.io/publication/cisse-hal-02456742/</guid>
       <description></description>
     </item>
@@ -120,7 +112,6 @@
       <title>A Pattern-based Process Management System to flexibly execute Collaborative Tasks</title>
       <link>https://smart-researchteam.github.io/publication/cisse-hal-02486110/</link>
       <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://smart-researchteam.github.io/publication/cisse-hal-02486110/</guid>
       <description></description>
     </item>
@@ -129,7 +120,6 @@
       <title>Approximate Loop Unrolling</title>
       <link>https://smart-researchteam.github.io/publication/rodriguezcancio-hal-02407868/</link>
       <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://smart-researchteam.github.io/publication/rodriguezcancio-hal-02407868/</guid>
       <description></description>
     </item>
@@ -138,7 +128,6 @@
       <title>Reflections on Teaching Formal Methods for Software Development in Higher Education</title>
       <link>https://smart-researchteam.github.io/publication/dblp-conffisee-khazeev-acmbb-19/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://smart-researchteam.github.io/publication/dblp-conffisee-khazeev-acmbb-19/</guid>
       <description></description>
     </item>
@@ -147,7 +136,6 @@
       <title>Towards an Anatomy of Software Requirements</title>
       <link>https://smart-researchteam.github.io/publication/dblp-conftools-0001-begn-19/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://smart-researchteam.github.io/publication/dblp-conftools-0001-begn-19/</guid>
       <description></description>
     </item>
@@ -156,7 +144,6 @@
       <title>A Survey on MBSE Adoption Challenges</title>
       <link>https://smart-researchteam.github.io/publication/chami-hal-02124402/</link>
       <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
-      
       <guid>https://smart-researchteam.github.io/publication/chami-hal-02124402/</guid>
       <description></description>
     </item>
@@ -165,7 +152,6 @@
       <title>Fostering metamodels and grammars within a dedicated environment for HPC: the NabLab environment (tool demo)</title>
       <link>https://smart-researchteam.github.io/publication/lelandais-hal-01910139/</link>
       <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
-      
       <guid>https://smart-researchteam.github.io/publication/lelandais-hal-01910139/</guid>
       <description></description>
     </item>
@@ -174,7 +160,6 @@
       <title>Modular Language Composition for the Masses</title>
       <link>https://smart-researchteam.github.io/publication/leduc-hal-01890446/</link>
       <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
-      
       <guid>https://smart-researchteam.github.io/publication/leduc-hal-01890446/</guid>
       <description></description>
     </item>
@@ -183,7 +168,6 @@
       <title>Shape-Diverse DSLs: Languages without Borders (Vision Paper)</title>
       <link>https://smart-researchteam.github.io/publication/coulon-hal-01889155/</link>
       <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
-      
       <guid>https://smart-researchteam.github.io/publication/coulon-hal-01889155/</guid>
       <description></description>
     </item>
@@ -192,7 +176,6 @@
       <title>Model-Driven Engineering for Design-Runtime Interaction in Complex Systems: Scientific Challenges and Roadmap</title>
       <link>https://smart-researchteam.github.io/publication/staf18/</link>
       <pubDate>Wed, 10 Oct 2018 00:00:00 +0000</pubDate>
-      
       <guid>https://smart-researchteam.github.io/publication/staf18/</guid>
       <description></description>
     </item>
@@ -201,7 +184,6 @@
       <title>Model-Based Systems Engineering for Systems Simulation</title>
       <link>https://smart-researchteam.github.io/publication/lerouxbeaudout-hal-02124418/</link>
       <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
-      
       <guid>https://smart-researchteam.github.io/publication/lerouxbeaudout-hal-02124418/</guid>
       <description></description>
     </item>
@@ -210,7 +192,6 @@
       <title>Reverse engineering language product lines from existing DSL variants</title>
       <link>https://smart-researchteam.github.io/publication/mendezacuna-hal-02982981/</link>
       <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
-      
       <guid>https://smart-researchteam.github.io/publication/mendezacuna-hal-02982981/</guid>
       <description></description>
     </item>
@@ -219,7 +200,6 @@
       <title>Reconciling Requirements and Continuous Integration in an Agile Context</title>
       <link>https://smart-researchteam.github.io/publication/mosser-hal-01947831/</link>
       <pubDate>Wed, 01 Aug 2018 00:00:00 +0000</pubDate>
-      
       <guid>https://smart-researchteam.github.io/publication/mosser-hal-01947831/</guid>
       <description></description>
     </item>
@@ -228,7 +208,6 @@
       <title>Emergence of Composite Services in Smart Environments</title>
       <link>https://smart-researchteam.github.io/publication/esof-poster2018/</link>
       <pubDate>Fri, 27 Jul 2018 00:00:00 +0000</pubDate>
-      
       <guid>https://smart-researchteam.github.io/publication/esof-poster2018/</guid>
       <description></description>
     </item>
@@ -237,7 +216,6 @@
       <title>How to handle environmental uncertainty in goal-based requirements engineering</title>
       <link>https://smart-researchteam.github.io/publication/icse-poster2018/</link>
       <pubDate>Fri, 27 Jul 2018 00:00:00 +0000</pubDate>
-      
       <guid>https://smart-researchteam.github.io/publication/icse-poster2018/</guid>
       <description></description>
     </item>
@@ -246,7 +224,6 @@
       <title>On the use of models for high-performance scientific computing applications: an experience report</title>
       <link>https://smart-researchteam.github.io/publication/sosym2018/</link>
       <pubDate>Fri, 27 Jul 2018 00:00:00 +0000</pubDate>
-      
       <guid>https://smart-researchteam.github.io/publication/sosym2018/</guid>
       <description></description>
     </item>
@@ -255,7 +232,6 @@
       <title>Towards a Requirements Engineering Approach for capturing Uncertainty in Cyber-Physical Systems Environment</title>
       <link>https://smart-researchteam.github.io/publication/iwcfs18/</link>
       <pubDate>Tue, 03 Jul 2018 00:00:00 +0000</pubDate>
-      
       <guid>https://smart-researchteam.github.io/publication/iwcfs18/</guid>
       <description></description>
     </item>
@@ -264,7 +240,6 @@
       <title>Towards a collaborative matching approach to relate sustainable cities design models (poster)</title>
       <link>https://smart-researchteam.github.io/publication/bennani-hal-02982573/</link>
       <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
-      
       <guid>https://smart-researchteam.github.io/publication/bennani-hal-02982573/</guid>
       <description></description>
     </item>
@@ -273,7 +248,6 @@
       <title>Towards Solving MBSE Adoption Challenges: The D3 MBSE Adoption Toolbox</title>
       <link>https://smart-researchteam.github.io/publication/chami-hal-02124403/</link>
       <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
-      
       <guid>https://smart-researchteam.github.io/publication/chami-hal-02124403/</guid>
       <description></description>
     </item>
@@ -282,7 +256,6 @@
       <title>Requirements Specific Modeling Language : un langage formel d&#39;expression d&#39;exigences</title>
       <link>https://smart-researchteam.github.io/publication/ciel18/</link>
       <pubDate>Wed, 27 Jun 2018 00:00:00 +0000</pubDate>
-      
       <guid>https://smart-researchteam.github.io/publication/ciel18/</guid>
       <description></description>
     </item>
@@ -291,7 +264,6 @@
       <title>SysML Models Verification and Validation in an Industrial Context: Challenges and Experimentation</title>
       <link>https://smart-researchteam.github.io/publication/ecmfa18/</link>
       <pubDate>Tue, 26 Jun 2018 00:00:00 +0000</pubDate>
-      
       <guid>https://smart-researchteam.github.io/publication/ecmfa18/</guid>
       <description></description>
     </item>
@@ -300,7 +272,6 @@
       <title>Ambient Intelligence Users in the Loop: Towards a Model-Driven Approach</title>
       <link>https://smart-researchteam.github.io/publication/mse18/</link>
       <pubDate>Mon, 25 Jun 2018 00:00:00 +0000</pubDate>
-      
       <guid>https://smart-researchteam.github.io/publication/mse18/</guid>
       <description></description>
     </item>
@@ -309,7 +280,6 @@
       <title>Ambient Intelligence Users in the Loop: Towards a Model-Driven Approach</title>
       <link>https://smart-researchteam.github.io/publication/koussaifi-hal-01815481/</link>
       <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
-      
       <guid>https://smart-researchteam.github.io/publication/koussaifi-hal-01815481/</guid>
       <description></description>
     </item>
@@ -318,7 +288,6 @@
       <title>Definition of states and modes as general concepts for system design and validation</title>
       <link>https://smart-researchteam.github.io/publication/baduel-hal-02943016/</link>
       <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
-      
       <guid>https://smart-researchteam.github.io/publication/baduel-hal-02943016/</guid>
       <description></description>
     </item>
@@ -327,7 +296,6 @@
       <title>Formalisation des relations entre exigences (Journées nationales du GDR GPL 2018, Grenoble, France)</title>
       <link>https://smart-researchteam.github.io/publication/galinier-hal-03033963/</link>
       <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
-      
       <guid>https://smart-researchteam.github.io/publication/galinier-hal-03033963/</guid>
       <description></description>
     </item>
@@ -336,7 +304,6 @@
       <title>Model Transformation Reuse across Metamodels - A classification and comparison of approaches</title>
       <link>https://smart-researchteam.github.io/publication/bruel-hal-01910113/</link>
       <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
-      
       <guid>https://smart-researchteam.github.io/publication/bruel-hal-01910113/</guid>
       <description></description>
     </item>
@@ -345,7 +312,6 @@
       <title>Model-Driven Engineering for Design-Runtime Interaction in Complex Systems: Scientific Challenges and Roadmap</title>
       <link>https://smart-researchteam.github.io/publication/bruneliere-hal-01890878/</link>
       <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
-      
       <guid>https://smart-researchteam.github.io/publication/bruneliere-hal-01890878/</guid>
       <description></description>
     </item>
@@ -354,7 +320,6 @@
       <title>Requirements Specific Modeling Language : un langage formel d&#39;expression d&#39;exigences</title>
       <link>https://smart-researchteam.github.io/publication/galinier-hal-01815467/</link>
       <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
-      
       <guid>https://smart-researchteam.github.io/publication/galinier-hal-01815467/</guid>
       <description></description>
     </item>
@@ -363,7 +328,6 @@
       <title>SysML Models Verification and Validation in an Industrial Context: Challenges and Experimentation</title>
       <link>https://smart-researchteam.github.io/publication/baduel-hal-01815510/</link>
       <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
-      
       <guid>https://smart-researchteam.github.io/publication/baduel-hal-01815510/</guid>
       <description></description>
     </item>
@@ -372,7 +336,6 @@
       <title>Trace Comprehension Operators for Executable DSLs</title>
       <link>https://smart-researchteam.github.io/publication/leroy-hal-01803031/</link>
       <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
-      
       <guid>https://smart-researchteam.github.io/publication/leroy-hal-01803031/</guid>
       <description></description>
     </item>
@@ -381,7 +344,6 @@
       <title>Collaborative model-based matching of heterogeneous models</title>
       <link>https://smart-researchteam.github.io/publication/bennani-hal-02279363/</link>
       <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
-      
       <guid>https://smart-researchteam.github.io/publication/bennani-hal-02279363/</guid>
       <description></description>
     </item>
@@ -390,7 +352,6 @@
       <title>Collaborative Processes Management: from Modeling to Enacting</title>
       <link>https://smart-researchteam.github.io/publication/cisse-hal-02279376/</link>
       <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
-      
       <guid>https://smart-researchteam.github.io/publication/cisse-hal-02279376/</guid>
       <description></description>
     </item>
@@ -399,7 +360,6 @@
       <title>Heterogeneous design models alignment: from matching to consistency management</title>
       <link>https://smart-researchteam.github.io/publication/elhamlaoui-hal-02319706/</link>
       <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
-      
       <guid>https://smart-researchteam.github.io/publication/elhamlaoui-hal-02319706/</guid>
       <description></description>
     </item>
@@ -408,7 +368,6 @@
       <title>AHM: Handling heterogeneous models matching and consistency via MDE</title>
       <link>https://smart-researchteam.github.io/publication/elhamlaoui-hal-03012570/</link>
       <pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate>
-      
       <guid>https://smart-researchteam.github.io/publication/elhamlaoui-hal-03012570/</guid>
       <description></description>
     </item>
@@ -417,7 +376,6 @@
       <title>Model driven consistency for heterogeneous models</title>
       <link>https://smart-researchteam.github.io/publication/elhamlaoui-hal-02982556/</link>
       <pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate>
-      
       <guid>https://smart-researchteam.github.io/publication/elhamlaoui-hal-02982556/</guid>
       <description></description>
     </item>
@@ -426,7 +384,6 @@
       <title>Translation of Heterogenous Requirements Meta-Models Through a Pivot Meta-Model</title>
       <link>https://smart-researchteam.github.io/publication/saidi-hal-02348233/</link>
       <pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate>
-      
       <guid>https://smart-researchteam.github.io/publication/saidi-hal-02348233/</guid>
       <description></description>
     </item>
@@ -435,7 +392,6 @@
       <title>Modeling Co-simulation: A First Experiment</title>
       <link>https://smart-researchteam.github.io/publication/gemoc2017/</link>
       <pubDate>Fri, 27 Oct 2017 00:00:00 +0000</pubDate>
-      
       <guid>https://smart-researchteam.github.io/publication/gemoc2017/</guid>
       <description></description>
     </item>
@@ -444,7 +400,6 @@
       <title>Intégration des (multi-)exigences tout au long du développement des systèmes complexes</title>
       <link>https://smart-researchteam.github.io/publication/galinier-hal-02864409/</link>
       <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
-      
       <guid>https://smart-researchteam.github.io/publication/galinier-hal-02864409/</guid>
       <description></description>
     </item>
@@ -453,7 +408,6 @@
       <title>Joint Proceedings of the 12th Educators Symposium (EduSymp 2016) and 3rd International Workshop on Open Source Software for Model Driven Engineering (OSS4MDE 2016)</title>
       <link>https://smart-researchteam.github.io/publication/models16/</link>
       <pubDate>Mon, 03 Oct 2016 00:00:00 +0000</pubDate>
-      
       <guid>https://smart-researchteam.github.io/publication/models16/</guid>
       <description></description>
     </item>
@@ -462,7 +416,6 @@
       <title>Dedal-CDL: Modeling First-class Architectural Changes in Dedal</title>
       <link>https://smart-researchteam.github.io/publication/zhang-hal-00714629/</link>
       <pubDate>Wed, 01 Aug 2012 00:00:00 +0000</pubDate>
-      
       <guid>https://smart-researchteam.github.io/publication/zhang-hal-00714629/</guid>
       <description></description>
     </item>

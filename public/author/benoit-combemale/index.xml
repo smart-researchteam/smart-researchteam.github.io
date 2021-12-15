@@ -1,18 +1,21 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Benoit Combemale on Sm@RT Research Team</title>
+    <title>Benoit Combemale | Sm@RT Research Team</title>
     <link>https://smart-researchteam.github.io/author/benoit-combemale/</link>
-    <description>Recent content in Benoit Combemale on Sm@RT Research Team</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; {year} - ACDC. Last update: October 6th, 2021</copyright>
-    <lastBuildDate>Thu, 01 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://smart-researchteam.github.io/author/benoit-combemale/index.xml" rel="self" type="application/rss+xml" />
+      <atom:link href="https://smart-researchteam.github.io/author/benoit-combemale/index.xml" rel="self" type="application/rss+xml" />
+    <description>Benoit Combemale</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 - ACDC. Last update: October 6th, 2021</copyright><lastBuildDate>Thu, 01 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://smart-researchteam.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Benoit Combemale</title>
+      <link>https://smart-researchteam.github.io/author/benoit-combemale/</link>
+    </image>
+    
     <item>
       <title>Towards an Assessment Grid for Intelligent Modeling Assistance</title>
       <link>https://smart-researchteam.github.io/publication/mussbacher-hal-02925142/</link>
       <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
-      
       <guid>https://smart-researchteam.github.io/publication/mussbacher-hal-02925142/</guid>
       <description></description>
     </item>
@@ -21,7 +24,6 @@
       <title>A Hitchhiker&#39;s Guide to Model-Driven Engineering for Data-Centric Systems</title>
       <link>https://smart-researchteam.github.io/publication/combemale-hal-02612087/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      
       <guid>https://smart-researchteam.github.io/publication/combemale-hal-02612087/</guid>
       <description></description>
     </item>
@@ -30,7 +32,6 @@
       <title>Automatic generation of Truffle-based interpreters for Domain-Specific Languages</title>
       <link>https://smart-researchteam.github.io/publication/leduc-hal-02395867/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      
       <guid>https://smart-researchteam.github.io/publication/leduc-hal-02395867/</guid>
       <description></description>
     </item>
@@ -39,7 +40,6 @@
       <title>Comparing and classifying model transformation reuse approaches across metamodels</title>
       <link>https://smart-researchteam.github.io/publication/dblp-journalssosym-bruel-cgjklmsv-20/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      
       <guid>https://smart-researchteam.github.io/publication/dblp-journalssosym-bruel-cgjklmsv-20/</guid>
       <description></description>
     </item>
@@ -48,7 +48,6 @@
       <title>Live Modeling in the Context of State Machine Models and Code Generation</title>
       <link>https://smart-researchteam.github.io/publication/bagherzadeh-hal-02942374/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      
       <guid>https://smart-researchteam.github.io/publication/bagherzadeh-hal-02942374/</guid>
       <description></description>
     </item>
@@ -57,7 +56,6 @@
       <title>Modeling Languages in Industry 4.0: An Extended Systematic Mapping Study</title>
       <link>https://smart-researchteam.github.io/publication/wortmann-hal-02282028/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      
       <guid>https://smart-researchteam.github.io/publication/wortmann-hal-02282028/</guid>
       <description></description>
     </item>
@@ -66,7 +64,6 @@
       <title>Opportunities in Intelligent Modeling Assistance</title>
       <link>https://smart-researchteam.github.io/publication/mussbacher-hal-02876536/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      
       <guid>https://smart-researchteam.github.io/publication/mussbacher-hal-02876536/</guid>
       <description></description>
     </item>
@@ -75,7 +72,6 @@
       <title>Runtime Monitoring for Executable DSLs</title>
       <link>https://smart-researchteam.github.io/publication/leroy-hal-03109992/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      
       <guid>https://smart-researchteam.github.io/publication/leroy-hal-03109992/</guid>
       <description></description>
     </item>
@@ -84,7 +80,6 @@
       <title>The Software Language Extension Problem</title>
       <link>https://smart-researchteam.github.io/publication/leduc-hal-02399166/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      
       <guid>https://smart-researchteam.github.io/publication/leduc-hal-02399166/</guid>
       <description></description>
     </item>
@@ -93,7 +88,6 @@
       <title>Toward model-driven sustainability evaluation</title>
       <link>https://smart-researchteam.github.io/publication/dblp-journalscacm-kienzle-mcbbbbbc-20/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      
       <guid>https://smart-researchteam.github.io/publication/dblp-journalscacm-kienzle-mcbbbbbc-20/</guid>
       <description></description>
     </item>
@@ -102,7 +96,6 @@
       <title>From DSL Specification to Interactive Computer Programming Environment</title>
       <link>https://smart-researchteam.github.io/publication/jeanjean-hal-02307953/</link>
       <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://smart-researchteam.github.io/publication/jeanjean-hal-02307953/</guid>
       <description></description>
     </item>
@@ -111,7 +104,6 @@
       <title>Bringing Intelligence to Sociotechnical IoT Systems: Modeling Opportunities and Challenges</title>
       <link>https://smart-researchteam.github.io/publication/combemale-hal-02285737/</link>
       <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://smart-researchteam.github.io/publication/combemale-hal-02285737/</guid>
       <description></description>
     </item>
@@ -120,7 +112,6 @@
       <title>Live-UMLRT: A Tool for Live Modeling of UML-RT Models</title>
       <link>https://smart-researchteam.github.io/publication/bagherzadeh-hal-02407932/</link>
       <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://smart-researchteam.github.io/publication/bagherzadeh-hal-02407932/</guid>
       <description></description>
     </item>
@@ -129,7 +120,6 @@
       <title>Approximate Loop Unrolling</title>
       <link>https://smart-researchteam.github.io/publication/rodriguezcancio-hal-02407868/</link>
       <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://smart-researchteam.github.io/publication/rodriguezcancio-hal-02407868/</guid>
       <description></description>
     </item>
@@ -138,7 +128,6 @@
       <title>A Unifying Framework for Homogeneous Model Composition</title>
       <link>https://smart-researchteam.github.io/publication/kienzle-hal-01949050/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://smart-researchteam.github.io/publication/kienzle-hal-01949050/</guid>
       <description></description>
     </item>
@@ -147,7 +136,6 @@
       <title>Applying Model-Driven Engineering to High-Performance Computing: Experience Report, Lessons Learned, and Remaining Challenges</title>
       <link>https://smart-researchteam.github.io/publication/lelandais-hal-02296030/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://smart-researchteam.github.io/publication/lelandais-hal-02296030/</guid>
       <description></description>
     </item>
@@ -156,7 +144,6 @@
       <title>The JOT Journal: Towards a Rising Generation</title>
       <link>https://smart-researchteam.github.io/publication/pierantonio-hal-02408017/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://smart-researchteam.github.io/publication/pierantonio-hal-02408017/</guid>
       <description></description>
     </item>
@@ -165,7 +152,6 @@
       <title>Towards a Model-Based DevOps for Cyber-Physical Systems</title>
       <link>https://smart-researchteam.github.io/publication/combemale-hal-02407886/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://smart-researchteam.github.io/publication/combemale-hal-02407886/</guid>
       <description></description>
     </item>
@@ -174,7 +160,6 @@
       <title>Fostering metamodels and grammars within a dedicated environment for HPC: the NabLab environment (tool demo)</title>
       <link>https://smart-researchteam.github.io/publication/lelandais-hal-01910139/</link>
       <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
-      
       <guid>https://smart-researchteam.github.io/publication/lelandais-hal-01910139/</guid>
       <description></description>
     </item>
@@ -183,7 +168,6 @@
       <title>Modular Language Composition for the Masses</title>
       <link>https://smart-researchteam.github.io/publication/leduc-hal-01890446/</link>
       <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
-      
       <guid>https://smart-researchteam.github.io/publication/leduc-hal-01890446/</guid>
       <description></description>
     </item>
@@ -192,7 +176,6 @@
       <title>Shape-Diverse DSLs: Languages without Borders (Vision Paper)</title>
       <link>https://smart-researchteam.github.io/publication/coulon-hal-01889155/</link>
       <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
-      
       <guid>https://smart-researchteam.github.io/publication/coulon-hal-01889155/</guid>
       <description></description>
     </item>
@@ -201,7 +184,6 @@
       <title>Reverse engineering language product lines from existing DSL variants</title>
       <link>https://smart-researchteam.github.io/publication/mendezacuna-hal-02982981/</link>
       <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
-      
       <guid>https://smart-researchteam.github.io/publication/mendezacuna-hal-02982981/</guid>
       <description></description>
     </item>
@@ -210,7 +192,6 @@
       <title>Model Transformation Reuse across Metamodels - A classification and comparison of approaches</title>
       <link>https://smart-researchteam.github.io/publication/bruel-hal-01910113/</link>
       <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
-      
       <guid>https://smart-researchteam.github.io/publication/bruel-hal-01910113/</guid>
       <description></description>
     </item>
@@ -219,7 +200,6 @@
       <title>Trace Comprehension Operators for Executable DSLs</title>
       <link>https://smart-researchteam.github.io/publication/leroy-hal-01803031/</link>
       <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
-      
       <guid>https://smart-researchteam.github.io/publication/leroy-hal-01803031/</guid>
       <description></description>
     </item>
@@ -228,7 +208,6 @@
       <title>Omniscient Debugging for Executable DSLs</title>
       <link>https://smart-researchteam.github.io/publication/bousse-hal-01662336/</link>
       <pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate>
-      
       <guid>https://smart-researchteam.github.io/publication/bousse-hal-01662336/</guid>
       <description></description>
     </item>
@@ -237,7 +216,6 @@
       <title>Concern-Oriented Language Development (COLD): Fostering Reuse in Language Engineering</title>
       <link>https://smart-researchteam.github.io/publication/combemale-hal-01803008/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      
       <guid>https://smart-researchteam.github.io/publication/combemale-hal-01803008/</guid>
       <description></description>
     </item>

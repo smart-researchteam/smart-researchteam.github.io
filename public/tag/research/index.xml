@@ -1,20 +1,23 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Research on Sm@RT Research Team</title>
+    <title>Research | Sm@RT Research Team</title>
     <link>https://smart-researchteam.github.io/tag/research/</link>
-    <description>Recent content in Research on Sm@RT Research Team</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; {year} - ACDC. Last update: October 6th, 2021</copyright>
-    <lastBuildDate>Fri, 28 May 2021 11:00:00 +0000</lastBuildDate><atom:link href="https://smart-researchteam.github.io/tag/research/index.xml" rel="self" type="application/rss+xml" />
+      <atom:link href="https://smart-researchteam.github.io/tag/research/index.xml" rel="self" type="application/rss+xml" />
+    <description>Research</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 - ACDC. Last update: October 6th, 2021</copyright><lastBuildDate>Fri, 28 May 2021 11:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://smart-researchteam.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Research</title>
+      <link>https://smart-researchteam.github.io/tag/research/</link>
+    </image>
+    
     <item>
       <title>Requirements Engineering @ SM@RT</title>
       <link>https://smart-researchteam.github.io/talk/20210528-gt-ie/</link>
       <pubDate>Fri, 28 May 2021 11:00:00 +0000</pubDate>
-      
       <guid>https://smart-researchteam.github.io/talk/20210528-gt-ie/</guid>
-      <description>Présentation des activités IE de l&amp;rsquo;équipe SM@RT</description>
+      <description></description>
     </item>
     
   </channel>

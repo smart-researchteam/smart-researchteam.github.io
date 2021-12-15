@@ -1,18 +1,21 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>&#34;Composition&#34; on Sm@RT Research Team</title>
+    <title>&#34;Composition&#34; | Sm@RT Research Team</title>
     <link>https://smart-researchteam.github.io/tag/composition/</link>
-    <description>Recent content in &#34;Composition&#34; on Sm@RT Research Team</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; {year} - ACDC. Last update: October 6th, 2021</copyright>
-    <lastBuildDate>Sun, 01 Jul 2018 00:00:00 +0000</lastBuildDate><atom:link href="https://smart-researchteam.github.io/tag/composition/index.xml" rel="self" type="application/rss+xml" />
+      <atom:link href="https://smart-researchteam.github.io/tag/composition/index.xml" rel="self" type="application/rss+xml" />
+    <description>&#34;Composition&#34;</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 - ACDC. Last update: October 6th, 2021</copyright><lastBuildDate>Sun, 01 Jul 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://smart-researchteam.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>&#34;Composition&#34;</title>
+      <link>https://smart-researchteam.github.io/tag/composition/</link>
+    </image>
+    
     <item>
       <title>Emergence of Composite Services in Smart Environments</title>
       <link>https://smart-researchteam.github.io/publication/koussaifi-hal-02280356/</link>
       <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
-      
       <guid>https://smart-researchteam.github.io/publication/koussaifi-hal-02280356/</guid>
       <description></description>
     </item>

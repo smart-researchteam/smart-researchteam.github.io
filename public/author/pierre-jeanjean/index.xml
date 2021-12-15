@@ -1,18 +1,21 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Pierre Jeanjean on Sm@RT Research Team</title>
+    <title>Pierre Jeanjean | Sm@RT Research Team</title>
     <link>https://smart-researchteam.github.io/author/pierre-jeanjean/</link>
-    <description>Recent content in Pierre Jeanjean on Sm@RT Research Team</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; {year} - ACDC. Last update: October 6th, 2021</copyright>
-    <lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://smart-researchteam.github.io/author/pierre-jeanjean/index.xml" rel="self" type="application/rss+xml" />
+      <atom:link href="https://smart-researchteam.github.io/author/pierre-jeanjean/index.xml" rel="self" type="application/rss+xml" />
+    <description>Pierre Jeanjean</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 - ACDC. Last update: October 6th, 2021</copyright><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://smart-researchteam.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Pierre Jeanjean</title>
+      <link>https://smart-researchteam.github.io/author/pierre-jeanjean/</link>
+    </image>
+    
     <item>
       <title>Opportunities in Intelligent Modeling Assistance</title>
       <link>https://smart-researchteam.github.io/publication/mussbacher-hal-02876536/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      
       <guid>https://smart-researchteam.github.io/publication/mussbacher-hal-02876536/</guid>
       <description></description>
     </item>
@@ -21,7 +24,6 @@
       <title>Runtime Monitoring for Executable DSLs</title>
       <link>https://smart-researchteam.github.io/publication/leroy-hal-03109992/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      
       <guid>https://smart-researchteam.github.io/publication/leroy-hal-03109992/</guid>
       <description></description>
     </item>
@@ -30,7 +32,6 @@
       <title>From DSL Specification to Interactive Computer Programming Environment</title>
       <link>https://smart-researchteam.github.io/publication/jeanjean-hal-02307953/</link>
       <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://smart-researchteam.github.io/publication/jeanjean-hal-02307953/</guid>
       <description></description>
     </item>

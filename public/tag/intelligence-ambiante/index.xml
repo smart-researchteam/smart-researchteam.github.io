@@ -1,18 +1,21 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>&#34;Intelligence ambiante&#34; on Sm@RT Research Team</title>
+    <title>&#34;Intelligence ambiante&#34; | Sm@RT Research Team</title>
     <link>https://smart-researchteam.github.io/tag/intelligence-ambiante/</link>
-    <description>Recent content in &#34;Intelligence ambiante&#34; on Sm@RT Research Team</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; {year} - ACDC. Last update: October 6th, 2021</copyright>
-    <lastBuildDate>Tue, 01 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://smart-researchteam.github.io/tag/intelligence-ambiante/index.xml" rel="self" type="application/rss+xml" />
+      <atom:link href="https://smart-researchteam.github.io/tag/intelligence-ambiante/index.xml" rel="self" type="application/rss+xml" />
+    <description>&#34;Intelligence ambiante&#34;</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 - ACDC. Last update: October 6th, 2021</copyright><lastBuildDate>Tue, 01 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://smart-researchteam.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>&#34;Intelligence ambiante&#34;</title>
+      <link>https://smart-researchteam.github.io/tag/intelligence-ambiante/</link>
+    </image>
+    
     <item>
       <title>Modélisation centrée utilisateur pour la configuration logicielle en environnement ambiant</title>
       <link>https://smart-researchteam.github.io/publication/koussaifi-tel-03209249/</link>
       <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
-      
       <guid>https://smart-researchteam.github.io/publication/koussaifi-tel-03209249/</guid>
       <description></description>
     </item>
