@@ -10,7 +10,8 @@ authors:
 superuser: false
 
 # Role/position
-role: Consultant & Ph.D. student since 01/2015
+#role: Consultant & Ph.D. student since 01/2015
+role: Consultant
 
 # Short bio (displayed in user profile at end of posts)
 bio: Ph.D. thesis on "Evaluation of integrated conceptual models in mechatronic systems"
@@ -45,4 +46,9 @@ highlight_name: false
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - Ph.D. Students
+
+# Tags: can be used for filtering projects.
+#tags = ["past","phd","grant"]
+tags: ["past","phd","indus"]
+
 ---

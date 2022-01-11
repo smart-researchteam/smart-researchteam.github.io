@@ -4,7 +4,7 @@
 USER=bruel
 #HOST=ftpintra.irit.fr
 HOST=bali.irit.fr
-DIR=/usr/local/WWW2/Equipes   # might sometimes be empty!
+DIR=/usr/local/WWW2/Equipes/SMART   # might sometimes be empty!
 
 echo -e "\033[0;32mBuilding pages...\033[0m"
 

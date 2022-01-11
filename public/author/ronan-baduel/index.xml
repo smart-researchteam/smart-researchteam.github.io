@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ronan Baduel | Sm@RT Research Team</title>
+    <link>https://smart-researchteam.github.io/author/ronan-baduel/</link>
+      <atom:link href="https://smart-researchteam.github.io/author/ronan-baduel/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ronan Baduel</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 - ACDC. Last update: October 6th, 2021</copyright><lastBuildDate>Sun, 01 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://smart-researchteam.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Ronan Baduel</title>
+      <link>https://smart-researchteam.github.io/author/ronan-baduel/</link>
+    </image>
+    
+    <item>
+      <title>Modeling and verification method for an early evaluation of Systems of Systems interactions</title>
+      <link>https://smart-researchteam.github.io/publication/ba-ob-br-2020-1/</link>
+      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>https://smart-researchteam.github.io/publication/ba-ob-br-2020-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modeling and verification method for an early evaluation of systems of systems interactions</title>
+      <link>https://smart-researchteam.github.io/publication/dblp-confsac-baduel-ob-20/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://smart-researchteam.github.io/publication/dblp-confsac-baduel-ob-20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An integrated model-based early validation approach for railway systems</title>
+      <link>https://smart-researchteam.github.io/publication/baduel-tel-03012187/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://smart-researchteam.github.io/publication/baduel-tel-03012187/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SysML Models Verification and Validation in an Industrial Context: Challenges and Experimentation</title>
+      <link>https://smart-researchteam.github.io/publication/ecmfa18/</link>
+      <pubDate>Tue, 26 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>https://smart-researchteam.github.io/publication/ecmfa18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Definition of states and modes as general concepts for system design and validation</title>
+      <link>https://smart-researchteam.github.io/publication/baduel-hal-02943016/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>https://smart-researchteam.github.io/publication/baduel-hal-02943016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SysML Models Verification and Validation in an Industrial Context: Challenges and Experimentation</title>
+      <link>https://smart-researchteam.github.io/publication/baduel-hal-01815510/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>https://smart-researchteam.github.io/publication/baduel-hal-01815510/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
