@@ -5,12 +5,76 @@
     <link>https://smart-researchteam.github.io/author/saloua-bennani/</link>
       <atom:link href="https://smart-researchteam.github.io/author/saloua-bennani/index.xml" rel="self" type="application/rss+xml" />
     <description>Saloua Bennani</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 - ACDC. Last update: October 6th, 2021</copyright>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 - ACDC. Last update: October 6th, 2021</copyright><lastBuildDate>Wed, 01 Jul 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://smart-researchteam.github.io/author/saloua-bennani/avatar_huc09fd31ce9bb786d1041f70ffa59556f_461750_270x270_fill_q90_lanczos_center.jpg</url>
+      <url>https://smart-researchteam.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>Saloua Bennani</title>
       <link>https://smart-researchteam.github.io/author/saloua-bennani/</link>
     </image>
+    
+    <item>
+      <title>Une approche IDM pour l&#39;alignement collaboratif de modèles hétérogènes</title>
+      <link>https://smart-researchteam.github.io/publication/bennani-tel-03267969/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://smart-researchteam.github.io/publication/bennani-tel-03267969/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Formalization of Group Decision Making in Multi-Viewpoints Design</title>
+      <link>https://smart-researchteam.github.io/publication/bennani-hal-03126083/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://smart-researchteam.github.io/publication/bennani-hal-03126083/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A collaborative decision approach for alignment of heterogeneous models</title>
+      <link>https://smart-researchteam.github.io/publication/bennani-hal-02456775/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://smart-researchteam.github.io/publication/bennani-hal-02456775/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards a collaborative matching approach to relate sustainable cities design models (poster)</title>
+      <link>https://smart-researchteam.github.io/publication/bennani-hal-02982573/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+      <guid>https://smart-researchteam.github.io/publication/bennani-hal-02982573/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Collaborative model-based matching of heterogeneous models</title>
+      <link>https://smart-researchteam.github.io/publication/bennani-hal-02279363/</link>
+      <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
+      <guid>https://smart-researchteam.github.io/publication/bennani-hal-02279363/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Heterogeneous design models alignment: from matching to consistency management</title>
+      <link>https://smart-researchteam.github.io/publication/elhamlaoui-hal-02319706/</link>
+      <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
+      <guid>https://smart-researchteam.github.io/publication/elhamlaoui-hal-02319706/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AHM: Handling heterogeneous models matching and consistency via MDE</title>
+      <link>https://smart-researchteam.github.io/publication/elhamlaoui-hal-03012570/</link>
+      <pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate>
+      <guid>https://smart-researchteam.github.io/publication/elhamlaoui-hal-03012570/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Model driven consistency for heterogeneous models</title>
+      <link>https://smart-researchteam.github.io/publication/elhamlaoui-hal-02982556/</link>
+      <pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate>
+      <guid>https://smart-researchteam.github.io/publication/elhamlaoui-hal-02982556/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
