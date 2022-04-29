@@ -129,7 +129,8 @@ ignoreFiles = ["\\.ipynb$", ".ipynb_checkpoints$", "\\.Rmd$", "\\.Rmarkdown$", "
 
 # security (bug 29/04/2022)
 [security]
-  [[security.funcs]]
-    getenv = "^HUGO_"
-  [[security.funcs]]
-    getenv = "^WC_"
+  [security.funcs]
+    getenv = [
+      "^HUGO_",
+      "^WC_"
+    ]
