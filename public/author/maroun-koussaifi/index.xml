@@ -5,76 +5,12 @@
     <link>https://smart-researchteam.github.io/author/maroun-koussaifi/</link>
       <atom:link href="https://smart-researchteam.github.io/author/maroun-koussaifi/index.xml" rel="self" type="application/rss+xml" />
     <description>Maroun Koussaifi</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 - ACDC. Last update: October 6th, 2021</copyright><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 - ACDC. Last update: October 6th, 2021</copyright>
     <image>
-      <url>https://smart-researchteam.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <url>https://smart-researchteam.github.io/author/maroun-koussaifi/avatar_hu7d0a7eb2b32b98a3190dbf532c365264_38897_270x270_fill_q90_lanczos_center.jpg</url>
       <title>Maroun Koussaifi</title>
       <link>https://smart-researchteam.github.io/author/maroun-koussaifi/</link>
     </image>
-    
-    <item>
-      <title>Model-Driven Engineering for End-Users in the Loop in Smart Ambient Systems</title>
-      <link>https://smart-researchteam.github.io/publication/jucs-2021/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://smart-researchteam.github.io/publication/jucs-2021/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Modélisation centrée utilisateur pour la configuration logicielle en environnement ambiant</title>
-      <link>https://smart-researchteam.github.io/publication/koussaifi-tel-03209249/</link>
-      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>https://smart-researchteam.github.io/publication/koussaifi-tel-03209249/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Putting the End-User in the Loop in Smart Ambient Systems: an Approach based on Model-Driven Engineering</title>
-      <link>https://smart-researchteam.github.io/publication/koussaifi-hal-03120776/</link>
-      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://smart-researchteam.github.io/publication/koussaifi-hal-03120776/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Automated user-oriented description of emerging composite ambient applications</title>
-      <link>https://smart-researchteam.github.io/publication/ko-2019-2/</link>
-      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>https://smart-researchteam.github.io/publication/ko-2019-2/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Emergence of Composite Services in Smart Environments</title>
-      <link>https://smart-researchteam.github.io/publication/esof-poster2018/</link>
-      <pubDate>Fri, 27 Jul 2018 00:00:00 +0000</pubDate>
-      <guid>https://smart-researchteam.github.io/publication/esof-poster2018/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Emergence of Composite Services in Smart Environments</title>
-      <link>https://smart-researchteam.github.io/publication/koussaifi-hal-02280356/</link>
-      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
-      <guid>https://smart-researchteam.github.io/publication/koussaifi-hal-02280356/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Ambient Intelligence Users in the Loop: Towards a Model-Driven Approach</title>
-      <link>https://smart-researchteam.github.io/publication/mse18/</link>
-      <pubDate>Mon, 25 Jun 2018 00:00:00 +0000</pubDate>
-      <guid>https://smart-researchteam.github.io/publication/mse18/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Ambient Intelligence Users in the Loop: Towards a Model-Driven Approach</title>
-      <link>https://smart-researchteam.github.io/publication/koussaifi-hal-01815481/</link>
-      <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
-      <guid>https://smart-researchteam.github.io/publication/koussaifi-hal-01815481/</guid>
-      <description></description>
-    </item>
     
   </channel>
 </rss>
