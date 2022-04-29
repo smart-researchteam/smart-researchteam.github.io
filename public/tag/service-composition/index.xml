@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Service Composition | Sm@RT Research Team</title>
+    <link>https://smart-researchteam.github.io/tag/service-composition/</link>
+      <atom:link href="https://smart-researchteam.github.io/tag/service-composition/index.xml" rel="self" type="application/rss+xml" />
+    <description>Service Composition</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 - ACDC. Last update: October 6th, 2021</copyright><lastBuildDate>Fri, 01 May 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://smart-researchteam.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Service Composition</title>
+      <link>https://smart-researchteam.github.io/tag/service-composition/</link>
+    </image>
+    
+    <item>
+      <title>Putting the End-User in the Loop in Smart Ambient Systems: an Approach based on Model-Driven Engineering</title>
+      <link>https://smart-researchteam.github.io/publication/koussaifi-hal-03120776/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://smart-researchteam.github.io/publication/koussaifi-hal-03120776/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Automated user-oriented description of emerging composite ambient applications</title>
+      <link>https://smart-researchteam.github.io/publication/ko-2019-2/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://smart-researchteam.github.io/publication/ko-2019-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Emergence of Composite Services in Smart Environments</title>
+      <link>https://smart-researchteam.github.io/publication/esof-poster2018/</link>
+      <pubDate>Fri, 27 Jul 2018 00:00:00 +0000</pubDate>
+      <guid>https://smart-researchteam.github.io/publication/esof-poster2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ambient Intelligence Users in the Loop: Towards a Model-Driven Approach</title>
+      <link>https://smart-researchteam.github.io/publication/mse18/</link>
+      <pubDate>Mon, 25 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>https://smart-researchteam.github.io/publication/mse18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ambient Intelligence Users in the Loop: Towards a Model-Driven Approach</title>
+      <link>https://smart-researchteam.github.io/publication/koussaifi-hal-01815481/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>https://smart-researchteam.github.io/publication/koussaifi-hal-01815481/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
