@@ -23,7 +23,7 @@ external_link: "https://www.linkedin.com/in/fgalinier-spilen"
 # Organizations/Affiliations
 organizations:
 - name: Spilen
-#  url: ""
+  url: "https://spilen.fr/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: Co-directed with Bertrand Meyer and Sophie Ebersold
