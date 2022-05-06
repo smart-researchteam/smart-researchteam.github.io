@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>&#34;seamless requirements&#34; | Sm@RT Research Team</title>
+    <link>https://smart-researchteam.github.io/tag/seamless-requirements/</link>
+      <atom:link href="https://smart-researchteam.github.io/tag/seamless-requirements/index.xml" rel="self" type="application/rss+xml" />
+    <description>&#34;seamless requirements&#34;</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 - ACDC. Last update: October 6th, 2021</copyright><lastBuildDate>Mon, 01 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://smart-researchteam.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>&#34;seamless requirements&#34;</title>
+      <link>https://smart-researchteam.github.io/tag/seamless-requirements/</link>
+    </image>
+    
+    <item>
+      <title>Seamless Object-Oriented Requirements</title>
+      <link>https://smart-researchteam.github.io/publication/naumchev-tel-02872242/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://smart-researchteam.github.io/publication/naumchev-tel-02872242/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AutoReq: expressing and verifying requirements for control systems</title>
+      <link>https://smart-researchteam.github.io/publication/na-me-ga-br-ma-eb-2019-1/</link>
+      <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>https://smart-researchteam.github.io/publication/na-me-ga-br-ma-eb-2019-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AutoReq: expressing and verifying requirements for control systems</title>
+      <link>https://smart-researchteam.github.io/publication/naumchev-hal-02878938/</link>
+      <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>https://smart-researchteam.github.io/publication/naumchev-hal-02878938/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A contract-based method to specify stimulus-response requirements</title>
+      <link>https://smart-researchteam.github.io/publication/naumchev-hal-03120284/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://smart-researchteam.github.io/publication/naumchev-hal-03120284/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
