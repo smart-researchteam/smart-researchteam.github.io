@@ -32,9 +32,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:m.naumcheva@innopolis.university'  # For a direct email link, use "mailto:test@example.org".
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/in/ildar-nigmatullin
+# - icon: linkedin
+#   icon_pack: fab
+#   link: https://www.linkedin.com/in/ildar-nigmatullin
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "m.naumcheva@innopolis.university"
