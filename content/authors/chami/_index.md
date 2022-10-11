@@ -11,7 +11,7 @@ superuser: false
 
 # Role/position
 #role: Consultant & Ph.D. student since 01/2015
-role: Consultant
+role: 2021 - Consultant
 
 # Short bio (displayed in user profile at end of posts)
 bio: Ph.D. thesis on "Evaluation of integrated conceptual models in mechatronic systems"
