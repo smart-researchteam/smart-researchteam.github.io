@@ -5,12 +5,36 @@
     <link>https://smart-researchteam.github.io/</link>
       <atom:link href="https://smart-researchteam.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Sm@RT Research Team</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 - ACDC. Last update: October, 11th, 2022</copyright><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 - ACDC. Last update: October, 11th, 2022</copyright><lastBuildDate>Thu, 23 Jun 2022 11:00:00 +0000</lastBuildDate>
     <image>
       <url>https://smart-researchteam.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>Sm@RT Research Team</title>
       <link>https://smart-researchteam.github.io/</link>
     </image>
+    
+    <item>
+      <title>L&#39;importance du Génie Logiciel</title>
+      <link>https://smart-researchteam.github.io/talk/20220901-youtube-fsl/</link>
+      <pubDate>Thu, 23 Jun 2022 11:00:00 +0000</pubDate>
+      <guid>https://smart-researchteam.github.io/talk/20220901-youtube-fsl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data-Informed Instructional Design</title>
+      <link>https://smart-researchteam.github.io/talk/20220224-diversecoffee/</link>
+      <pubDate>Tue, 22 Feb 2022 11:00:00 +0000</pubDate>
+      <guid>https://smart-researchteam.github.io/talk/20220224-diversecoffee/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Use of acceptance testing (BDD using Cucumber) in a DevOps</title>
+      <link>https://smart-researchteam.github.io/talk/20220216-wsse22/</link>
+      <pubDate>Wed, 16 Feb 2022 11:00:00 +0000</pubDate>
+      <guid>https://smart-researchteam.github.io/talk/20220216-wsse22/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>RQCODE - Towards Object-Oriented Requirements in the Software Security Domain</title>
@@ -25,6 +49,14 @@
       <link>https://smart-researchteam.github.io/publication/dblp-journalssncs-capozucca-bmm-22/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
       <guid>https://smart-researchteam.github.io/publication/dblp-journalssncs-capozucca-bmm-22/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CIFRE REX</title>
+      <link>https://smart-researchteam.github.io/talk/20211130-gt-cifre/</link>
+      <pubDate>Mon, 29 Nov 2021 11:00:00 +0000</pubDate>
+      <guid>https://smart-researchteam.github.io/talk/20211130-gt-cifre/</guid>
       <description></description>
     </item>
     
