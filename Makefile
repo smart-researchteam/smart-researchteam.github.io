@@ -27,4 +27,5 @@ deploy: docs/index.html
 	hugo
 	rm -rf docs
 	mv public docs
+	git add docs
 	git commit -am "🤖 DEPLOY: last updates"; git pull; git push
