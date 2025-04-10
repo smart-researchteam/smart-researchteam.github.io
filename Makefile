@@ -21,6 +21,11 @@ clean:
 install_netlify_client:
 	npm install netlify-cli -g
 
+install:
+	brew update && brew upgrade
+	brew install git golang hugo node
+
+
 deploy: docs/index.html
 	@echo "========================================"
 	@echo "==> Deploy updates "

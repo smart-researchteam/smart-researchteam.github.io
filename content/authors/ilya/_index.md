@@ -47,6 +47,6 @@ highlight_name: false
 user_groups:
 - Ph.D. Students
 
-tags: ["current", "phd", "indus"]
+tags: ["past", "phd", "indus"]
 
 ---
