@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>HPC | Sm@RT Research Team</title>
+    <link>https://smart-researchteam.github.io/tag/hpc/</link>
+      <atom:link href="https://smart-researchteam.github.io/tag/hpc/index.xml" rel="self" type="application/rss+xml" />
+    <description>HPC</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2025 - ACDC. Last update: April, 15th, 2025</copyright><lastBuildDate>Fri, 27 Jul 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://smart-researchteam.github.io/media/icon_hu_1b4bcfdf7d67b990.png</url>
+      <title>HPC</title>
+      <link>https://smart-researchteam.github.io/tag/hpc/</link>
+    </image>
+    
+    <item>
+      <title>On the use of models for high-performance scientific computing applications: an experience report</title>
+      <link>https://smart-researchteam.github.io/publication/sosym2018/</link>
+      <pubDate>Fri, 27 Jul 2018 00:00:00 +0000</pubDate>
+      <guid>https://smart-researchteam.github.io/publication/sosym2018/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>&#34;Complex System&#34; | Sm@RT Research Team</title>
+    <link>https://smart-researchteam.github.io/tag/complex-system/</link>
+      <atom:link href="https://smart-researchteam.github.io/tag/complex-system/index.xml" rel="self" type="application/rss+xml" />
+    <description>&#34;Complex System&#34;</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2025 - ACDC. Last update: April, 15th, 2025</copyright><lastBuildDate>Mon, 01 Mar 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://smart-researchteam.github.io/media/icon_hu_1b4bcfdf7d67b990.png</url>
+      <title>&#34;Complex System&#34;</title>
+      <link>https://smart-researchteam.github.io/tag/complex-system/</link>
+    </image>
+    
+    <item>
+      <title>Modélisation des systèmes complexes et Points de vue : l&#39;Ingénierie des Modèles centrée utilisateur pour l&#39;Ingénierie Système</title>
+      <link>https://smart-researchteam.github.io/publication/ebersold-tel-03201997/</link>
+      <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://smart-researchteam.github.io/publication/ebersold-tel-03201997/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

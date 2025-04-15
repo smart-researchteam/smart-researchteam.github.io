@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SM@RT | Sm@RT Research Team</title>
+    <link>https://smart-researchteam.github.io/author/sm@rt/</link>
+      <atom:link href="https://smart-researchteam.github.io/author/sm@rt/index.xml" rel="self" type="application/rss+xml" />
+    <description>SM@RT</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2025 - ACDC. Last update: April, 15th, 2025</copyright>
+    <image>
+      <url>https://smart-researchteam.github.io/author/sm@rt/avatar_hu_c1ab4eeacbd919b4.png</url>
+      <title>SM@RT</title>
+      <link>https://smart-researchteam.github.io/author/sm@rt/</link>
+    </image>
+    
+  </channel>
+</rss>

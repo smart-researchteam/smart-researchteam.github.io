@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Márton Búr | Sm@RT Research Team</title>
+    <link>http://localhost:1313/author/marton-bur/</link>
+      <atom:link href="http://localhost:1313/author/marton-bur/index.xml" rel="self" type="application/rss+xml" />
+    <description>Márton Búr</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2025 - ACDC. Last update: October, 11th, 2022</copyright><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_1b4bcfdf7d67b990.png</url>
+      <title>Márton Búr</title>
+      <link>http://localhost:1313/author/marton-bur/</link>
+    </image>
+    
+    <item>
+      <title>Opportunities in Intelligent Modeling Assistance</title>
+      <link>http://localhost:1313/publication/mussbacher-hal-02876536/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/mussbacher-hal-02876536/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

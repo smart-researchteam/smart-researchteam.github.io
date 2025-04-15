@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Erwan Bousse | Sm@RT Research Team</title>
+    <link>http://localhost:1313/author/erwan-bousse/</link>
+      <atom:link href="http://localhost:1313/author/erwan-bousse/index.xml" rel="self" type="application/rss+xml" />
+    <description>Erwan Bousse</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2025 - ACDC. Last update: October, 11th, 2022</copyright><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_1b4bcfdf7d67b990.png</url>
+      <title>Erwan Bousse</title>
+      <link>http://localhost:1313/author/erwan-bousse/</link>
+    </image>
+    
+    <item>
+      <title>Runtime Monitoring for Executable DSLs</title>
+      <link>http://localhost:1313/publication/leroy-hal-03109992/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/leroy-hal-03109992/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Trace Comprehension Operators for Executable DSLs</title>
+      <link>http://localhost:1313/publication/leroy-hal-01803031/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/leroy-hal-01803031/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Omniscient Debugging for Executable DSLs</title>
+      <link>http://localhost:1313/publication/bousse-hal-01662336/</link>
+      <pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/bousse-hal-01662336/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Concern-Oriented Language Development (COLD): Fostering Reuse in Language Engineering</title>
+      <link>http://localhost:1313/publication/combemale-hal-01803008/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/combemale-hal-01803008/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

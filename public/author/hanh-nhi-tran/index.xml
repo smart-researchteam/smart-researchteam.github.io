@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hanh Nhi Tran | Sm@RT Research Team</title>
+    <link>http://localhost:1313/author/hanh-nhi-tran/</link>
+      <atom:link href="http://localhost:1313/author/hanh-nhi-tran/index.xml" rel="self" type="application/rss+xml" />
+    <description>Hanh Nhi Tran</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2025 - ACDC. Last update: October, 11th, 2022</copyright><lastBuildDate>Sat, 01 Jun 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_1b4bcfdf7d67b990.png</url>
+      <title>Hanh Nhi Tran</title>
+      <link>http://localhost:1313/author/hanh-nhi-tran/</link>
+    </image>
+    
+    <item>
+      <title>Using Patterns to parameterize the execution of Collaborative Tasks</title>
+      <link>http://localhost:1313/publication/cisse-hal-02456742/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/cisse-hal-02456742/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Pattern-based Process Management System to flexibly execute Collaborative Tasks</title>
+      <link>http://localhost:1313/publication/cisse-hal-02486110/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/cisse-hal-02486110/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Collaborative Processes Management: from Modeling to Enacting</title>
+      <link>http://localhost:1313/publication/cisse-hal-02279376/</link>
+      <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/cisse-hal-02279376/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

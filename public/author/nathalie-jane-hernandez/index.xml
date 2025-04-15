@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nathalie Jane Hernandez | Sm@RT Research Team</title>
+    <link>http://localhost:1313/author/nathalie-jane-hernandez/</link>
+      <atom:link href="http://localhost:1313/author/nathalie-jane-hernandez/index.xml" rel="self" type="application/rss+xml" />
+    <description>Nathalie Jane Hernandez</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2025 - ACDC. Last update: October, 11th, 2022</copyright><lastBuildDate>Sun, 01 Nov 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_1b4bcfdf7d67b990.png</url>
+      <title>Nathalie Jane Hernandez</title>
+      <link>http://localhost:1313/author/nathalie-jane-hernandez/</link>
+    </image>
+    
+    <item>
+      <title>Using Comp-O to Build and Describe Component-Based Services</title>
+      <link>http://localhost:1313/publication/alary-hal-03120764/</link>
+      <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/alary-hal-03120764/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Comp-O: an OWL-S Extension for Composite Service Description</title>
+      <link>http://localhost:1313/publication/alary-hal-02986555/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/alary-hal-02986555/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

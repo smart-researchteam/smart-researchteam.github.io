@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Grant | Sm@RT Research Team</title>
+    <link>https://smart-researchteam.github.io/tag/grant/</link>
+      <atom:link href="https://smart-researchteam.github.io/tag/grant/index.xml" rel="self" type="application/rss+xml" />
+    <description>Grant</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2025 - ACDC. Last update: April, 15th, 2025</copyright>
+    <image>
+      <url>https://smart-researchteam.github.io/media/icon_hu_1b4bcfdf7d67b990.png</url>
+      <title>Grant</title>
+      <link>https://smart-researchteam.github.io/tag/grant/</link>
+    </image>
+    
+    <item>
+      <title>Florian Galinier</title>
+      <link>https://smart-researchteam.github.io/author/florian-galinier/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://smart-researchteam.github.io/author/florian-galinier/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hamna Aslam</title>
+      <link>https://smart-researchteam.github.io/author/hamna-aslam/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://smart-researchteam.github.io/author/hamna-aslam/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jacob Geisel</title>
+      <link>https://smart-researchteam.github.io/author/jacob-geisel/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://smart-researchteam.github.io/author/jacob-geisel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Maroun Koussaifi</title>
+      <link>https://smart-researchteam.github.io/author/maroun-koussaifi/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://smart-researchteam.github.io/author/maroun-koussaifi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mika Pons</title>
+      <link>https://smart-researchteam.github.io/author/mika-pons/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://smart-researchteam.github.io/author/mika-pons/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

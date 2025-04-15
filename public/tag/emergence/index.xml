@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>&#34;Emergence&#34; | Sm@RT Research Team</title>
+    <link>https://smart-researchteam.github.io/tag/emergence/</link>
+      <atom:link href="https://smart-researchteam.github.io/tag/emergence/index.xml" rel="self" type="application/rss+xml" />
+    <description>&#34;Emergence&#34;</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2025 - ACDC. Last update: April, 15th, 2025</copyright><lastBuildDate>Mon, 01 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://smart-researchteam.github.io/media/icon_hu_1b4bcfdf7d67b990.png</url>
+      <title>&#34;Emergence&#34;</title>
+      <link>https://smart-researchteam.github.io/tag/emergence/</link>
+    </image>
+    
+    <item>
+      <title>Automated user-oriented description of emerging composite ambient applications</title>
+      <link>https://smart-researchteam.github.io/publication/ko-2019-2/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://smart-researchteam.github.io/publication/ko-2019-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Emergence of Composite Services in Smart Environments</title>
+      <link>https://smart-researchteam.github.io/publication/koussaifi-hal-02280356/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+      <guid>https://smart-researchteam.github.io/publication/koussaifi-hal-02280356/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

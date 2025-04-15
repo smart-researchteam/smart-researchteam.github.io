@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>&#34;Architecture Description Language&#34; | Sm@RT Research Team</title>
+    <link>https://smart-researchteam.github.io/tag/architecture-description-language/</link>
+      <atom:link href="https://smart-researchteam.github.io/tag/architecture-description-language/index.xml" rel="self" type="application/rss+xml" />
+    <description>&#34;Architecture Description Language&#34;</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2025 - ACDC. Last update: April, 15th, 2025</copyright><lastBuildDate>Wed, 01 Aug 2012 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://smart-researchteam.github.io/media/icon_hu_1b4bcfdf7d67b990.png</url>
+      <title>&#34;Architecture Description Language&#34;</title>
+      <link>https://smart-researchteam.github.io/tag/architecture-description-language/</link>
+    </image>
+    
+    <item>
+      <title>Dedal-CDL: Modeling First-class Architectural Changes in Dedal</title>
+      <link>https://smart-researchteam.github.io/publication/zhang-hal-00714629/</link>
+      <pubDate>Wed, 01 Aug 2012 00:00:00 +0000</pubDate>
+      <guid>https://smart-researchteam.github.io/publication/zhang-hal-00714629/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

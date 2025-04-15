@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nacer Eddine Zarour | Sm@RT Research Team</title>
+    <link>http://localhost:1313/author/nacer-eddine-zarour/</link>
+      <atom:link href="http://localhost:1313/author/nacer-eddine-zarour/index.xml" rel="self" type="application/rss+xml" />
+    <description>Nacer Eddine Zarour</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2025 - ACDC. Last update: October, 11th, 2022</copyright><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_1b4bcfdf7d67b990.png</url>
+      <title>Nacer Eddine Zarour</title>
+      <link>http://localhost:1313/author/nacer-eddine-zarour/</link>
+    </image>
+    
+    <item>
+      <title>MidSemI: A Middleware for Semantic Integration of Business Data with Large-scale Social and Linked Data</title>
+      <link>http://localhost:1313/publication/sellami-hal-02976632/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/sellami-hal-02976632/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Translation of Heterogenous Requirements Meta-Models Through a Pivot Meta-Model</title>
+      <link>http://localhost:1313/publication/saidi-hal-02348233/</link>
+      <pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/saidi-hal-02348233/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A new multi-criteria decision process to prioritise requirements</title>
+      <link>http://localhost:1313/publication/amroune-hal-03044232/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/amroune-hal-03044232/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

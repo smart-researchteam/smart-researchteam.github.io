@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>&#34;Semantic Web&#34; | Sm@RT Research Team</title>
+    <link>https://smart-researchteam.github.io/tag/semantic-web/</link>
+      <atom:link href="https://smart-researchteam.github.io/tag/semantic-web/index.xml" rel="self" type="application/rss+xml" />
+    <description>&#34;Semantic Web&#34;</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2025 - ACDC. Last update: April, 15th, 2025</copyright><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://smart-researchteam.github.io/media/icon_hu_1b4bcfdf7d67b990.png</url>
+      <title>&#34;Semantic Web&#34;</title>
+      <link>https://smart-researchteam.github.io/tag/semantic-web/</link>
+    </image>
+    
+    <item>
+      <title>MidSemI: A Middleware for Semantic Integration of Business Data with Large-scale Social and Linked Data</title>
+      <link>https://smart-researchteam.github.io/publication/sellami-hal-02976632/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://smart-researchteam.github.io/publication/sellami-hal-02976632/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

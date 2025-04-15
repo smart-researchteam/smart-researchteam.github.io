@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Karim Jahed | Sm@RT Research Team</title>
+    <link>http://localhost:1313/author/karim-jahed/</link>
+      <atom:link href="http://localhost:1313/author/karim-jahed/index.xml" rel="self" type="application/rss+xml" />
+    <description>Karim Jahed</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2025 - ACDC. Last update: October, 11th, 2022</copyright><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_1b4bcfdf7d67b990.png</url>
+      <title>Karim Jahed</title>
+      <link>http://localhost:1313/author/karim-jahed/</link>
+    </image>
+    
+    <item>
+      <title>Live Modeling in the Context of State Machine Models and Code Generation</title>
+      <link>http://localhost:1313/publication/bagherzadeh-hal-02942374/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/bagherzadeh-hal-02942374/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Live-UMLRT: A Tool for Live Modeling of UML-RT Models</title>
+      <link>http://localhost:1313/publication/bagherzadeh-hal-02407932/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/bagherzadeh-hal-02407932/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
