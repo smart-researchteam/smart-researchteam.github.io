@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Benoît Lelandais | Sm@RT Research Team</title>
-    <link>https://smart-researchteam.github.io/author/benoit-lelandais/</link>
-      <atom:link href="https://smart-researchteam.github.io/author/benoit-lelandais/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/benoit-lelandais/</link>
+      <atom:link href="http://localhost:1313/author/benoit-lelandais/index.xml" rel="self" type="application/rss+xml" />
     <description>Benoît Lelandais</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2025 - ACDC. Last update: October, 11th, 2022</copyright><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://smart-researchteam.github.io/media/icon_hu_1b4bcfdf7d67b990.png</url>
+      <url>http://localhost:1313/media/icon_hu_1b4bcfdf7d67b990.png</url>
       <title>Benoît Lelandais</title>
-      <link>https://smart-researchteam.github.io/author/benoit-lelandais/</link>
+      <link>http://localhost:1313/author/benoit-lelandais/</link>
     </image>
     
     <item>
       <title>Applying Model-Driven Engineering to High-Performance Computing: Experience Report, Lessons Learned, and Remaining Challenges</title>
-      <link>https://smart-researchteam.github.io/publication/lelandais-hal-02296030/</link>
+      <link>http://localhost:1313/publication/lelandais-hal-02296030/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://smart-researchteam.github.io/publication/lelandais-hal-02296030/</guid>
+      <guid>http://localhost:1313/publication/lelandais-hal-02296030/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Fostering metamodels and grammars within a dedicated environment for HPC: the NabLab environment (tool demo)</title>
-      <link>https://smart-researchteam.github.io/publication/lelandais-hal-01910139/</link>
+      <link>http://localhost:1313/publication/lelandais-hal-01910139/</link>
       <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
-      <guid>https://smart-researchteam.github.io/publication/lelandais-hal-01910139/</guid>
+      <guid>http://localhost:1313/publication/lelandais-hal-01910139/</guid>
       <description></description>
     </item>
     

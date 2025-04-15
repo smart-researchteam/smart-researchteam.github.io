@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Eric Van Wyk | Sm@RT Research Team</title>
-    <link>https://smart-researchteam.github.io/author/eric-van-wyk/</link>
-      <atom:link href="https://smart-researchteam.github.io/author/eric-van-wyk/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/eric-van-wyk/</link>
+      <atom:link href="http://localhost:1313/author/eric-van-wyk/index.xml" rel="self" type="application/rss+xml" />
     <description>Eric Van Wyk</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2025 - ACDC. Last update: October, 11th, 2022</copyright><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://smart-researchteam.github.io/media/icon_hu_1b4bcfdf7d67b990.png</url>
+      <url>http://localhost:1313/media/icon_hu_1b4bcfdf7d67b990.png</url>
       <title>Eric Van Wyk</title>
-      <link>https://smart-researchteam.github.io/author/eric-van-wyk/</link>
+      <link>http://localhost:1313/author/eric-van-wyk/</link>
     </image>
     
     <item>
       <title>The Software Language Extension Problem</title>
-      <link>https://smart-researchteam.github.io/publication/leduc-hal-02399166/</link>
+      <link>http://localhost:1313/publication/leduc-hal-02399166/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://smart-researchteam.github.io/publication/leduc-hal-02399166/</guid>
+      <guid>http://localhost:1313/publication/leduc-hal-02399166/</guid>
       <description></description>
     </item>
     

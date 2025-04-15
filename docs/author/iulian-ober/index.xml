@@ -2,53 +2,53 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Iulian Ober | Sm@RT Research Team</title>
-    <link>https://smart-researchteam.github.io/author/iulian-ober/</link>
-      <atom:link href="https://smart-researchteam.github.io/author/iulian-ober/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/iulian-ober/</link>
+      <atom:link href="http://localhost:1313/author/iulian-ober/index.xml" rel="self" type="application/rss+xml" />
     <description>Iulian Ober</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2025 - ACDC. Last update: October, 11th, 2022</copyright><lastBuildDate>Sun, 01 Mar 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://smart-researchteam.github.io/media/icon_hu_1b4bcfdf7d67b990.png</url>
+      <url>http://localhost:1313/media/icon_hu_1b4bcfdf7d67b990.png</url>
       <title>Iulian Ober</title>
-      <link>https://smart-researchteam.github.io/author/iulian-ober/</link>
+      <link>http://localhost:1313/author/iulian-ober/</link>
     </image>
     
     <item>
       <title>Modeling and verification method for an early evaluation of Systems of Systems interactions</title>
-      <link>https://smart-researchteam.github.io/publication/ba-ob-br-2020-1/</link>
+      <link>http://localhost:1313/publication/ba-ob-br-2020-1/</link>
       <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>https://smart-researchteam.github.io/publication/ba-ob-br-2020-1/</guid>
+      <guid>http://localhost:1313/publication/ba-ob-br-2020-1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Modeling and verification method for an early evaluation of systems of systems interactions</title>
-      <link>https://smart-researchteam.github.io/publication/dblp-confsac-baduel-ob-20/</link>
+      <link>http://localhost:1313/publication/dblp-confsac-baduel-ob-20/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://smart-researchteam.github.io/publication/dblp-confsac-baduel-ob-20/</guid>
+      <guid>http://localhost:1313/publication/dblp-confsac-baduel-ob-20/</guid>
       <description></description>
     </item>
     
     <item>
       <title>SysML Models Verification and Validation in an Industrial Context: Challenges and Experimentation</title>
-      <link>https://smart-researchteam.github.io/publication/ecmfa18/</link>
+      <link>http://localhost:1313/publication/ecmfa18/</link>
       <pubDate>Tue, 26 Jun 2018 00:00:00 +0000</pubDate>
-      <guid>https://smart-researchteam.github.io/publication/ecmfa18/</guid>
+      <guid>http://localhost:1313/publication/ecmfa18/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Definition of states and modes as general concepts for system design and validation</title>
-      <link>https://smart-researchteam.github.io/publication/baduel-hal-02943016/</link>
+      <link>http://localhost:1313/publication/baduel-hal-02943016/</link>
       <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
-      <guid>https://smart-researchteam.github.io/publication/baduel-hal-02943016/</guid>
+      <guid>http://localhost:1313/publication/baduel-hal-02943016/</guid>
       <description></description>
     </item>
     
     <item>
       <title>SysML Models Verification and Validation in an Industrial Context: Challenges and Experimentation</title>
-      <link>https://smart-researchteam.github.io/publication/baduel-hal-01815510/</link>
+      <link>http://localhost:1313/publication/baduel-hal-01815510/</link>
       <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
-      <guid>https://smart-researchteam.github.io/publication/baduel-hal-01815510/</guid>
+      <guid>http://localhost:1313/publication/baduel-hal-01815510/</guid>
       <description></description>
     </item>
     

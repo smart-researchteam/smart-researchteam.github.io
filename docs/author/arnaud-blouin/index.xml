@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Arnaud Blouin | Sm@RT Research Team</title>
-    <link>https://smart-researchteam.github.io/author/arnaud-blouin/</link>
-      <atom:link href="https://smart-researchteam.github.io/author/arnaud-blouin/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/arnaud-blouin/</link>
+      <atom:link href="http://localhost:1313/author/arnaud-blouin/index.xml" rel="self" type="application/rss+xml" />
     <description>Arnaud Blouin</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2025 - ACDC. Last update: October, 11th, 2022</copyright><lastBuildDate>Sat, 01 Sep 2018 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://smart-researchteam.github.io/media/icon_hu_1b4bcfdf7d67b990.png</url>
+      <url>http://localhost:1313/media/icon_hu_1b4bcfdf7d67b990.png</url>
       <title>Arnaud Blouin</title>
-      <link>https://smart-researchteam.github.io/author/arnaud-blouin/</link>
+      <link>http://localhost:1313/author/arnaud-blouin/</link>
     </image>
     
     <item>
       <title>Reverse engineering language product lines from existing DSL variants</title>
-      <link>https://smart-researchteam.github.io/publication/mendezacuna-hal-02982981/</link>
+      <link>http://localhost:1313/publication/mendezacuna-hal-02982981/</link>
       <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
-      <guid>https://smart-researchteam.github.io/publication/mendezacuna-hal-02982981/</guid>
+      <guid>http://localhost:1313/publication/mendezacuna-hal-02982981/</guid>
       <description></description>
     </item>
     

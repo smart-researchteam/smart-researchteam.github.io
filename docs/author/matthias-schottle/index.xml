@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Matthias Schöttle | Sm@RT Research Team</title>
-    <link>https://smart-researchteam.github.io/author/matthias-schottle/</link>
-      <atom:link href="https://smart-researchteam.github.io/author/matthias-schottle/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/matthias-schottle/</link>
+      <atom:link href="http://localhost:1313/author/matthias-schottle/index.xml" rel="self" type="application/rss+xml" />
     <description>Matthias Schöttle</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2025 - ACDC. Last update: October, 11th, 2022</copyright><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://smart-researchteam.github.io/media/icon_hu_1b4bcfdf7d67b990.png</url>
+      <url>http://localhost:1313/media/icon_hu_1b4bcfdf7d67b990.png</url>
       <title>Matthias Schöttle</title>
-      <link>https://smart-researchteam.github.io/author/matthias-schottle/</link>
+      <link>http://localhost:1313/author/matthias-schottle/</link>
     </image>
     
     <item>
       <title>Concern-Oriented Language Development (COLD): Fostering Reuse in Language Engineering</title>
-      <link>https://smart-researchteam.github.io/publication/combemale-hal-01803008/</link>
+      <link>http://localhost:1313/publication/combemale-hal-01803008/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://smart-researchteam.github.io/publication/combemale-hal-01803008/</guid>
+      <guid>http://localhost:1313/publication/combemale-hal-01803008/</guid>
       <description></description>
     </item>
     
