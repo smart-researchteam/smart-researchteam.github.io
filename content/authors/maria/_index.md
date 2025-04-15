@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Registration pending
+role: "2025 - Researcher"
 
 # Short bio (displayed in user profile at end of posts)
 bio: Ph.D. thesis on "Formal Requirements"
@@ -22,7 +22,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: Co-directed with Bertrand Meyer, Schaffhausen Institute of Technology.
+bio: Co-directed with Bertrand Meyer, Constructor Institute of Technology.
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -45,8 +45,8 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Ph.D. Students
+- Former Ph.D. Students
 
-tags: ["current", "phd", "indus"]
+tags: ["past", "phd", "indus"]
 
 ---

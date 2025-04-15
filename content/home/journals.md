@@ -9,7 +9,7 @@ active = true  # Activate this widget? true/false
 weight = 30  # Order that this section will appear.
 
 title = "Journal Publications"
-subtitle = "You can also access the [official list](https://hal.archives-ouvertes.fr/IRIT-SMART/search/index/?q=*) from the lab (up to date, but only related to it)."
+subtitle = "You can also access the [official list](https://hal.science/IRIT-SMART) from the lab (up to date, but only related to it)."
 
 [content]
   # Page type to display. E.g. post, talk, or publication.

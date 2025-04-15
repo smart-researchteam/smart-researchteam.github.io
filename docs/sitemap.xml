@@ -2,19 +2,40 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://smart-researchteam.github.io/authors/</loc>
-    <lastmod>2022-10-12T17:05:28+02:00</lastmod>
+    <loc>https://smart-researchteam.github.io/publication-type/1/</loc>
+    <lastmod>2023-06-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://smart-researchteam.github.io/tag/learning-analytics-git-traces-interactive-system-learning-analytics-traces-dapprentissage-git-systeme-interactif/</loc>
+    <lastmod>2023-06-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://smart-researchteam.github.io/publication_types/</loc>
+    <lastmod>2023-06-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://smart-researchteam.github.io/</loc>
+    <lastmod>2023-06-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://smart-researchteam.github.io/tags/</loc>
+    <lastmod>2023-06-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://smart-researchteam.github.io/publication/pons-hal-04144980/</loc>
+    <lastmod>2023-06-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://smart-researchteam.github.io/publication-type/2/</loc>
+    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://smart-researchteam.github.io/publication/jot-issue-2023-01-article-3/</loc>
+    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://smart-researchteam.github.io/publication/liu-hal-03941814/</loc>
+    <lastmod>2022-08-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://smart-researchteam.github.io/tag/states-and-modes-requirements-modeling-and-verification-domain-specific-language-model-checking-states-and-modes-requirements-modeling-and-verification-domain-specific-language-model-checking/</loc>
+    <lastmod>2022-08-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://smart-researchteam.github.io/talk/20220901-youtube-fsl/</loc>
     <lastmod>2022-10-12T17:05:28+02:00</lastmod>
   </url><url>
     <loc>https://smart-researchteam.github.io/tag/research/</loc>
-    <lastmod>2022-10-12T17:05:28+02:00</lastmod>
-  </url><url>
-    <loc>https://smart-researchteam.github.io/</loc>
-    <lastmod>2022-10-12T17:05:28+02:00</lastmod>
-  </url><url>
-    <loc>https://smart-researchteam.github.io/tags/</loc>
     <lastmod>2022-10-12T17:05:28+02:00</lastmod>
   </url><url>
     <loc>https://smart-researchteam.github.io/talk/20220224-diversecoffee/</loc>
@@ -23,40 +44,10 @@
     <loc>https://smart-researchteam.github.io/talk/20220216-wsse22/</loc>
     <lastmod>2022-10-12T17:05:28+02:00</lastmod>
   </url><url>
-    <loc>https://smart-researchteam.github.io/publication-type/1/</loc>
-    <lastmod>2022-10-12T09:57:32+02:00</lastmod>
-  </url><url>
-    <loc>https://smart-researchteam.github.io/publication-type/2/</loc>
-    <lastmod>2022-10-12T09:57:32+02:00</lastmod>
-  </url><url>
-    <loc>https://smart-researchteam.github.io/author/alfredo-capozucca/</loc>
-    <lastmod>2022-10-12T09:57:32+02:00</lastmod>
-  </url><url>
-    <loc>https://smart-researchteam.github.io/author/andrey-sadovykh/</loc>
-    <lastmod>2022-10-12T09:57:32+02:00</lastmod>
-  </url><url>
-    <loc>https://smart-researchteam.github.io/author/bertrand-meyer/</loc>
-    <lastmod>2022-10-12T09:57:32+02:00</lastmod>
-  </url><url>
-    <loc>https://smart-researchteam.github.io/author/ildar-nigmatullin/</loc>
-    <lastmod>2022-10-12T09:57:32+02:00</lastmod>
-  </url><url>
-    <loc>https://smart-researchteam.github.io/author/jean-michel-bruel/</loc>
-    <lastmod>2022-10-12T09:57:32+02:00</lastmod>
-  </url><url>
-    <loc>https://smart-researchteam.github.io/author/manuel-mazzara/</loc>
-    <lastmod>2022-10-12T09:57:32+02:00</lastmod>
-  </url><url>
-    <loc>https://smart-researchteam.github.io/author/nan-messe/</loc>
-    <lastmod>2022-10-12T09:57:32+02:00</lastmod>
-  </url><url>
-    <loc>https://smart-researchteam.github.io/publication_types/</loc>
-    <lastmod>2022-10-12T09:57:32+02:00</lastmod>
+    <loc>https://smart-researchteam.github.io/publication/incose-2022/</loc>
+    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://smart-researchteam.github.io/publication/dblp-conficst-nigmatullin-smeb-22/</loc>
-    <lastmod>2022-10-12T09:57:32+02:00</lastmod>
-  </url><url>
-    <loc>https://smart-researchteam.github.io/author/sophie-ebersold/</loc>
     <lastmod>2022-10-12T09:57:32+02:00</lastmod>
   </url><url>
     <loc>https://smart-researchteam.github.io/publication/dblp-journalssncs-capozucca-bmm-22/</loc>
@@ -86,13 +77,7 @@
     <loc>https://smart-researchteam.github.io/category/a/</loc>
     <lastmod>2021-10-08T12:43:30+02:00</lastmod>
   </url><url>
-    <loc>https://smart-researchteam.github.io/author/alexandr-naumchev/</loc>
-    <lastmod>2022-10-12T09:57:32+02:00</lastmod>
-  </url><url>
     <loc>https://smart-researchteam.github.io/categories/</loc>
-    <lastmod>2021-10-08T12:43:30+02:00</lastmod>
-  </url><url>
-    <loc>https://smart-researchteam.github.io/author/florian-galinier/</loc>
     <lastmod>2021-10-08T12:43:30+02:00</lastmod>
   </url><url>
     <loc>https://smart-researchteam.github.io/publication/acm-surveys-2021/</loc>
@@ -125,6 +110,9 @@
     <loc>https://smart-researchteam.github.io/tag/points-de-vue/</loc>
     <lastmod>2021-10-08T12:43:30+02:00</lastmod>
   </url><url>
+    <loc>https://smart-researchteam.github.io/tag/requirements/</loc>
+    <lastmod>2021-10-08T12:43:30+02:00</lastmod>
+  </url><url>
     <loc>https://smart-researchteam.github.io/tag/systeme-complexe/</loc>
     <lastmod>2021-10-08T12:43:30+02:00</lastmod>
   </url><url>
@@ -137,28 +125,10 @@
     <loc>https://smart-researchteam.github.io/publication/ebersold-tel-03201997/</loc>
     <lastmod>2021-10-08T12:43:30+02:00</lastmod>
   </url><url>
-    <loc>https://smart-researchteam.github.io/tag/requirements/</loc>
-    <lastmod>2021-11-25T11:00:54+01:00</lastmod>
-  </url><url>
     <loc>https://smart-researchteam.github.io/publication/dblp-confisdevel-aslam-nbb-21/</loc>
     <lastmod>2022-10-12T09:57:32+02:00</lastmod>
   </url><url>
-    <loc>https://smart-researchteam.github.io/author/hamna-aslam/</loc>
-    <lastmod>2022-10-12T09:57:32+02:00</lastmod>
-  </url><url>
-    <loc>https://smart-researchteam.github.io/author/jean-paul-arcangeli/</loc>
-    <lastmod>2021-10-08T12:43:30+02:00</lastmod>
-  </url><url>
-    <loc>https://smart-researchteam.github.io/author/joseph-alexander-brown/</loc>
-    <lastmod>2022-10-12T09:57:32+02:00</lastmod>
-  </url><url>
-    <loc>https://smart-researchteam.github.io/author/maroun-koussaifi/</loc>
-    <lastmod>2021-10-08T12:43:30+02:00</lastmod>
-  </url><url>
     <loc>https://smart-researchteam.github.io/publication/jucs-2021/</loc>
-    <lastmod>2021-10-08T12:43:30+02:00</lastmod>
-  </url><url>
-    <loc>https://smart-researchteam.github.io/author/sylvie-trouilhet/</loc>
     <lastmod>2021-10-08T12:43:30+02:00</lastmod>
   </url><url>
     <loc>https://smart-researchteam.github.io/talk/20201204-cusi/</loc>
@@ -221,17 +191,11 @@
     <loc>https://smart-researchteam.github.io/tag/emerging-service-description/</loc>
     <lastmod>2021-10-08T12:43:30+02:00</lastmod>
   </url><url>
+    <loc>https://smart-researchteam.github.io/tag/ontology/</loc>
+    <lastmod>2021-10-08T12:43:30+02:00</lastmod>
+  </url><url>
     <loc>https://smart-researchteam.github.io/tag/owl-s-extension/</loc>
     <lastmod>2021-10-08T12:43:30+02:00</lastmod>
-  </url><url>
-    <loc>https://smart-researchteam.github.io/author/gregory-alary/</loc>
-    <lastmod>2021-10-08T12:43:30+02:00</lastmod>
-  </url><url>
-    <loc>https://smart-researchteam.github.io/author/nathalie-jane-hernandez/</loc>
-    <lastmod>2021-10-08T12:43:30+02:00</lastmod>
-  </url><url>
-    <loc>https://smart-researchteam.github.io/tag/ontology/</loc>
-    <lastmod>2021-11-25T11:00:54+01:00</lastmod>
   </url><url>
     <loc>https://smart-researchteam.github.io/publication/alary-hal-03120764/</loc>
     <lastmod>2021-10-08T12:43:30+02:00</lastmod>
@@ -245,53 +209,35 @@
     <loc>https://smart-researchteam.github.io/tag/mbse/</loc>
     <lastmod>2021-11-25T11:00:54+01:00</lastmod>
   </url><url>
+    <loc>https://smart-researchteam.github.io/tag/ontology/</loc>
+    <lastmod>2021-11-25T11:00:54+01:00</lastmod>
+  </url><url>
     <loc>https://smart-researchteam.github.io/project/</loc>
+    <lastmod>2021-11-25T11:00:54+01:00</lastmod>
+  </url><url>
+    <loc>https://smart-researchteam.github.io/tag/requirements/</loc>
     <lastmod>2021-11-25T11:00:54+01:00</lastmod>
   </url><url>
     <loc>https://smart-researchteam.github.io/tag/vv/</loc>
     <lastmod>2021-11-25T11:00:54+01:00</lastmod>
   </url><url>
+    <loc>https://smart-researchteam.github.io/tag/fun/</loc>
+    <lastmod>2022-10-11T18:47:31+02:00</lastmod>
+  </url><url>
     <loc>https://smart-researchteam.github.io/tag/gamification/</loc>
-    <lastmod>2021-10-08T12:43:30+02:00</lastmod>
+    <lastmod>2021-10-06T18:56:48+02:00</lastmod>
   </url><url>
     <loc>https://smart-researchteam.github.io/tag/papyrus/</loc>
-    <lastmod>2021-10-08T12:43:30+02:00</lastmod>
-  </url><url>
-    <loc>https://smart-researchteam.github.io/author/annapaola-marconi/</loc>
-    <lastmod>2021-10-08T12:43:30+02:00</lastmod>
-  </url><url>
-    <loc>https://smart-researchteam.github.io/author/antonio-cicchetti/</loc>
-    <lastmod>2021-10-08T12:43:30+02:00</lastmod>
-  </url><url>
-    <loc>https://smart-researchteam.github.io/author/antonion-bucchiarone/</loc>
     <lastmod>2021-10-06T18:56:48+02:00</lastmod>
-  </url><url>
-    <loc>https://smart-researchteam.github.io/tag/fun/</loc>
-    <lastmod>2021-10-06T18:56:48+02:00</lastmod>
-  </url><url>
-    <loc>https://smart-researchteam.github.io/author/jordi-cabot/</loc>
-    <lastmod>2021-10-08T12:43:30+02:00</lastmod>
-  </url><url>
-    <loc>https://smart-researchteam.github.io/author/maxime-savary-leblanc/</loc>
-    <lastmod>2021-10-08T12:43:30+02:00</lastmod>
-  </url><url>
-    <loc>https://smart-researchteam.github.io/author/mirko-perillo/</loc>
-    <lastmod>2021-10-08T12:43:30+02:00</lastmod>
   </url><url>
     <loc>https://smart-researchteam.github.io/talk/20201021-modelsdemo/</loc>
     <lastmod>2021-10-06T18:56:48+02:00</lastmod>
-  </url><url>
-    <loc>https://smart-researchteam.github.io/author/sebastien-gerard/</loc>
-    <lastmod>2021-10-08T12:43:30+02:00</lastmod>
-  </url><url>
-    <loc>https://smart-researchteam.github.io/author/xavier-le-pallec/</loc>
-    <lastmod>2021-10-08T12:43:30+02:00</lastmod>
   </url><url>
     <loc>https://smart-researchteam.github.io/talk/20201019-modelsdocsymp/</loc>
     <lastmod>2021-10-06T18:56:48+02:00</lastmod>
   </url><url>
     <loc>https://smart-researchteam.github.io/tag/collaboration/</loc>
-    <lastmod>2021-10-08T12:43:30+02:00</lastmod>
+    <lastmod>2021-10-06T18:56:48+02:00</lastmod>
   </url><url>
     <loc>https://smart-researchteam.github.io/project/innopolis/</loc>
     <lastmod>2021-10-06T18:56:48+02:00</lastmod>
@@ -306,6 +252,9 @@
     <lastmod>2021-10-08T12:43:30+02:00</lastmod>
   </url><url>
     <loc>https://smart-researchteam.github.io/tag/assessment-levels/</loc>
+    <lastmod>2021-10-08T12:43:30+02:00</lastmod>
+  </url><url>
+    <loc>https://smart-researchteam.github.io/tag/collaboration/</loc>
     <lastmod>2021-10-08T12:43:30+02:00</lastmod>
   </url><url>
     <loc>https://smart-researchteam.github.io/tag/cosimulation-platform/</loc>
@@ -365,58 +314,22 @@
     <loc>https://smart-researchteam.github.io/tag/processus/</loc>
     <lastmod>2021-10-08T12:43:30+02:00</lastmod>
   </url><url>
+    <loc>https://smart-researchteam.github.io/tag/simulation/</loc>
+    <lastmod>2021-10-08T12:43:30+02:00</lastmod>
+  </url><url>
     <loc>https://smart-researchteam.github.io/tag/validation/</loc>
     <lastmod>2021-10-08T12:43:30+02:00</lastmod>
   </url><url>
     <loc>https://smart-researchteam.github.io/tag/verification/</loc>
     <lastmod>2021-10-08T12:43:30+02:00</lastmod>
   </url><url>
-    <loc>https://smart-researchteam.github.io/author/benoit-combemale/</loc>
-    <lastmod>2021-10-08T12:43:30+02:00</lastmod>
-  </url><url>
-    <loc>https://smart-researchteam.github.io/author/gregor-engels/</loc>
-    <lastmod>2021-10-08T12:43:30+02:00</lastmod>
-  </url><url>
-    <loc>https://smart-researchteam.github.io/author/gunter-mussbacher/</loc>
-    <lastmod>2021-10-08T12:43:30+02:00</lastmod>
-  </url><url>
-    <loc>https://smart-researchteam.github.io/author/houari-sahraoui/</loc>
-    <lastmod>2021-10-08T12:43:30+02:00</lastmod>
-  </url><url>
-    <loc>https://smart-researchteam.github.io/author/jorg-kienzle/</loc>
-    <lastmod>2021-10-08T12:43:30+02:00</lastmod>
-  </url><url>
-    <loc>https://smart-researchteam.github.io/author/loli-burgueno/</loc>
-    <lastmod>2021-10-08T12:43:30+02:00</lastmod>
-  </url><url>
-    <loc>https://smart-researchteam.github.io/author/mamadou-lakhassane-cisse/</loc>
-    <lastmod>2021-10-08T12:43:30+02:00</lastmod>
-  </url><url>
-    <loc>https://smart-researchteam.github.io/author/martin-weyssow/</loc>
+    <loc>https://smart-researchteam.github.io/tag/verification/</loc>
     <lastmod>2021-10-08T12:43:30+02:00</lastmod>
   </url><url>
     <loc>https://smart-researchteam.github.io/publication/lerouxbeaudout-tel-03098563/</loc>
     <lastmod>2021-10-08T12:43:30+02:00</lastmod>
   </url><url>
     <loc>https://smart-researchteam.github.io/publication/cisse-tel-03280101/</loc>
-    <lastmod>2021-10-08T12:43:30+02:00</lastmod>
-  </url><url>
-    <loc>https://smart-researchteam.github.io/author/nelly-bencomo/</loc>
-    <lastmod>2021-10-08T12:43:30+02:00</lastmod>
-  </url><url>
-    <loc>https://smart-researchteam.github.io/author/renan-leroux-beaudout/</loc>
-    <lastmod>2021-10-08T12:43:30+02:00</lastmod>
-  </url><url>
-    <loc>https://smart-researchteam.github.io/author/sebastien-mosser/</loc>
-    <lastmod>2021-10-08T12:43:30+02:00</lastmod>
-  </url><url>
-    <loc>https://smart-researchteam.github.io/author/silvia-abrahao/</loc>
-    <lastmod>2021-10-08T12:43:30+02:00</lastmod>
-  </url><url>
-    <loc>https://smart-researchteam.github.io/tag/simulation/</loc>
-    <lastmod>2021-10-08T12:43:30+02:00</lastmod>
-  </url><url>
-    <loc>https://smart-researchteam.github.io/author/thomas-kuhn/</loc>
     <lastmod>2021-10-08T12:43:30+02:00</lastmod>
   </url><url>
     <loc>https://smart-researchteam.github.io/publication/mussbacher-hal-02925142/</loc>
@@ -458,9 +371,6 @@
     <loc>https://smart-researchteam.github.io/tag/prise-de-decision-en-groupe/</loc>
     <lastmod>2021-10-08T12:43:30+02:00</lastmod>
   </url><url>
-    <loc>https://smart-researchteam.github.io/author/saloua-bennani/</loc>
-    <lastmod>2021-10-08T12:43:30+02:00</lastmod>
-  </url><url>
     <loc>https://smart-researchteam.github.io/publication/bennani-tel-03267969/</loc>
     <lastmod>2021-10-08T12:43:30+02:00</lastmod>
   </url><url>
@@ -473,6 +383,9 @@
     <loc>https://smart-researchteam.github.io/tag/model-driven-engineering/</loc>
     <lastmod>2021-10-08T12:43:30+02:00</lastmod>
   </url><url>
+    <loc>https://smart-researchteam.github.io/tag/service-composition/</loc>
+    <lastmod>2021-10-08T12:43:30+02:00</lastmod>
+  </url><url>
     <loc>https://smart-researchteam.github.io/tag/software-composition/</loc>
     <lastmod>2021-10-08T12:43:30+02:00</lastmod>
   </url><url>
@@ -482,22 +395,13 @@
     <loc>https://smart-researchteam.github.io/publication/koussaifi-hal-03120776/</loc>
     <lastmod>2021-10-08T12:43:30+02:00</lastmod>
   </url><url>
-    <loc>https://smart-researchteam.github.io/tag/service-composition/</loc>
-    <lastmod>2021-10-08T12:43:30+02:00</lastmod>
-  </url><url>
     <loc>https://smart-researchteam.github.io/tag/states-and-modes/</loc>
     <lastmod>2021-10-08T12:43:30+02:00</lastmod>
   </url><url>
     <loc>https://smart-researchteam.github.io/tag/system-of-systems-sos-early-validation/</loc>
     <lastmod>2021-10-08T12:43:30+02:00</lastmod>
   </url><url>
-    <loc>https://smart-researchteam.github.io/author/iulian-ober/</loc>
-    <lastmod>2021-10-08T12:43:30+02:00</lastmod>
-  </url><url>
     <loc>https://smart-researchteam.github.io/publication/ba-ob-br-2020-1/</loc>
-    <lastmod>2021-10-08T12:43:30+02:00</lastmod>
-  </url><url>
-    <loc>https://smart-researchteam.github.io/author/ronan-baduel/</loc>
     <lastmod>2021-10-08T12:43:30+02:00</lastmod>
   </url><url>
     <loc>https://smart-researchteam.github.io/tag/classification/</loc>
@@ -515,6 +419,9 @@
     <loc>https://smart-researchteam.github.io/tag/feature-model/</loc>
     <lastmod>2021-10-08T12:43:30+02:00</lastmod>
   </url><url>
+    <loc>https://smart-researchteam.github.io/tag/gamification/</loc>
+    <lastmod>2021-10-08T12:43:30+02:00</lastmod>
+  </url><url>
     <loc>https://smart-researchteam.github.io/tag/group-decision-making-gdm/</loc>
     <lastmod>2021-10-08T12:43:30+02:00</lastmod>
   </url><url>
@@ -525,6 +432,9 @@
     <lastmod>2021-10-08T12:43:30+02:00</lastmod>
   </url><url>
     <loc>https://smart-researchteam.github.io/tag/multi-viewpoints/</loc>
+    <lastmod>2021-10-08T12:43:30+02:00</lastmod>
+  </url><url>
+    <loc>https://smart-researchteam.github.io/tag/papyrus/</loc>
     <lastmod>2021-10-08T12:43:30+02:00</lastmod>
   </url><url>
     <loc>https://smart-researchteam.github.io/tag/reuse/</loc>
@@ -545,115 +455,13 @@
     <loc>https://smart-researchteam.github.io/publication/combemale-hal-02612087/</loc>
     <lastmod>2021-10-08T12:43:30+02:00</lastmod>
   </url><url>
-    <loc>https://smart-researchteam.github.io/author/andreas-wortmann/</loc>
-    <lastmod>2021-10-08T12:43:30+02:00</lastmod>
-  </url><url>
-    <loc>https://smart-researchteam.github.io/author/anne-koziolek/</loc>
-    <lastmod>2021-10-08T12:43:30+02:00</lastmod>
-  </url><url>
-    <loc>https://smart-researchteam.github.io/author/antonio-bucchiarone/</loc>
-    <lastmod>2021-10-08T12:43:30+02:00</lastmod>
-  </url><url>
     <loc>https://smart-researchteam.github.io/publication/leduc-hal-02395867/</loc>
-    <lastmod>2021-10-08T12:43:30+02:00</lastmod>
-  </url><url>
-    <loc>https://smart-researchteam.github.io/author/benjamin-benni/</loc>
-    <lastmod>2021-10-08T12:43:30+02:00</lastmod>
-  </url><url>
-    <loc>https://smart-researchteam.github.io/author/bernard-coulette/</loc>
-    <lastmod>2021-10-08T12:43:30+02:00</lastmod>
-  </url><url>
-    <loc>https://smart-researchteam.github.io/author/betty-h-c-cheng/</loc>
-    <lastmod>2021-10-08T12:43:30+02:00</lastmod>
-  </url><url>
-    <loc>https://smart-researchteam.github.io/author/betty-h.-c.-cheng/</loc>
-    <lastmod>2021-10-08T12:43:30+02:00</lastmod>
-  </url><url>
-    <loc>https://smart-researchteam.github.io/author/birgit-penzenstadler/</loc>
-    <lastmod>2021-10-08T12:43:30+02:00</lastmod>
-  </url><url>
-    <loc>https://smart-researchteam.github.io/author/christoph-becker/</loc>
-    <lastmod>2021-10-08T12:43:30+02:00</lastmod>
-  </url><url>
-    <loc>https://smart-researchteam.github.io/author/colin-c.-venters/</loc>
     <lastmod>2021-10-08T12:43:30+02:00</lastmod>
   </url><url>
     <loc>https://smart-researchteam.github.io/publication/dblp-journalssosym-bruel-cgjklmsv-20/</loc>
     <lastmod>2021-10-08T12:43:30+02:00</lastmod>
   </url><url>
-    <loc>https://smart-researchteam.github.io/author/daniel-amyot/</loc>
-    <lastmod>2021-10-08T12:43:30+02:00</lastmod>
-  </url><url>
-    <loc>https://smart-researchteam.github.io/author/daniel-varro/</loc>
-    <lastmod>2021-10-08T12:43:30+02:00</lastmod>
-  </url><url>
-    <loc>https://smart-researchteam.github.io/author/dorian-leroy/</loc>
-    <lastmod>2021-10-08T12:43:30+02:00</lastmod>
-  </url><url>
-    <loc>https://smart-researchteam.github.io/author/edouard-batot/</loc>
-    <lastmod>2021-10-08T12:43:30+02:00</lastmod>
-  </url><url>
-    <loc>https://smart-researchteam.github.io/author/eric-van-wyk/</loc>
-    <lastmod>2021-10-08T12:43:30+02:00</lastmod>
-  </url><url>
-    <loc>https://smart-researchteam.github.io/author/erwan-bousse/</loc>
-    <lastmod>2021-10-08T12:43:30+02:00</lastmod>
-  </url><url>
-    <loc>https://smart-researchteam.github.io/author/esther-guerra/</loc>
-    <lastmod>2021-10-08T12:43:30+02:00</lastmod>
-  </url><url>
-    <loc>https://smart-researchteam.github.io/author/eugene-syriani/</loc>
-    <lastmod>2021-10-08T12:43:30+02:00</lastmod>
-  </url><url>
-    <loc>https://smart-researchteam.github.io/author/gurvan-le-guernic/</loc>
-    <lastmod>2021-10-08T12:43:30+02:00</lastmod>
-  </url><url>
-    <loc>https://smart-researchteam.github.io/author/gwendal-jouneaux/</loc>
-    <lastmod>2021-10-08T12:43:30+02:00</lastmod>
-  </url><url>
-    <loc>https://smart-researchteam.github.io/author/hans-vangheluwe/</loc>
-    <lastmod>2021-10-08T12:43:30+02:00</lastmod>
-  </url><url>
-    <loc>https://smart-researchteam.github.io/author/hyacinth-ali/</loc>
-    <lastmod>2021-10-08T12:43:30+02:00</lastmod>
-  </url><url>
-    <loc>https://smart-researchteam.github.io/author/iliass-ait-el-kouch/</loc>
-    <lastmod>2021-10-08T12:43:30+02:00</lastmod>
-  </url><url>
-    <loc>https://smart-researchteam.github.io/author/jean-marc-jezequel/</loc>
-    <lastmod>2021-10-08T12:43:30+02:00</lastmod>
-  </url><url>
-    <loc>https://smart-researchteam.github.io/author/juan-de-lara/</loc>
-    <lastmod>2021-10-08T12:43:30+02:00</lastmod>
-  </url><url>
-    <loc>https://smart-researchteam.github.io/author/juergen-dingel/</loc>
-    <lastmod>2021-10-08T12:43:30+02:00</lastmod>
-  </url><url>
-    <loc>https://smart-researchteam.github.io/author/june-sallou/</loc>
-    <lastmod>2021-10-08T12:43:30+02:00</lastmod>
-  </url><url>
-    <loc>https://smart-researchteam.github.io/author/karim-jahed/</loc>
-    <lastmod>2021-10-08T12:43:30+02:00</lastmod>
-  </url><url>
     <loc>https://smart-researchteam.github.io/publication/bagherzadeh-hal-02942374/</loc>
-    <lastmod>2021-10-08T12:43:30+02:00</lastmod>
-  </url><url>
-    <loc>https://smart-researchteam.github.io/author/lucy-bastin/</loc>
-    <lastmod>2021-10-08T12:43:30+02:00</lastmod>
-  </url><url>
-    <loc>https://smart-researchteam.github.io/author/mahmoud-el-hamlaoui/</loc>
-    <lastmod>2021-10-08T12:43:30+02:00</lastmod>
-  </url><url>
-    <loc>https://smart-researchteam.github.io/author/mahmoud-nassar/</loc>
-    <lastmod>2021-10-08T12:43:30+02:00</lastmod>
-  </url><url>
-    <loc>https://smart-researchteam.github.io/author/manuel-leduc/</loc>
-    <lastmod>2021-10-08T12:43:30+02:00</lastmod>
-  </url><url>
-    <loc>https://smart-researchteam.github.io/author/manuel-wimmer/</loc>
-    <lastmod>2021-10-08T12:43:30+02:00</lastmod>
-  </url><url>
-    <loc>https://smart-researchteam.github.io/author/marton-bur/</loc>
     <lastmod>2021-10-08T12:43:30+02:00</lastmod>
   </url><url>
     <loc>https://smart-researchteam.github.io/tag/mde/</loc>
@@ -665,52 +473,13 @@
     <loc>https://smart-researchteam.github.io/publication/wortmann-hal-02282028/</loc>
     <lastmod>2021-10-08T12:43:30+02:00</lastmod>
   </url><url>
-    <loc>https://smart-researchteam.github.io/author/mojtaba-bagherzadeh/</loc>
-    <lastmod>2021-10-08T12:43:30+02:00</lastmod>
-  </url><url>
-    <loc>https://smart-researchteam.github.io/author/norbert-seyff/</loc>
-    <lastmod>2021-10-08T12:43:30+02:00</lastmod>
-  </url><url>
-    <loc>https://smart-researchteam.github.io/author/olivier-barais/</loc>
-    <lastmod>2021-10-08T12:43:30+02:00</lastmod>
-  </url><url>
     <loc>https://smart-researchteam.github.io/publication/mussbacher-hal-02876536/</loc>
     <lastmod>2021-10-08T12:43:30+02:00</lastmod>
   </url><url>
     <loc>https://smart-researchteam.github.io/publication/papygame-2020/</loc>
     <lastmod>2021-10-08T12:43:30+02:00</lastmod>
   </url><url>
-    <loc>https://smart-researchteam.github.io/author/philippe-collet/</loc>
-    <lastmod>2021-10-08T12:43:30+02:00</lastmod>
-  </url><url>
-    <loc>https://smart-researchteam.github.io/author/pierre-jeanjean/</loc>
-    <lastmod>2021-10-08T12:43:30+02:00</lastmod>
-  </url><url>
-    <loc>https://smart-researchteam.github.io/author/ralf-reussner/</loc>
-    <lastmod>2021-10-08T12:43:30+02:00</lastmod>
-  </url><url>
-    <loc>https://smart-researchteam.github.io/author/richard-f.-paige/</loc>
-    <lastmod>2021-10-08T12:43:30+02:00</lastmod>
-  </url><url>
-    <loc>https://smart-researchteam.github.io/author/rijul-saini/</loc>
-    <lastmod>2021-10-08T12:43:30+02:00</lastmod>
-  </url><url>
-    <loc>https://smart-researchteam.github.io/author/robert-heinrich/</loc>
-    <lastmod>2021-10-08T12:43:30+02:00</lastmod>
-  </url><url>
     <loc>https://smart-researchteam.github.io/publication/leroy-hal-03109992/</loc>
-    <lastmod>2021-10-08T12:43:30+02:00</lastmod>
-  </url><url>
-    <loc>https://smart-researchteam.github.io/author/ruzanna-chitchyan/</loc>
-    <lastmod>2021-10-08T12:43:30+02:00</lastmod>
-  </url><url>
-    <loc>https://smart-researchteam.github.io/author/serge-stinckwich/</loc>
-    <lastmod>2021-10-08T12:43:30+02:00</lastmod>
-  </url><url>
-    <loc>https://smart-researchteam.github.io/author/sonja-klingert/</loc>
-    <lastmod>2021-10-08T12:43:30+02:00</lastmod>
-  </url><url>
-    <loc>https://smart-researchteam.github.io/author/stefanie-betz/</loc>
     <lastmod>2021-10-08T12:43:30+02:00</lastmod>
   </url><url>
     <loc>https://smart-researchteam.github.io/tag/sustainability/</loc>
@@ -720,9 +489,6 @@
     <lastmod>2021-10-08T12:43:30+02:00</lastmod>
   </url><url>
     <loc>https://smart-researchteam.github.io/publication/leduc-hal-02399166/</loc>
-    <lastmod>2021-10-08T12:43:30+02:00</lastmod>
-  </url><url>
-    <loc>https://smart-researchteam.github.io/author/thomas-degueule/</loc>
     <lastmod>2021-10-08T12:43:30+02:00</lastmod>
   </url><url>
     <loc>https://smart-researchteam.github.io/publication/dblp-journalscacm-kienzle-mcbbbbbc-20/</loc>
@@ -756,6 +522,9 @@
     <lastmod>2021-10-08T12:43:30+02:00</lastmod>
   </url><url>
     <loc>https://smart-researchteam.github.io/tag/ingenierie-systeme-a-base-de-modeles-mbse/</loc>
+    <lastmod>2021-10-08T12:43:30+02:00</lastmod>
+  </url><url>
+    <loc>https://smart-researchteam.github.io/tag/integration/</loc>
     <lastmod>2021-10-08T12:43:30+02:00</lastmod>
   </url><url>
     <loc>https://smart-researchteam.github.io/tag/integration/</loc>
@@ -878,15 +647,6 @@
     <loc>https://smart-researchteam.github.io/publication/bennani-hal-02456775/</loc>
     <lastmod>2021-10-08T12:43:30+02:00</lastmod>
   </url><url>
-    <loc>https://smart-researchteam.github.io/author/alassane-bah/</loc>
-    <lastmod>2021-10-08T12:43:30+02:00</lastmod>
-  </url><url>
-    <loc>https://smart-researchteam.github.io/author/hanh-nhi-tran/</loc>
-    <lastmod>2021-10-08T12:43:30+02:00</lastmod>
-  </url><url>
-    <loc>https://smart-researchteam.github.io/author/samba-diaw/</loc>
-    <lastmod>2021-10-08T12:43:30+02:00</lastmod>
-  </url><url>
     <loc>https://smart-researchteam.github.io/publication/cisse-hal-02456742/</loc>
     <lastmod>2021-10-08T12:43:30+02:00</lastmod>
   </url><url>
@@ -927,12 +687,6 @@
     <lastmod>2021-10-08T12:43:30+02:00</lastmod>
   </url><url>
     <loc>https://smart-researchteam.github.io/publication/naumchev-hal-02878938/</loc>
-    <lastmod>2021-10-08T12:43:30+02:00</lastmod>
-  </url><url>
-    <loc>https://smart-researchteam.github.io/author/benoit-baudry/</loc>
-    <lastmod>2021-10-08T12:43:30+02:00</lastmod>
-  </url><url>
-    <loc>https://smart-researchteam.github.io/author/marcelino-rodriguez-cancio/</loc>
     <lastmod>2021-10-08T12:43:30+02:00</lastmod>
   </url><url>
     <loc>https://smart-researchteam.github.io/tag/event-scheduling/</loc>
@@ -995,49 +749,16 @@
     <loc>https://smart-researchteam.github.io/publication/kienzle-hal-01949050/</loc>
     <lastmod>2021-10-08T12:43:30+02:00</lastmod>
   </url><url>
-    <loc>https://smart-researchteam.github.io/author/alfonso-pierantonio/</loc>
-    <lastmod>2021-10-08T12:43:30+02:00</lastmod>
-  </url><url>
     <loc>https://smart-researchteam.github.io/publication/lelandais-hal-02296030/</loc>
-    <lastmod>2021-10-08T12:43:30+02:00</lastmod>
-  </url><url>
-    <loc>https://smart-researchteam.github.io/author/benoit-lelandais/</loc>
-    <lastmod>2021-10-08T12:43:30+02:00</lastmod>
-  </url><url>
-    <loc>https://smart-researchteam.github.io/author/daniel-de-carvalho/</loc>
     <lastmod>2021-10-08T12:43:30+02:00</lastmod>
   </url><url>
     <loc>https://smart-researchteam.github.io/publication/galinier-hal-03012573/</loc>
     <lastmod>2021-10-08T12:43:30+02:00</lastmod>
   </url><url>
-    <loc>https://smart-researchteam.github.io/author/julien-deantoni/</loc>
-    <lastmod>2021-10-08T12:43:30+02:00</lastmod>
-  </url><url>
-    <loc>https://smart-researchteam.github.io/author/mansur-khazeev/</loc>
-    <lastmod>2021-10-08T12:43:30+02:00</lastmod>
-  </url><url>
-    <loc>https://smart-researchteam.github.io/author/marie-pierre-oudot/</loc>
-    <lastmod>2021-10-08T12:43:30+02:00</lastmod>
-  </url><url>
-    <loc>https://smart-researchteam.github.io/author/mark-van-den-brand/</loc>
-    <lastmod>2021-10-08T12:43:30+02:00</lastmod>
-  </url><url>
     <loc>https://smart-researchteam.github.io/publication/sellami-hal-02976632/</loc>
     <lastmod>2021-10-08T12:43:30+02:00</lastmod>
   </url><url>
-    <loc>https://smart-researchteam.github.io/author/nacer-eddine-zarour/</loc>
-    <lastmod>2021-10-08T12:43:30+02:00</lastmod>
-  </url><url>
-    <loc>https://smart-researchteam.github.io/author/pierre-jean-charrel/</loc>
-    <lastmod>2021-10-08T12:43:30+02:00</lastmod>
-  </url><url>
     <loc>https://smart-researchteam.github.io/publication/dblp-conffisee-khazeev-acmbb-19/</loc>
-    <lastmod>2021-10-08T12:43:30+02:00</lastmod>
-  </url><url>
-    <loc>https://smart-researchteam.github.io/author/samir-sellami/</loc>
-    <lastmod>2021-10-08T12:43:30+02:00</lastmod>
-  </url><url>
-    <loc>https://smart-researchteam.github.io/author/taoufiq-dkaki/</loc>
     <lastmod>2021-10-08T12:43:30+02:00</lastmod>
   </url><url>
     <loc>https://smart-researchteam.github.io/publication/pierantonio-hal-02408017/</loc>
@@ -1050,6 +771,9 @@
     <lastmod>2021-10-08T12:43:30+02:00</lastmod>
   </url><url>
     <loc>https://smart-researchteam.github.io/tag/compilers/</loc>
+    <lastmod>2021-10-08T12:43:30+02:00</lastmod>
+  </url><url>
+    <loc>https://smart-researchteam.github.io/tag/dsl/</loc>
     <lastmod>2021-10-08T12:43:30+02:00</lastmod>
   </url><url>
     <loc>https://smart-researchteam.github.io/tag/grammar/</loc>
@@ -1067,6 +791,9 @@
     <loc>https://smart-researchteam.github.io/tag/language-interface/</loc>
     <lastmod>2021-10-08T12:43:30+02:00</lastmod>
   </url><url>
+    <loc>https://smart-researchteam.github.io/tag/mbse/</loc>
+    <lastmod>2021-10-08T12:43:30+02:00</lastmod>
+  </url><url>
     <loc>https://smart-researchteam.github.io/tag/metamodel/</loc>
     <lastmod>2021-10-08T12:43:30+02:00</lastmod>
   </url><url>
@@ -1079,40 +806,13 @@
     <loc>https://smart-researchteam.github.io/publication/chami-hal-02124402/</loc>
     <lastmod>2021-10-08T12:43:30+02:00</lastmod>
   </url><url>
-    <loc>https://smart-researchteam.github.io/tag/dsl/</loc>
-    <lastmod>2021-10-08T12:43:30+02:00</lastmod>
-  </url><url>
-    <loc>https://smart-researchteam.github.io/author/fabien-coulon/</loc>
-    <lastmod>2021-10-08T12:43:30+02:00</lastmod>
-  </url><url>
     <loc>https://smart-researchteam.github.io/publication/lelandais-hal-01910139/</loc>
     <lastmod>2021-10-08T12:43:30+02:00</lastmod>
   </url><url>
     <loc>https://smart-researchteam.github.io/publication/leduc-hal-01890446/</loc>
     <lastmod>2021-10-08T12:43:30+02:00</lastmod>
   </url><url>
-    <loc>https://smart-researchteam.github.io/author/mohammad-chami/</loc>
-    <lastmod>2021-10-08T12:43:30+02:00</lastmod>
-  </url><url>
     <loc>https://smart-researchteam.github.io/publication/coulon-hal-01889155/</loc>
-    <lastmod>2021-10-08T12:43:30+02:00</lastmod>
-  </url><url>
-    <loc>https://smart-researchteam.github.io/author/tijs-van-der-storm/</loc>
-    <lastmod>2021-10-08T12:43:30+02:00</lastmod>
-  </url><url>
-    <loc>https://smart-researchteam.github.io/author/abel-gomez/</loc>
-    <lastmod>2021-10-08T12:43:30+02:00</lastmod>
-  </url><url>
-    <loc>https://smart-researchteam.github.io/author/adrian-rutle/</loc>
-    <lastmod>2021-10-08T12:43:30+02:00</lastmod>
-  </url><url>
-    <loc>https://smart-researchteam.github.io/author/andreas-kastner/</loc>
-    <lastmod>2021-10-08T12:43:30+02:00</lastmod>
-  </url><url>
-    <loc>https://smart-researchteam.github.io/author/hugo-bruneliere/</loc>
-    <lastmod>2021-10-08T12:43:30+02:00</lastmod>
-  </url><url>
-    <loc>https://smart-researchteam.github.io/author/martin-gogolla/</loc>
     <lastmod>2021-10-08T12:43:30+02:00</lastmod>
   </url><url>
     <loc>https://smart-researchteam.github.io/publication/staf18/</loc>
@@ -1121,19 +821,7 @@
     <loc>https://smart-researchteam.github.io/tag/publications/</loc>
     <lastmod>2021-10-06T18:56:48+02:00</lastmod>
   </url><url>
-    <loc>https://smart-researchteam.github.io/author/romina-eramo/</loc>
-    <lastmod>2021-10-08T12:43:30+02:00</lastmod>
-  </url><url>
-    <loc>https://smart-researchteam.github.io/author/valentin-besnard/</loc>
-    <lastmod>2021-10-08T12:43:30+02:00</lastmod>
-  </url><url>
     <loc>https://smart-researchteam.github.io/tag/model-based-systems-engineering/</loc>
-    <lastmod>2021-10-08T12:43:30+02:00</lastmod>
-  </url><url>
-    <loc>https://smart-researchteam.github.io/author/ileana-ober/</loc>
-    <lastmod>2021-10-08T12:43:30+02:00</lastmod>
-  </url><url>
-    <loc>https://smart-researchteam.github.io/author/marc-pantel/</loc>
     <lastmod>2021-10-08T12:43:30+02:00</lastmod>
   </url><url>
     <loc>https://smart-researchteam.github.io/publication/lerouxbeaudout-hal-02124418/</loc>
@@ -1154,25 +842,7 @@
     <loc>https://smart-researchteam.github.io/tag/text-similarity/</loc>
     <lastmod>2021-10-08T12:43:30+02:00</lastmod>
   </url><url>
-    <loc>https://smart-researchteam.github.io/author/arnaud-blouin/</loc>
-    <lastmod>2021-10-08T12:43:30+02:00</lastmod>
-  </url><url>
-    <loc>https://smart-researchteam.github.io/author/catherine-comparot/</loc>
-    <lastmod>2021-10-08T12:43:30+02:00</lastmod>
-  </url><url>
-    <loc>https://smart-researchteam.github.io/author/david-mendez-acuna/</loc>
-    <lastmod>2021-10-08T12:43:30+02:00</lastmod>
-  </url><url>
-    <loc>https://smart-researchteam.github.io/author/jose-galindo/</loc>
-    <lastmod>2021-10-08T12:43:30+02:00</lastmod>
-  </url><url>
-    <loc>https://smart-researchteam.github.io/author/malik-si-mohammed/</loc>
-    <lastmod>2021-10-08T12:43:30+02:00</lastmod>
-  </url><url>
     <loc>https://smart-researchteam.github.io/publication/mendezacuna-hal-02982981/</loc>
-    <lastmod>2021-10-08T12:43:30+02:00</lastmod>
-  </url><url>
-    <loc>https://smart-researchteam.github.io/author/samia-iltache/</loc>
     <lastmod>2021-10-08T12:43:30+02:00</lastmod>
   </url><url>
     <loc>https://smart-researchteam.github.io/publication/iltache-hal-02348268/</loc>
@@ -1181,26 +851,17 @@
     <loc>https://smart-researchteam.github.io/publication/mosser-hal-01947831/</loc>
     <lastmod>2021-10-08T12:43:30+02:00</lastmod>
   </url><url>
-    <loc>https://smart-researchteam.github.io/author/christophe-gnaho/</loc>
+    <loc>https://smart-researchteam.github.io/tag/dsl/</loc>
     <lastmod>2021-10-06T18:56:48+02:00</lastmod>
-  </url><url>
-    <loc>https://smart-researchteam.github.io/author/david-lugato/</loc>
-    <lastmod>2021-10-08T12:43:30+02:00</lastmod>
   </url><url>
     <loc>https://smart-researchteam.github.io/publication/esof-poster2018/</loc>
     <lastmod>2021-10-06T18:56:48+02:00</lastmod>
   </url><url>
-    <loc>https://smart-researchteam.github.io/author/francoise-adreit/</loc>
-    <lastmod>2021-10-08T12:43:30+02:00</lastmod>
-  </url><url>
     <loc>https://smart-researchteam.github.io/publication/icse-poster2018/</loc>
     <lastmod>2021-10-06T18:56:48+02:00</lastmod>
   </url><url>
-    <loc>https://smart-researchteam.github.io/author/manzoor-ahmad/</loc>
+    <loc>https://smart-researchteam.github.io/tag/hpc/</loc>
     <lastmod>2021-10-06T18:56:48+02:00</lastmod>
-  </url><url>
-    <loc>https://smart-researchteam.github.io/author/marc-palyart/</loc>
-    <lastmod>2021-10-08T12:43:30+02:00</lastmod>
   </url><url>
     <loc>https://smart-researchteam.github.io/publication/sosym2018/</loc>
     <lastmod>2021-10-06T18:56:48+02:00</lastmod>
@@ -1208,14 +869,11 @@
     <loc>https://smart-researchteam.github.io/tag/recent/</loc>
     <lastmod>2021-10-06T18:56:48+02:00</lastmod>
   </url><url>
-    <loc>https://smart-researchteam.github.io/author/regine-laleau/</loc>
-    <lastmod>2021-10-06T18:56:48+02:00</lastmod>
-  </url><url>
     <loc>https://smart-researchteam.github.io/tag/relax/</loc>
     <lastmod>2021-10-06T18:56:48+02:00</lastmod>
   </url><url>
-    <loc>https://smart-researchteam.github.io/author/walid-younes/</loc>
-    <lastmod>2021-10-08T12:43:30+02:00</lastmod>
+    <loc>https://smart-researchteam.github.io/tag/service-composition/</loc>
+    <lastmod>2021-10-06T18:56:48+02:00</lastmod>
   </url><url>
     <loc>https://smart-researchteam.github.io/publication/iwcfs18/</loc>
     <lastmod>2021-10-06T18:56:48+02:00</lastmod>
@@ -1241,12 +899,6 @@
     <loc>https://smart-researchteam.github.io/publication-type/0/</loc>
     <lastmod>2021-10-08T12:43:30+02:00</lastmod>
   </url><url>
-    <loc>https://smart-researchteam.github.io/author/aiste-aleksandraviciene/</loc>
-    <lastmod>2021-10-08T12:43:30+02:00</lastmod>
-  </url><url>
-    <loc>https://smart-researchteam.github.io/author/aurelijus-morkevicius/</loc>
-    <lastmod>2021-10-08T12:43:30+02:00</lastmod>
-  </url><url>
     <loc>https://smart-researchteam.github.io/publication/koussaifi-hal-02280356/</loc>
     <lastmod>2021-10-08T12:43:30+02:00</lastmod>
   </url><url>
@@ -1263,16 +915,13 @@
     <lastmod>2021-10-06T18:56:48+02:00</lastmod>
   </url><url>
     <loc>https://smart-researchteam.github.io/tag/sysml/</loc>
-    <lastmod>2021-10-08T12:43:30+02:00</lastmod>
+    <lastmod>2021-10-06T18:56:48+02:00</lastmod>
   </url><url>
     <loc>https://smart-researchteam.github.io/publication/ecmfa18/</loc>
     <lastmod>2021-10-06T18:56:48+02:00</lastmod>
   </url><url>
     <loc>https://smart-researchteam.github.io/publication/mse18/</loc>
     <lastmod>2021-10-06T18:56:48+02:00</lastmod>
-  </url><url>
-    <loc>https://smart-researchteam.github.io/author/sophie-trouilhet/</loc>
-    <lastmod>2021-10-08T12:43:30+02:00</lastmod>
   </url><url>
     <loc>https://smart-researchteam.github.io/tag/a-posteriori-typing/</loc>
     <lastmod>2021-10-08T12:43:30+02:00</lastmod>
@@ -1319,6 +968,9 @@
     <loc>https://smart-researchteam.github.io/tag/runtime-modeling/</loc>
     <lastmod>2021-10-08T12:43:30+02:00</lastmod>
   </url><url>
+    <loc>https://smart-researchteam.github.io/tag/sysml/</loc>
+    <lastmod>2021-10-08T12:43:30+02:00</lastmod>
+  </url><url>
     <loc>https://smart-researchteam.github.io/tag/systems-modeling/</loc>
     <lastmod>2021-10-08T12:43:30+02:00</lastmod>
   </url><url>
@@ -1334,13 +986,7 @@
     <loc>https://smart-researchteam.github.io/publication/koussaifi-hal-01815481/</loc>
     <lastmod>2021-10-08T12:43:30+02:00</lastmod>
   </url><url>
-    <loc>https://smart-researchteam.github.io/author/anael-megna/</loc>
-    <lastmod>2021-10-08T12:43:30+02:00</lastmod>
-  </url><url>
     <loc>https://smart-researchteam.github.io/publication/baduel-hal-02943016/</loc>
-    <lastmod>2021-10-08T12:43:30+02:00</lastmod>
-  </url><url>
-    <loc>https://smart-researchteam.github.io/author/eddy-doba/</loc>
     <lastmod>2021-10-08T12:43:30+02:00</lastmod>
   </url><url>
     <loc>https://smart-researchteam.github.io/publication/galinier-hal-03033963/</loc>
@@ -1433,9 +1079,6 @@
     <loc>https://smart-researchteam.github.io/publication/elhamlaoui-hal-03012570/</loc>
     <lastmod>2021-10-08T12:43:30+02:00</lastmod>
   </url><url>
-    <loc>https://smart-researchteam.github.io/author/imad-eddine-saidi/</loc>
-    <lastmod>2021-10-08T12:43:30+02:00</lastmod>
-  </url><url>
     <loc>https://smart-researchteam.github.io/publication/elhamlaoui-hal-02982556/</loc>
     <lastmod>2021-10-08T12:43:30+02:00</lastmod>
   </url><url>
@@ -1505,43 +1148,13 @@
     <loc>https://smart-researchteam.github.io/publication/amroune-hal-03044232/</loc>
     <lastmod>2021-10-08T12:43:30+02:00</lastmod>
   </url><url>
-    <loc>https://smart-researchteam.github.io/author/adel-ferdjoukh/</loc>
-    <lastmod>2021-10-08T12:43:30+02:00</lastmod>
-  </url><url>
-    <loc>https://smart-researchteam.github.io/author/annie-chateau/</loc>
-    <lastmod>2021-10-08T12:43:30+02:00</lastmod>
-  </url><url>
-    <loc>https://smart-researchteam.github.io/author/clementine-nebut/</loc>
-    <lastmod>2021-10-08T12:43:30+02:00</lastmod>
-  </url><url>
     <loc>https://smart-researchteam.github.io/publication/combemale-hal-01803008/</loc>
-    <lastmod>2021-10-08T12:43:30+02:00</lastmod>
-  </url><url>
-    <loc>https://smart-researchteam.github.io/author/eric-bourreau/</loc>
-    <lastmod>2021-10-08T12:43:30+02:00</lastmod>
-  </url><url>
-    <loc>https://smart-researchteam.github.io/author/matthias-schottle/</loc>
     <lastmod>2021-10-08T12:43:30+02:00</lastmod>
   </url><url>
     <loc>https://smart-researchteam.github.io/publication/ferdjoukh-lirmm-02067506/</loc>
     <lastmod>2021-10-08T12:43:30+02:00</lastmod>
   </url><url>
-    <loc>https://smart-researchteam.github.io/author/misha-strittmatter/</loc>
-    <lastmod>2021-10-08T12:43:30+02:00</lastmod>
-  </url><url>
-    <loc>https://smart-researchteam.github.io/author/mohamed-amroune/</loc>
-    <lastmod>2021-10-08T12:43:30+02:00</lastmod>
-  </url><url>
-    <loc>https://smart-researchteam.github.io/author/nassim-otmani/</loc>
-    <lastmod>2021-10-08T12:43:30+02:00</lastmod>
-  </url><url>
     <loc>https://smart-researchteam.github.io/publication/otmani-hal-02982982/</loc>
-    <lastmod>2021-10-08T12:43:30+02:00</lastmod>
-  </url><url>
-    <loc>https://smart-researchteam.github.io/author/tanja-mayerhofer/</loc>
-    <lastmod>2021-10-08T12:43:30+02:00</lastmod>
-  </url><url>
-    <loc>https://smart-researchteam.github.io/author/walter-cazzola/</loc>
     <lastmod>2021-10-08T12:43:30+02:00</lastmod>
   </url><url>
     <loc>https://smart-researchteam.github.io/talk/20171119-cafe-irit/</loc>
@@ -1551,6 +1164,9 @@
     <lastmod>2021-10-06T18:56:48+02:00</lastmod>
   </url><url>
     <loc>https://smart-researchteam.github.io/publication/gemoc2017/</loc>
+    <lastmod>2021-10-06T18:56:48+02:00</lastmod>
+  </url><url>
+    <loc>https://smart-researchteam.github.io/tag/simulation/</loc>
     <lastmod>2021-10-06T18:56:48+02:00</lastmod>
   </url><url>
     <loc>https://smart-researchteam.github.io/project/gemoc/</loc>
@@ -1566,7 +1182,7 @@
     <lastmod>2021-10-06T18:56:48+02:00</lastmod>
   </url><url>
     <loc>https://smart-researchteam.github.io/tag/past/</loc>
-    <lastmod>2021-10-06T18:56:48+02:00</lastmod>
+    <lastmod>2022-10-11T18:54:12+02:00</lastmod>
   </url><url>
     <loc>https://smart-researchteam.github.io/tag/workbench/</loc>
     <lastmod>2021-10-06T18:56:48+02:00</lastmod>
@@ -1595,25 +1211,10 @@
     <loc>https://smart-researchteam.github.io/tag/education/</loc>
     <lastmod>2021-10-06T18:56:48+02:00</lastmod>
   </url><url>
-    <loc>https://smart-researchteam.github.io/author/francis-bordeleau/</loc>
-    <lastmod>2021-10-06T18:56:48+02:00</lastmod>
-  </url><url>
-    <loc>https://smart-researchteam.github.io/author/henry-muccini/</loc>
-    <lastmod>2021-10-06T18:56:48+02:00</lastmod>
-  </url><url>
     <loc>https://smart-researchteam.github.io/publication/models16/</loc>
     <lastmod>2021-10-06T18:56:48+02:00</lastmod>
   </url><url>
-    <loc>https://smart-researchteam.github.io/author/jurgen-dingel/</loc>
-    <lastmod>2021-10-06T18:56:48+02:00</lastmod>
-  </url><url>
-    <loc>https://smart-researchteam.github.io/author/sebastian-voss/</loc>
-    <lastmod>2021-10-06T18:56:48+02:00</lastmod>
-  </url><url>
     <loc>https://smart-researchteam.github.io/publication-type/5/</loc>
-    <lastmod>2021-10-08T12:43:30+02:00</lastmod>
-  </url><url>
-    <loc>https://smart-researchteam.github.io/author/redouane-lbath/</loc>
     <lastmod>2021-10-08T12:43:30+02:00</lastmod>
   </url><url>
     <loc>https://smart-researchteam.github.io/publication/diaw-hal-03260624/</loc>
@@ -1628,22 +1229,7 @@
     <loc>https://smart-researchteam.github.io/tag/change-description/</loc>
     <lastmod>2021-10-08T12:43:30+02:00</lastmod>
   </url><url>
-    <loc>https://smart-researchteam.github.io/author/christelle-urtado/</loc>
-    <lastmod>2021-10-08T12:43:30+02:00</lastmod>
-  </url><url>
     <loc>https://smart-researchteam.github.io/publication/zhang-hal-00714629/</loc>
-    <lastmod>2021-10-08T12:43:30+02:00</lastmod>
-  </url><url>
-    <loc>https://smart-researchteam.github.io/author/huaxi-yulin-zhang/</loc>
-    <lastmod>2021-10-08T12:43:30+02:00</lastmod>
-  </url><url>
-    <loc>https://smart-researchteam.github.io/author/lei-zhang/</loc>
-    <lastmod>2021-10-08T12:43:30+02:00</lastmod>
-  </url><url>
-    <loc>https://smart-researchteam.github.io/author/marianne-huchard/</loc>
-    <lastmod>2021-10-08T12:43:30+02:00</lastmod>
-  </url><url>
-    <loc>https://smart-researchteam.github.io/author/sylvain-vauttier/</loc>
     <lastmod>2021-10-08T12:43:30+02:00</lastmod>
   </url><url>
     <loc>https://smart-researchteam.github.io/author/alexandr-naumchev/</loc>
@@ -1651,6 +1237,8 @@
   </url><url>
     <loc>https://smart-researchteam.github.io/author/anas-motii/</loc>
     <lastmod>2021-10-06T18:56:48+02:00</lastmod>
+  </url><url>
+    <loc>https://smart-researchteam.github.io/author/</loc>
   </url><url>
     <loc>https://smart-researchteam.github.io/author/benoit-combemale/</loc>
     <lastmod>2021-10-08T13:13:10+02:00</lastmod>
@@ -1661,8 +1249,16 @@
     <loc>https://smart-researchteam.github.io/author/bertrand-meyer/</loc>
     <lastmod>2021-10-07T08:42:26+02:00</lastmod>
   </url><url>
+    <loc>https://smart-researchteam.github.io/author/claude-baron/</loc>
+  </url><url>
+    <loc>https://smart-researchteam.github.io/tag/current/</loc>
+    <lastmod>2021-11-25T09:32:46+01:00</lastmod>
+  </url><url>
     <loc>https://smart-researchteam.github.io/author/florian-galinier/</loc>
     <lastmod>2022-04-29T09:04:29+02:00</lastmod>
+  </url><url>
+    <loc>https://smart-researchteam.github.io/tag/grant/</loc>
+    <lastmod>2022-10-11T18:47:31+02:00</lastmod>
   </url><url>
     <loc>https://smart-researchteam.github.io/author/hamna-aslam/</loc>
     <lastmod>2022-10-11T18:34:04+02:00</lastmod>
@@ -1670,14 +1266,18 @@
     <loc>https://smart-researchteam.github.io/author/ildar-nigmatullin/</loc>
     <lastmod>2021-11-25T09:32:46+01:00</lastmod>
   </url><url>
-    <loc>https://smart-researchteam.github.io/author/ilya-baimetov/</loc>
-    <lastmod>2021-11-25T16:17:19+01:00</lastmod>
+    <loc>https://smart-researchteam.github.io/tag/indus/</loc>
+    <lastmod>2022-10-11T18:54:12+02:00</lastmod>
+  </url><url>
+    <loc>https://smart-researchteam.github.io/author/irfan-javid/</loc>
   </url><url>
     <loc>https://smart-researchteam.github.io/author/jacob-geisel/</loc>
     <lastmod>2021-10-06T18:56:48+02:00</lastmod>
   </url><url>
     <loc>https://smart-researchteam.github.io/author/jean-michel-bruel/</loc>
     <lastmod>2021-10-07T08:42:26+02:00</lastmod>
+  </url><url>
+    <loc>https://smart-researchteam.github.io/author/kim-loubat/</loc>
   </url><url>
     <loc>https://smart-researchteam.github.io/author/mamadou-lakhassane-cisse/</loc>
     <lastmod>2021-10-07T14:03:16+02:00</lastmod>
@@ -1697,8 +1297,13 @@
     <loc>https://smart-researchteam.github.io/author/nan-messe/</loc>
     <lastmod>2021-10-07T08:43:01+02:00</lastmod>
   </url><url>
+    <loc>https://smart-researchteam.github.io/author/nidhal-selmi/</loc>
+  </url><url>
     <loc>https://smart-researchteam.github.io/author/nursultan-askarbekuly/</loc>
     <lastmod>2022-04-29T09:04:29+02:00</lastmod>
+  </url><url>
+    <loc>https://smart-researchteam.github.io/tag/phd/</loc>
+    <lastmod>2022-10-11T18:54:12+02:00</lastmod>
   </url><url>
     <loc>https://smart-researchteam.github.io/author/pierre-jean-charrel/</loc>
     <lastmod>2021-10-07T08:43:01+02:00</lastmod>
@@ -1721,11 +1326,13 @@
     <loc>https://smart-researchteam.github.io/author/saloua-bennani/</loc>
     <lastmod>2021-10-25T12:01:34+02:00</lastmod>
   </url><url>
-    <loc>https://smart-researchteam.github.io/author/smrt/</loc>
+    <loc>https://smart-researchteam.github.io/author/sm@rt/</loc>
     <lastmod>2021-10-06T18:57:53+02:00</lastmod>
   </url><url>
     <loc>https://smart-researchteam.github.io/author/sophie-ebersold-marcaillou/</loc>
     <lastmod>2021-10-08T12:43:30+02:00</lastmod>
+  </url><url>
+    <loc>https://smart-researchteam.github.io/author/tristan-gouaichault/</loc>
   </url><url>
     <loc>https://smart-researchteam.github.io/author/yinling-liu/</loc>
     <lastmod>2022-10-11T18:49:48+02:00</lastmod>

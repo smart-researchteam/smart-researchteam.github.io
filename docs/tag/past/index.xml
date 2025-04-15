@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>past | Sm@RT Research Team</title>
+    <title>Past | Sm@RT Research Team</title>
     <link>https://smart-researchteam.github.io/tag/past/</link>
       <atom:link href="https://smart-researchteam.github.io/tag/past/index.xml" rel="self" type="application/rss+xml" />
-    <description>past</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 - ACDC. Last update: October, 11th, 2022</copyright><lastBuildDate>Thu, 19 Oct 2017 00:00:00 +0000</lastBuildDate>
+    <description>Past</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2025 - ACDC. Last update: April, 15th, 2025</copyright><lastBuildDate>Thu, 19 Oct 2017 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://smart-researchteam.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
-      <title>past</title>
+      <url>https://smart-researchteam.github.io/media/icon_hu_1b4bcfdf7d67b990.png</url>
+      <title>Past</title>
       <link>https://smart-researchteam.github.io/tag/past/</link>
     </image>
     
@@ -17,6 +17,94 @@
       <link>https://smart-researchteam.github.io/project/moise/</link>
       <pubDate>Thu, 19 Oct 2017 00:00:00 +0000</pubDate>
       <guid>https://smart-researchteam.github.io/project/moise/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Alexandr Naumchev</title>
+      <link>https://smart-researchteam.github.io/author/alexandr-naumchev/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://smart-researchteam.github.io/author/alexandr-naumchev/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Anas Motii</title>
+      <link>https://smart-researchteam.github.io/author/anas-motii/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://smart-researchteam.github.io/author/anas-motii/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Florian Galinier</title>
+      <link>https://smart-researchteam.github.io/author/florian-galinier/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://smart-researchteam.github.io/author/florian-galinier/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hamna Aslam</title>
+      <link>https://smart-researchteam.github.io/author/hamna-aslam/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://smart-researchteam.github.io/author/hamna-aslam/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jacob Geisel</title>
+      <link>https://smart-researchteam.github.io/author/jacob-geisel/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://smart-researchteam.github.io/author/jacob-geisel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mamadou Lakhassane Cissé</title>
+      <link>https://smart-researchteam.github.io/author/mamadou-lakhassane-cisse/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://smart-researchteam.github.io/author/mamadou-lakhassane-cisse/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mariya Naumcheva</title>
+      <link>https://smart-researchteam.github.io/author/mariya-naumcheva/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://smart-researchteam.github.io/author/mariya-naumcheva/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Maroun Koussaifi</title>
+      <link>https://smart-researchteam.github.io/author/maroun-koussaifi/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://smart-researchteam.github.io/author/maroun-koussaifi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mohammad Chami</title>
+      <link>https://smart-researchteam.github.io/author/mohammad-chami/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://smart-researchteam.github.io/author/mohammad-chami/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Renan Leroux-Beaudout</title>
+      <link>https://smart-researchteam.github.io/author/renan-leroux-beaudout/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://smart-researchteam.github.io/author/renan-leroux-beaudout/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Saloua Bennani</title>
+      <link>https://smart-researchteam.github.io/author/saloua-bennani/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://smart-researchteam.github.io/author/saloua-bennani/</guid>
       <description></description>
     </item>
     

@@ -1,38 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>&#34;HPC&#34; | Sm@RT Research Team</title>
+    <title>HPC | Sm@RT Research Team</title>
     <link>https://smart-researchteam.github.io/tag/hpc/</link>
       <atom:link href="https://smart-researchteam.github.io/tag/hpc/index.xml" rel="self" type="application/rss+xml" />
-    <description>&#34;HPC&#34;</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 - ACDC. Last update: October, 11th, 2022</copyright><lastBuildDate>Thu, 01 Nov 2018 00:00:00 +0000</lastBuildDate>
+    <description>HPC</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2025 - ACDC. Last update: April, 15th, 2025</copyright><lastBuildDate>Fri, 27 Jul 2018 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://smart-researchteam.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
-      <title>&#34;HPC&#34;</title>
+      <url>https://smart-researchteam.github.io/media/icon_hu_1b4bcfdf7d67b990.png</url>
+      <title>HPC</title>
       <link>https://smart-researchteam.github.io/tag/hpc/</link>
     </image>
-    
-    <item>
-      <title>Fostering metamodels and grammars within a dedicated environment for HPC: the NabLab environment (tool demo)</title>
-      <link>https://smart-researchteam.github.io/publication/lelandais-hal-01910139/</link>
-      <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
-      <guid>https://smart-researchteam.github.io/publication/lelandais-hal-01910139/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>On the use of models for high-performance scientific computing applications: an experience report</title>
       <link>https://smart-researchteam.github.io/publication/sosym2018/</link>
       <pubDate>Fri, 27 Jul 2018 00:00:00 +0000</pubDate>
       <guid>https://smart-researchteam.github.io/publication/sosym2018/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>On the Use of Models for High-Performance Scientific Computing Applications: an Experience Report</title>
-      <link>https://smart-researchteam.github.io/publication/ob-pa-br-lu-2018-1/</link>
-      <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
-      <guid>https://smart-researchteam.github.io/publication/ob-pa-br-lu-2018-1/</guid>
       <description></description>
     </item>
     

@@ -5,12 +5,30 @@
     <link>https://smart-researchteam.github.io/publication-type/2/</link>
       <atom:link href="https://smart-researchteam.github.io/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 - ACDC. Last update: October, 11th, 2022</copyright><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2025 - ACDC. Last update: April, 15th, 2025</copyright><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://smart-researchteam.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <url>https://smart-researchteam.github.io/media/icon_hu_1b4bcfdf7d67b990.png</url>
       <title>2</title>
       <link>https://smart-researchteam.github.io/publication-type/2/</link>
     </image>
+    
+    <item>
+      <title>Object-Oriented Requirements: a Unified Framework for Specifications, Scenarios and Tests</title>
+      <link>https://smart-researchteam.github.io/publication/jot-issue-2023-01-article-3/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://smart-researchteam.github.io/publication/jot-issue-2023-01-article-3/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Artificial Intelligence Capabilities for Effective Model‐Based Systems Engineering: A Vision Paper</title>
+      <link>https://smart-researchteam.github.io/publication/incose-2022/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://smart-researchteam.github.io/publication/incose-2022/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Special Issue on New Paradigms of Software Production and Deployment</title>

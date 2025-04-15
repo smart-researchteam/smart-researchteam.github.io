@@ -15,7 +15,7 @@ baseurl = "https://smart-researchteam.github.io/"
 # Enter a copyright notice to display in the site footer.
 # To display a copyright symbol, type `&copy;`. For current year, type `{year}`.
 #copyright = "&copy; {year} - ACDC. Last update: 31/05/2021"
-copyright = "&copy; {year} - ACDC. Last update: October, 11th, 2022"
+copyright = "&copy; {year} - ACDC. Last update: April, 15th, 2025"
 
 # Your details.
 # team = "SM@RT"
@@ -87,7 +87,7 @@ ignoreFiles = ["\\.ipynb$", ".ipynb_checkpoints$", "\\.Rmd$", "\\.Rmarkdown$", "
   tag = "tags"
   category = "categories"
   publication_type = "publication_types"
-  author = "authors"
+  author = "author"
 
 # Related content.
 [related]
@@ -112,7 +112,7 @@ ignoreFiles = ["\\.ipynb$", ".ipynb_checkpoints$", "\\.Rmd$", "\\.Rmarkdown$", "
     weight = 70.0
 
   [[related.indices]]
-    name = "authors"
+    name = "author"
     weight = 20.0
 
 # Install Wowchemy
