@@ -6,7 +6,7 @@ date = "2025-04-17"
 title = "SEAN"
 
 # Project summary to display on homepage.
-summary = "CIFRE Collaboration between Samares, Chami Consulting & IRIT"
+summary = "Software Engineering Awareness Network"
 
 # Optional image to display on homepage (relative to `static/img/` folder).
 image_preview = "featured.png"
