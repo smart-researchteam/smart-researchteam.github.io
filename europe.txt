@@ -1,0 +1,14 @@
+Pourquoi est-il si difficile de motiver les collègues à monter des projets européens ?
+
+Mon opinion est que la raison principale est qu'il s'agit du mécanisme de financement de la recherche qui vient en dernier dans la   liste des financements possibles.
+Attention, je ne parle pas ici des ERC et je ne parle que du périmètre des sciences informatiques.
+
+Les raisons de ce classement viennent principalement  du rapport coût/bénéfices qui est le plus petit.
+Dans les bénéfices recherchés par un projet on peut lister : les financements (de thèse, de déplacements), le "dossier" (carrière, avancement), les primes et décharges associées, les bénéfices scientifiques.
+Pour les financements, pour la carrière, ou pour les primes associées, les projets européens sont plutôt meilleurs en termes de bénéfices que les autres sources possibles.
+Pour les résultats scientifiques, ils sont souvent derniers. La taille, le nombre des partenaires et leur hétérogénéités, fait  que le bénéfice pour chaque partenaire est maigre (comparé à une convention bilatérale avec un industriel par exemple).
+
+En terme de coût, il arrive en dernier : la complexité des appels, le temps et la complexité du montage, les chances de succès : tout va dans le sens de la difficulté.
+Il est bien plus facile de monter une convention avec un partenaire individuel, une ANR, une réponse à un appel local, régional, national, ou même des appels européens spécifiques.
+
+Au final, il n'est donc pas anormal que cet instrument de financement ne soit pas plus sollicité.
