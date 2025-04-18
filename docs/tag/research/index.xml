@@ -5,12 +5,60 @@
     <link>https://smart-researchteam.github.io/tag/research/</link>
       <atom:link href="https://smart-researchteam.github.io/tag/research/index.xml" rel="self" type="application/rss+xml" />
     <description>Research</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2025 - ACDC. Last update: April, 15th, 2025</copyright><lastBuildDate>Thu, 23 Jun 2022 11:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2025 - ACDC. Last update: April, 15th, 2025</copyright><lastBuildDate>Sun, 31 Mar 2024 17:00:00 +0000</lastBuildDate>
     <image>
       <url>https://smart-researchteam.github.io/media/icon_hu_1b4bcfdf7d67b990.png</url>
       <title>Research</title>
       <link>https://smart-researchteam.github.io/tag/research/</link>
     </image>
+    
+    <item>
+      <title>Requirements: Scalability Issues</title>
+      <link>https://smart-researchteam.github.io/talk/20240329-scalability/</link>
+      <pubDate>Sun, 31 Mar 2024 17:00:00 +0000</pubDate>
+      <guid>https://smart-researchteam.github.io/talk/20240329-scalability/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AI Requirements for an Effective Adoption (in an MBSE context)</title>
+      <link>https://smart-researchteam.github.io/talk/20240221-ai-workshop/</link>
+      <pubDate>Wed, 21 Feb 2024 14:00:00 +0000</pubDate>
+      <guid>https://smart-researchteam.github.io/talk/20240221-ai-workshop/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modern Requirements and Business Analysis</title>
+      <link>https://smart-researchteam.github.io/talk/20230905-re23-tuto/</link>
+      <pubDate>Tue, 05 Sep 2023 14:00:00 +0000</pubDate>
+      <guid>https://smart-researchteam.github.io/talk/20230905-re23-tuto/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Role of Formalism in System Requirements</title>
+      <link>https://smart-researchteam.github.io/talk/20230905-re23-first/</link>
+      <pubDate>Tue, 05 Sep 2023 14:00:00 +0000</pubDate>
+      <guid>https://smart-researchteam.github.io/talk/20230905-re23-first/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Early V&amp;V in a Multi-Disciplinary industrial context</title>
+      <link>https://smart-researchteam.github.io/talk/20230619-mcmaster/</link>
+      <pubDate>Sun, 18 Jun 2023 14:00:00 +0000</pubDate>
+      <guid>https://smart-researchteam.github.io/talk/20230619-mcmaster/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Requirements’ Early V&amp;V</title>
+      <link>https://smart-researchteam.github.io/talk/20230606-gdr-gpl-ie/</link>
+      <pubDate>Sat, 03 Jun 2023 14:00:00 +0000</pubDate>
+      <guid>https://smart-researchteam.github.io/talk/20230606-gdr-gpl-ie/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>L&#39;importance du Génie Logiciel</title>

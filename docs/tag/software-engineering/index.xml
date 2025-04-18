@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Software Engineering | Sm@RT Research Team</title>
+    <link>https://smart-researchteam.github.io/tag/software-engineering/</link>
+      <atom:link href="https://smart-researchteam.github.io/tag/software-engineering/index.xml" rel="self" type="application/rss+xml" />
+    <description>Software Engineering</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2025 - ACDC. Last update: April, 15th, 2025</copyright><lastBuildDate>Thu, 17 Apr 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://smart-researchteam.github.io/media/icon_hu_1b4bcfdf7d67b990.png</url>
+      <title>Software Engineering</title>
+      <link>https://smart-researchteam.github.io/tag/software-engineering/</link>
+    </image>
+    
+    <item>
+      <title>SEAN</title>
+      <link>https://smart-researchteam.github.io/project/sean/</link>
+      <pubDate>Thu, 17 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://smart-researchteam.github.io/project/sean/</guid>
+      <description>&lt;p&gt;The Software Engineering Awareness Network is an international network funded for 5 years (2025-2030) by CNRS Informatics under the International Research Network program.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

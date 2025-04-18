@@ -1,0 +1,5867 @@
+<!DOCTYPE html><html lang="en-us" >
+
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  
+  
+  
+    <meta name="generator" content="Wowchemy 5.3.0 for Hugo" />
+  
+
+  
+
+  
+  
+  
+  
+  
+    
+    
+    
+  
+  
+
+  <meta name="author" content="SM@RT" />
+
+  
+  
+  
+    
+  
+  <meta name="description" content="" />
+
+  
+  <link rel="alternate" hreflang="en-us" href="https://smart-researchteam.github.io/" />
+
+  
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+  
+  
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  
+
+  
+  
+  
+    <meta name="theme-color" content="#004d7f" />
+  
+
+  
+  
+
+  
+  
+  
+  
+    
+    
+      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.9.0/css/academicons.min.css" integrity="sha512-W4yqoT1+8NLkinBLBZko+dFB2ZbHsYLDdr50VElllRcNt2Q4/GSs6u71UHKxB7S6JEMCp5Ve4xjh3eGQl/HRvg==" crossorigin="anonymous" media="print" onload="this.media='all'">
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css" integrity="sha256-FMvZuGapsJLjouA6k7Eo2lusoAX9i0ShlWFG6qt7SLc=" crossorigin="anonymous" media="print" onload="this.media='all'">
+
+    
+    
+    
+    
+      
+      
+      
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+    
+
+    
+    
+    
+      
+    
+    
+      
+      
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.2.0/styles/github.min.css" crossorigin="anonymous" title="hl-light" media="print" onload="this.media='all'">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.2.0/styles/github.min.css" crossorigin="anonymous" title="hl-dark" media="print" onload="this.media='all'" disabled>
+      
+    
+
+    
+    
+    
+
+    
+
+    
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+        
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+  
+
+  
+  
+  
+    
+      
+      
+      <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:400,700%7CFauna+One&display=swap">
+      
+    
+  
+
+  
+  
+  
+  
+  
+  <link rel="stylesheet" href="/css/wowchemy.e09ef893a90810c3936451985b85aef4.css" />
+
+  
+  
+
+  
+
+  
+
+
+
+
+  
+  
+  
+    <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+  
+
+  
+    <link rel="alternate" href="/index.xml" type="application/rss+xml" title="Sm@RT Research Team" />
+  
+
+  
+    <link rel="manifest" href="/manifest.webmanifest" />
+  
+
+  <link rel="icon" type="image/png" href="/media/icon_hu_be91e6458e592ec9.png" />
+  <link rel="apple-touch-icon" type="image/png" href="/media/icon_hu_f8cae1f2dac4936d.png" />
+
+  <link rel="canonical" href="https://smart-researchteam.github.io/" />
+
+  
+  
+  
+  
+  
+  
+  
+  
+    
+    
+  
+  
+  <meta property="twitter:card" content="summary" />
+  
+    <meta property="twitter:site" content="@SmartModelTeam" />
+    <meta property="twitter:creator" content="@SmartModelTeam" />
+  
+  <meta property="og:site_name" content="Sm@RT Research Team" />
+  <meta property="og:url" content="https://smart-researchteam.github.io/" />
+  <meta property="og:title" content="Sm@RT Research Team" />
+  <meta property="og:description" content="" /><meta property="og:image" content="https://smart-researchteam.github.io/media/icon_hu_1b4bcfdf7d67b990.png" />
+    <meta property="twitter:image" content="https://smart-researchteam.github.io/media/icon_hu_1b4bcfdf7d67b990.png" /><meta property="og:locale" content="en-us" />
+  
+    
+      <meta property="og:updated_time" content="2023-06-01T00:00:00&#43;00:00" />
+    
+  
+
+  
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebSite","url": "https://smart-researchteam.github.io/"
+}
+</script>
+
+
+  
+
+  
+
+  
+
+
+
+
+
+  <title>Sm@RT Research Team</title>
+</head>
+
+
+<body id="top" data-spy="scroll" data-offset="70" data-target="#navbar-main" class="page-wrapper   "  >
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <script src="/js/wowchemy-init.min.1d309c6b3f55725f8869af2651084961.js"></script>
+
+  
+
+
+
+
+  <div class="page-header">
+    
+
+
+
+
+
+
+
+
+
+
+
+
+<nav class="navbar navbar-expand-lg navbar-light compensate-for-scrollbar" id="navbar-main">
+  <div class="container-xl">
+
+    
+    <div class="d-none d-lg-inline-flex">
+      <a class="navbar-brand" href="/">Sm@RT Research Team</a>
+    </div>
+    
+
+    
+    <button type="button" class="navbar-toggler" data-toggle="collapse"
+            data-target="#navbar-content" aria-controls="navbar-content" aria-expanded="false" aria-label="Toggle navigation">
+    <span><i class="fas fa-bars"></i></span>
+    </button>
+    
+
+    
+    <div class="navbar-brand-mobile-wrapper d-inline-flex d-lg-none">
+      <a class="navbar-brand" href="/">Sm@RT Research Team</a>
+    </div>
+    
+
+    
+    
+    <div class="navbar-collapse main-menu-item collapse justify-content-end" id="navbar-content">
+
+      
+      <ul class="navbar-nav d-md-inline-flex">
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+            
+            
+            
+              
+            
+            
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#about" data-target="#about"><span>Home</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+            
+            
+            
+              
+            
+            
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#people" data-target="#people"><span>People</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+            
+            
+            
+              
+            
+            
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#journals" data-target="#journals"><span>Publications</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+            
+            
+            
+              
+            
+            
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#talks" data-target="#talks"><span>Talks</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+            
+            
+            
+              
+            
+            
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#projects" data-target="#projects"><span>Projects</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+            
+            
+            
+              
+            
+            
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#contact" data-target="#contact"><span>Contact</span></a>
+        </li>
+
+        
+        
+
+      
+
+        
+      </ul>
+    </div>
+
+    <ul class="nav-icons navbar-nav flex-row ml-auto d-flex pl-md-2">
+
+      
+      
+        
+      
+
+      
+      
+
+      
+      
+      <li class="nav-item dropdown theme-dropdown">
+        <a href="#" class="nav-link" data-toggle="dropdown" aria-haspopup="true" aria-label="Display preferences">
+          <i class="fas fa-moon" aria-hidden="true"></i>
+        </a>
+        <div class="dropdown-menu">
+          <a href="#" class="dropdown-item js-set-theme-light">
+            <span>Light</span>
+          </a>
+          <a href="#" class="dropdown-item js-set-theme-dark">
+            <span>Dark</span>
+          </a>
+          <a href="#" class="dropdown-item js-set-theme-auto">
+            <span>Automatic</span>
+          </a>
+        </div>
+      </li>
+      
+
+      
+      
+
+    </ul>
+
+  </div>
+</nav>
+
+
+  </div>
+
+  <div class="page-body">
+    
+
+
+
+
+
+
+
+
+
+
+
+  
+<span class="js-widget-page d-none"></span>
+
+
+
+
+
+  
+  
+  
+  
+
+
+
+
+  
+  
+  
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  
+
+  
+
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+  
+  
+
+  
+  
+
+  
+
+  
+  
+
+  
+  
+
+  
+  <section id="about" class="home-section wg-about  "  >
+   <div class="home-section-bg " ></div>
+    <div class="container">
+
+    
+
+      
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="row">
+  <div class="col-12 col-lg-4">
+    <div id="profile">
+
+      
+      
+      <img class="avatar avatar-circle" src="/author/sm@rt/avatar_hu_c1ab4eeacbd919b4.png" alt="SM@RT">
+      
+
+      <div class="portrait-title">
+        <h2>SM@RT</h2>
+        
+
+        
+        <h3>
+          <a href="https://www.irit.fr/en/departement/dep-reliability-systems-and-software/" target="_blank" rel="noopener">
+          <span>Reliability of Systems &amp; Software Department</span>
+          </a>
+        </h3>
+        
+        <h3>
+          <a href="http://www.irit.fr/" target="_blank" rel="noopener">
+          <span>IRIT Laboratory</span>
+          </a>
+        </h3>
+        
+      </div>
+
+      <ul class="network-icon" aria-hidden="true">
+        
+        
+        
+        
+          
+        
+        
+        
+        
+        
+        <li>
+          <a href="mailto:bruel@irit.fr" >
+            <i class="fas fa-envelope big-icon"></i>
+          </a>
+        </li>
+        
+        
+        
+        
+          
+        
+        
+        
+        
+        
+          
+        
+        <li>
+          <a href="https://twitter.com/SmartModelTeam" target="_blank" rel="noopener">
+            <i class="fab fa-twitter big-icon"></i>
+          </a>
+        </li>
+        
+        
+        
+        
+          
+        
+        
+        
+        
+        
+          
+        
+        <li>
+          <a href="https://github.com/smart-researchteam" target="_blank" rel="noopener">
+            <i class="fab fa-github big-icon"></i>
+          </a>
+        </li>
+        
+      </ul>
+
+    </div>
+  </div>
+  <div class="col-xs-12 col-md-8" itemprop="description">
+
+    
+    <h1>Smart Modeling for softw@re Research and Technology</h1>
+
+    <p><a href="https://smart-researchteam.github.io/">SM@RT</a>
+ is a great software engineering team of the <a href="https://www.irit.fr/en/departement/dep-reliability-systems-and-software/">Reliability of Systems and Software</a>
+ department that specializes in software agility and safety for cyber-physical systems. The team explores new foundations, and develops ground-breaking tools and methods for modeling and software languages (domain-specific languages, specification languages, programming and modeling languages), with a particular focus on the scientific breakthroughs related to socio-technical coordination (heterogeneity of models and execution platforms, final user in the loop, etc.).
+<a href="https://smart-researchteam.github.io/">SM@RT</a>
+ is a leading team in model-driven engineering (MDE) and software language engineering (SLE). The team is highly involved in the international scientific community, and has established strong industrial partnerships (through bilateral and collaborative projects).
+<a href="https://smart-researchteam.github.io/">SM@RT</a>
+ seconds most of the scientific contributions with software developments. The team is also highly involved in various open-source communities (e.g., Eclipse), and contributes to different projects.</p>
+
+
+    <div class="row">
+
+      
+      <div class="col-sm-4">
+        <h3>Interests</h3>
+        <ul class="ul-interests">
+          
+          <li>Model-Based Systems Engineering</li>
+          
+          <li>Requirements Engineering</li>
+          
+          <li>Agile Methods &amp; Design Patterns</li>
+          
+          <li>Modeling for Sustainability</li>
+          
+          <li>FUN (Final User Need) Modeling</li>
+          
+        </ul>
+      </div>
+      
+
+      
+
+      
+      <div class="col-sm-4">
+        <h3>Twitter</h3>
+        <a href="https://twitter.com/intent/follow?screen_name=jmbruel">
+          <img src="https://img.shields.io/twitter/follow/SmartModelTeam?style=social&logo=twitter"
+              alt="follow on Twitter"></a>
+
+        <a class="twitter-timeline"  data-width="600" data-height="300" data-theme="light" href="https://twitter.com/SmartModelTeam?ref_src=twsrc%5Etfw">Tweets by Sm@rt</a> 
+        <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+      </div>
+      
+
+    </div>
+  </div>
+</div>
+
+    
+
+    </div>
+  </section>
+
+  
+  
+  
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  
+
+  
+
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+  
+  
+
+  
+  
+
+  
+
+  
+  
+
+  
+  
+
+  
+  <section id="people" class="home-section wg-people  "  >
+   <div class="home-section-bg " ></div>
+    <div class="container">
+
+    
+
+      
+
+
+
+
+
+
+
+
+
+<div class="row justify-content-center people-widget">
+  
+  <div class="col-md-12 section-heading">
+    <h1>Meet the SM@RT people</h1>
+    
+  </div>
+  
+
+  
+
+  
+  
+
+  
+  <div class="col-md-12">
+    <h2 class="mb-4">Permanent</h2>
+  </div>
+  
+
+  
+  
+  
+  
+  
+  <div class="col-12 col-sm-auto people-person">
+    
+    
+      
+      
+    
+    
+      
+      <img class="avatar avatar-circle" src="/author/bernard-coulette/avatar_hu_b7963d5db110b78d.jpg" alt="Avatar">
+    
+
+    <div class="portrait-title">
+      <h2>Bernard Coulette</h2>
+      
+      <h3>Emeritus Professor</h3>
+      <ul class="network-icon" aria-hidden="true">
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+    <li>
+      <a href="mailto:coulette@irit.fr" >
+        <i class="fas fa-envelope"></i>
+      </a>
+    </li>
+  
+</ul>
+
+      
+    </div>
+  </div>
+  
+  
+  
+  
+  
+  <div class="col-12 col-sm-auto people-person">
+    
+    
+      
+      
+    
+    
+      
+      <img class="avatar avatar-circle" src="/author/jean-michel-bruel/avatar_hu_1731f2556f50e308.jpg" alt="Avatar">
+    
+
+    <div class="portrait-title">
+      <h2>Jean-Michel Bruel</h2>
+      
+      <h3>Professor of Software Engineering</h3>
+      <ul class="network-icon" aria-hidden="true">
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+    <li>
+      <a href="mailto:bruel@irit.fr" >
+        <i class="fas fa-envelope"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://twitter.com/jmbruel" target="_blank" rel="noopener">
+        <i class="fab fa-twitter"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://github.com/jmbruel/starter-academic2" target="_blank" rel="noopener">
+        <i class="fab fa-github"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://www.linkedin.com/in/jmbruel/" target="_blank" rel="noopener">
+        <i class="fab fa-linkedin"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://www.researchgate.net/profile/Jean-Michel_Bruel2" target="_blank" rel="noopener">
+        <i class="fab fa-researchgate"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://scholar.google.com/citations?user=5shVHyoAAAAJ&amp;hl=en" target="_blank" rel="noopener">
+        <i class="ai ai-google-scholar"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://bit.ly/jmbruel" target="_blank" rel="noopener">
+        <i class="ai ai-cv"></i>
+      </a>
+    </li>
+  
+</ul>
+
+      
+    </div>
+  </div>
+  
+  
+  
+  
+  
+  <div class="col-12 col-sm-auto people-person">
+    
+    
+      
+      
+    
+    
+      
+      <img class="avatar avatar-circle" src="/author/nan-messe/avatar_hu_48ae86cf5cbd869c.jpg" alt="Avatar">
+    
+
+    <div class="portrait-title">
+      <h2>Nan Messe</h2>
+      
+      <h3>Assistant Professor</h3>
+      <ul class="network-icon" aria-hidden="true">
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+    <li>
+      <a href="mailto:nan.messe@irit.fr" >
+        <i class="fas fa-envelope"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://twitter.com/MesseNan" target="_blank" rel="noopener">
+        <i class="fab fa-twitter"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://github.com/lunanan" target="_blank" rel="noopener">
+        <i class="fab fa-github"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://www.researchgate.net/profile/Nan%20Zhang/" target="_blank" rel="noopener">
+        <i class="fab fa-researchgate"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://scholar.google.com/citations?user=ZCV7vEUAAAAJ" target="_blank" rel="noopener">
+        <i class="ai ai-google-scholar"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://nanzhangmesse.github.io/" target="_blank" rel="noopener">
+        <i class="ai ai-cv"></i>
+      </a>
+    </li>
+  
+</ul>
+
+      
+    </div>
+  </div>
+  
+  
+  
+  
+  
+  <div class="col-12 col-sm-auto people-person">
+    
+    
+      
+      
+    
+    
+      
+      <img class="avatar avatar-circle" src="/author/pierre-jean-charrel/avatar_hu_5038b8e839f2182.jpg" alt="Avatar">
+    
+
+    <div class="portrait-title">
+      <h2>Pierre-Jean Charrel</h2>
+      
+      <h3>Professor of Software Engineering</h3>
+      <ul class="network-icon" aria-hidden="true">
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+    <li>
+      <a href="mailto:charrel@irit.fr" >
+        <i class="fas fa-envelope"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://twitter.com/pjcharrel" target="_blank" rel="noopener">
+        <i class="fab fa-twitter"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://scholar.google.fr/citations?user=7loJfVUAAAAJ&amp;hl=en" target="_blank" rel="noopener">
+        <i class="ai ai-google-scholar"></i>
+      </a>
+    </li>
+  
+</ul>
+
+      
+    </div>
+  </div>
+  
+  
+  
+  
+  
+  <div class="col-12 col-sm-auto people-person">
+    
+    
+      
+      
+    
+    
+      
+      <img class="avatar avatar-circle" src="/author/sophie-ebersold-marcaillou/avatar_hu_26867c66dba3d550.jpeg" alt="Avatar">
+    
+
+    <div class="portrait-title">
+      <h2>Sophie Ebersold-Marcaillou</h2>
+      
+      <h3>Associate Professor of Software Engineering</h3>
+      <ul class="network-icon" aria-hidden="true">
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+    <li>
+      <a href="mailto:sophie.ebersold@irit.fr" >
+        <i class="fas fa-envelope"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://twitter.com/SophieEbersold" target="_blank" rel="noopener">
+        <i class="fab fa-twitter"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://www.linkedin.com/in/sophie-ebersold-marcaillou-82a13365" target="_blank" rel="noopener">
+        <i class="fab fa-linkedin"></i>
+      </a>
+    </li>
+  
+</ul>
+
+      
+    </div>
+  </div>
+  
+  
+  
+  
+  
+  <div class="col-12 col-sm-auto people-person">
+    
+    
+      
+      
+    
+    
+      
+      <img class="avatar avatar-circle" src="/author/tristan-gouaichault/avatar_hu_29994b1bf1319d76.jpg" alt="Avatar">
+    
+
+    <div class="portrait-title">
+      <h2>Tristan Gouaichault</h2>
+      
+      <h3>Engineer since 03/2025</h3>
+      <ul class="network-icon" aria-hidden="true">
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+    <li>
+      <a href="mailto:tristan.gouaichault@irit.fr" >
+        <i class="fas fa-envelope"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://www.linkedin.com/in/tristan-gouaichault-419776222" target="_blank" rel="noopener">
+        <i class="fab fa-linkedin"></i>
+      </a>
+    </li>
+  
+</ul>
+
+      
+    </div>
+  </div>
+  
+  
+  
+
+  
+  <div class="col-md-12">
+    <h2 class="mb-4">Associates</h2>
+  </div>
+  
+
+  
+  
+  
+  
+  
+  <div class="col-12 col-sm-auto people-person">
+    
+    
+      
+      
+    
+    
+      
+      <img class="avatar avatar-circle" src="/author/benoit-combemale/avatar_hu_e4e5bf511728b5e7.jpg" alt="Avatar">
+    
+
+    <div class="portrait-title">
+      <h2>Benoît Combemale</h2>
+      
+      <h3>Professor of Software Engineering, U. Rennes 1</h3>
+      <ul class="network-icon" aria-hidden="true">
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+    <li>
+      <a href="mailto:benoit.combemale@irisa.fr" >
+        <i class="fas fa-envelope"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://twitter.com/bcombemale" target="_blank" rel="noopener">
+        <i class="fab fa-twitter"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://www.linkedin.com/in/combemale/" target="_blank" rel="noopener">
+        <i class="fab fa-linkedin"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://people.irisa.fr/Benoit.Combemale/" target="_blank" rel="noopener">
+        <i class="ai ai-cv"></i>
+      </a>
+    </li>
+  
+</ul>
+
+      
+    </div>
+  </div>
+  
+  
+  
+  
+  
+  <div class="col-12 col-sm-auto people-person">
+    
+    
+      
+      
+    
+    
+      
+      <img class="avatar avatar-circle" src="/author/bertrand-meyer/avatar_hu_692aabb27b3e038a.jpg" alt="Avatar">
+    
+
+    <div class="portrait-title">
+      <h2>Bertrand Meyer</h2>
+      
+      <h3>Professor of Software Engineering</h3>
+      <ul class="network-icon" aria-hidden="true">
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+    <li>
+      <a href="mailto:bertrand.meyer@inf.ethz.ch" >
+        <i class="fas fa-envelope"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://twitter.com/bertrand_meyer" target="_blank" rel="noopener">
+        <i class="fab fa-twitter"></i>
+      </a>
+    </li>
+  
+</ul>
+
+      
+    </div>
+  </div>
+  
+  
+  
+  
+  
+  <div class="col-12 col-sm-auto people-person">
+    
+    
+      
+      
+    
+    
+      
+      <img class="avatar avatar-circle" src="/author/claude-baron/avatar_hu_e76a3a2f1c22b1b8.jpg" alt="Avatar">
+    
+
+    <div class="portrait-title">
+      <h2>Claude Baron</h2>
+      
+      <h3>Professor of System Engineering, INSA Toulouse</h3>
+      <ul class="network-icon" aria-hidden="true">
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+    <li>
+      <a href="mailto:claude.baron@insa.fr" >
+        <i class="fas fa-envelope"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://www.linkedin.com/in/claude-baron/?originalSubdomain=fr" target="_blank" rel="noopener">
+        <i class="fab fa-linkedin"></i>
+      </a>
+    </li>
+  
+</ul>
+
+      
+    </div>
+  </div>
+  
+  
+  
+
+  
+  <div class="col-md-12">
+    <h2 class="mb-4">Ph.D. Students</h2>
+  </div>
+  
+
+  
+  
+  
+  
+  
+  <div class="col-12 col-sm-auto people-person">
+    
+    
+      
+      
+    
+    
+      
+      <img class="avatar avatar-circle" src="/author/ildar-nigmatullin/avatar_hu_87b5a5c46b7a174.jpg" alt="Avatar">
+    
+
+    <div class="portrait-title">
+      <h2>Ildar Nigmatullin</h2>
+      
+      <h3>Registration pending</h3>
+      <ul class="network-icon" aria-hidden="true">
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+    <li>
+      <a href="mailto:i.nigmatullin@yahoo.com" >
+        <i class="fas fa-envelope"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://www.linkedin.com/in/ildar-nigmatullin" target="_blank" rel="noopener">
+        <i class="fab fa-linkedin"></i>
+      </a>
+    </li>
+  
+</ul>
+
+      
+    </div>
+  </div>
+  
+  
+  
+  
+  
+  <div class="col-12 col-sm-auto people-person">
+    
+    
+      
+      
+    
+    
+      
+      <img class="avatar avatar-circle" src="/author/irfan-javid/avatar_hu_b4896d6704161960.png" alt="Avatar">
+    
+
+    <div class="portrait-title">
+      <h2>Irfan Javid</h2>
+      
+      <h3>Ph.D. student since 02/2025</h3>
+      <ul class="network-icon" aria-hidden="true">
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+    <li>
+      <a href="mailto:irfan.javid@irit.fr" >
+        <i class="fas fa-envelope"></i>
+      </a>
+    </li>
+  
+</ul>
+
+      
+    </div>
+  </div>
+  
+  
+  
+  
+  
+  <div class="col-12 col-sm-auto people-person">
+    
+    
+      
+      
+    
+    
+      
+      <img class="avatar avatar-circle" src="/author/kim-loubat/avatar_hu_d2e0237e8629856d.png" alt="Avatar">
+    
+
+    <div class="portrait-title">
+      <h2>Kim Loubat</h2>
+      
+      <h3>Ph.D. student since 10/2023</h3>
+      <ul class="network-icon" aria-hidden="true">
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+    <li>
+      <a href="mailto:kim.loubat@irit.fr" >
+        <i class="fas fa-envelope"></i>
+      </a>
+    </li>
+  
+</ul>
+
+      
+    </div>
+  </div>
+  
+  
+  
+  
+  
+  <div class="col-12 col-sm-auto people-person">
+    
+    
+      
+      
+    
+    
+      
+      <img class="avatar avatar-circle" src="/author/mika-pons/avatar_hu_189189ff231dff6c.jpeg" alt="Avatar">
+    
+
+    <div class="portrait-title">
+      <h2>Mika Pons</h2>
+      
+      <h3>Ph.D. student since 10/2021</h3>
+      <ul class="network-icon" aria-hidden="true">
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+    <li>
+      <a href="mailto:mika.pons@irit.fr" >
+        <i class="fas fa-envelope"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://www.linkedin.com/in/mikapons/" target="_blank" rel="noopener">
+        <i class="fab fa-linkedin"></i>
+      </a>
+    </li>
+  
+</ul>
+
+      
+    </div>
+  </div>
+  
+  
+  
+  
+  
+  <div class="col-12 col-sm-auto people-person">
+    
+    
+      
+      
+    
+    
+      
+      <img class="avatar avatar-circle" src="/author/nidhal-selmi/avatar_hu_5f4100a53a9c04eb.png" alt="Avatar">
+    
+
+    <div class="portrait-title">
+      <h2>Nidhal Selmi</h2>
+      
+      <h3>Ph.D. student since 10/2024</h3>
+      <ul class="network-icon" aria-hidden="true">
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+    <li>
+      <a href="mailto:nidhal.selmi@irit.fr" >
+        <i class="fas fa-envelope"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://www.linkedin.com/in/nidhal-selmi-263892128/" target="_blank" rel="noopener">
+        <i class="fab fa-linkedin"></i>
+      </a>
+    </li>
+  
+</ul>
+
+      
+    </div>
+  </div>
+  
+  
+  
+
+  
+  <div class="col-md-12">
+    <h2 class="mb-4">Former Ph.D. Students</h2>
+  </div>
+  
+
+  
+  
+  
+  
+  
+  <div class="col-12 col-sm-auto people-person">
+    
+    
+      
+      
+    
+    
+      
+      <img class="avatar avatar-circle" src="/author/alexandr-naumchev/avatar_hu_6eccd438140a3c8b.jpg" alt="Avatar">
+    
+
+    <div class="portrait-title">
+      <h2>Alexandr Naumchev</h2>
+      
+      <h3>2019 - Associate Professor at Innopolis University</h3>
+      <ul class="network-icon" aria-hidden="true">
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+    <li>
+      <a href="mailto:a.naumchev@innopolis.ru" >
+        <i class="fas fa-envelope"></i>
+      </a>
+    </li>
+  
+</ul>
+
+      
+    </div>
+  </div>
+  
+  
+  
+  
+  
+  <div class="col-12 col-sm-auto people-person">
+    
+    
+      
+      
+    
+    
+      
+      <img class="avatar avatar-circle" src="/author/anas-motii/avatar_hu_e75afb372ff5b0b3.jpg" alt="Avatar">
+    
+
+    <div class="portrait-title">
+      <h2>Anas Motii</h2>
+      
+      <h3>2017 - Consultant IAM chez Sogeti</h3>
+      <ul class="network-icon" aria-hidden="true">
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+    <li>
+      <a href="mailto:anas.motii@sogeti.com" >
+        <i class="fas fa-envelope"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://www.linkedin.com/in/anas-motii-ph-d-59b88868/" target="_blank" rel="noopener">
+        <i class="fab fa-linkedin"></i>
+      </a>
+    </li>
+  
+</ul>
+
+      
+    </div>
+  </div>
+  
+  
+  
+  
+  
+  <div class="col-12 col-sm-auto people-person">
+    
+    
+      
+      
+    
+    
+      
+      <img class="avatar avatar-circle" src="/author/florian-galinier/avatar_hu_947f6d4306106278.jpg" alt="Avatar">
+    
+
+    <div class="portrait-title">
+      <h2>Florian Galinier</h2>
+      
+      <h3>2021 - Spilen CEO</h3>
+      <ul class="network-icon" aria-hidden="true">
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+    <li>
+      <a href="mailto:galinierflo@gmail.com" >
+        <i class="fas fa-envelope"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://www.linkedin.com/in/fgalinier-spilen" target="_blank" rel="noopener">
+        <i class="fab fa-linkedin"></i>
+      </a>
+    </li>
+  
+</ul>
+
+      
+    </div>
+  </div>
+  
+  
+  
+  
+  
+  <div class="col-12 col-sm-auto people-person">
+    
+    
+      
+      
+    
+    
+      
+      <img class="avatar avatar-circle" src="/author/hamna-aslam/avatar_hu_4b8625938d1d3f5b.png" alt="Avatar">
+    
+
+    <div class="portrait-title">
+      <h2>Hamna Aslam</h2>
+      
+      <h3>2022 - Lecturer</h3>
+      <ul class="network-icon" aria-hidden="true">
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+    <li>
+      <a href="mailto:hamna025@gmail.com" >
+        <i class="fas fa-envelope"></i>
+      </a>
+    </li>
+  
+</ul>
+
+      
+    </div>
+  </div>
+  
+  
+  
+  
+  
+  <div class="col-12 col-sm-auto people-person">
+    
+    
+      
+      
+    
+    
+      
+      <img class="avatar avatar-circle" src="/author/jacob-geisel/avatar_hu_e23b48ccdad173d9.jpg" alt="Avatar">
+    
+
+    <div class="portrait-title">
+      <h2>Jacob Geisel</h2>
+      
+      <h3>2015 - Software Engineer and in Charge of Academic Relations at Obeo</h3>
+      <ul class="network-icon" aria-hidden="true">
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+    <li>
+      <a href="mailto:jacob.geisel@obeo.fr" >
+        <i class="fas fa-envelope"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://www.linkedin.com/in/jacobgeisel/" target="_blank" rel="noopener">
+        <i class="fab fa-linkedin"></i>
+      </a>
+    </li>
+  
+</ul>
+
+      
+    </div>
+  </div>
+  
+  
+  
+  
+  
+  <div class="col-12 col-sm-auto people-person">
+    
+    
+      
+      
+    
+    
+      
+      <img class="avatar avatar-circle" src="/author/mamadou-lakhassane-cisse/avatar_hu_6a1e216d261c168a.jpg" alt="Avatar">
+    
+
+    <div class="portrait-title">
+      <h2>Mamadou Lakhassane Cissé</h2>
+      
+      <h3>2021 - Engineer at Open Function</h3>
+      <ul class="network-icon" aria-hidden="true">
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+    <li>
+      <a href="mailto:mamadou.lakhassane@gmail.com" >
+        <i class="fas fa-envelope"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://www.linkedin.com/in/mamadoulcisse/" target="_blank" rel="noopener">
+        <i class="fab fa-linkedin"></i>
+      </a>
+    </li>
+  
+</ul>
+
+      
+    </div>
+  </div>
+  
+  
+  
+  
+  
+  <div class="col-12 col-sm-auto people-person">
+    
+    
+      
+      
+    
+    
+      
+      <img class="avatar avatar-circle" src="/author/mariya-naumcheva/avatar_hu_c6aa8ddf618b3068.jpg" alt="Avatar">
+    
+
+    <div class="portrait-title">
+      <h2>Mariya Naumcheva</h2>
+      
+      <h3>2025 - Researcher</h3>
+      <ul class="network-icon" aria-hidden="true">
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+    <li>
+      <a href="mailto:m.naumcheva@innopolis.university" >
+        <i class="fas fa-envelope"></i>
+      </a>
+    </li>
+  
+</ul>
+
+      
+    </div>
+  </div>
+  
+  
+  
+  
+  
+  <div class="col-12 col-sm-auto people-person">
+    
+    
+      
+      
+    
+    
+      
+      <img class="avatar avatar-circle" src="/author/maroun-koussaifi/avatar_hu_9bdca6facdd84dc2.jpg" alt="Avatar">
+    
+
+    <div class="portrait-title">
+      <h2>Maroun Koussaifi</h2>
+      
+      <h3>2020 - Consultant at Antipolis</h3>
+      <ul class="network-icon" aria-hidden="true">
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+    <li>
+      <a href="mailto:maroun.koussaifi2@gmail.com" >
+        <i class="fas fa-envelope"></i>
+      </a>
+    </li>
+  
+</ul>
+
+      
+    </div>
+  </div>
+  
+  
+  
+  
+  
+  <div class="col-12 col-sm-auto people-person">
+    
+    
+      
+      
+    
+    
+      
+      <img class="avatar avatar-circle" src="/author/mohammad-chami/avatar_hu_e58414757ebbe29d.png" alt="Avatar">
+    
+
+    <div class="portrait-title">
+      <h2>Mohammad Chami</h2>
+      
+      <h3>2021 - Consultant</h3>
+      <ul class="network-icon" aria-hidden="true">
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+    <li>
+      <a href="mailto:mohachami@gmail.com" >
+        <i class="fas fa-envelope"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://www.linkedin.com/in/mohachami/" target="_blank" rel="noopener">
+        <i class="fab fa-linkedin"></i>
+      </a>
+    </li>
+  
+</ul>
+
+      
+    </div>
+  </div>
+  
+  
+  
+  
+  
+  <div class="col-12 col-sm-auto people-person">
+    
+    
+      
+      
+    
+    
+      
+      <img class="avatar avatar-circle" src="/author/renan-leroux-beaudout/avatar_hu_f813fed6d74dbd08.jpg" alt="Avatar">
+    
+
+    <div class="portrait-title">
+      <h2>Renan Leroux-Beaudout</h2>
+      
+      <h3>2020 - Ingénieur chez ALTRAN</h3>
+      <ul class="network-icon" aria-hidden="true">
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+    <li>
+      <a href="mailto:renan.leroux@free.fr" >
+        <i class="fas fa-envelope"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://www.linkedin.com/in/renan-leroux-53625194/" target="_blank" rel="noopener">
+        <i class="fab fa-linkedin"></i>
+      </a>
+    </li>
+  
+</ul>
+
+      
+    </div>
+  </div>
+  
+  
+  
+  
+  
+  <div class="col-12 col-sm-auto people-person">
+    
+    
+      
+      
+    
+    
+      
+      <img class="avatar avatar-circle" src="/author/ronan-baduel/avatar_hu_61c14a531da8fc62.jpeg" alt="Avatar">
+    
+
+    <div class="portrait-title">
+      <h2>Ronan Baduel</h2>
+      
+      <h3>2019 - Consultant ALTEN</h3>
+      <ul class="network-icon" aria-hidden="true">
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+    <li>
+      <a href="mailto:baduel.ronan@gmail.com" >
+        <i class="fas fa-envelope"></i>
+      </a>
+    </li>
+  
+</ul>
+
+      
+    </div>
+  </div>
+  
+  
+  
+  
+  
+  <div class="col-12 col-sm-auto people-person">
+    
+    
+      
+      
+    
+    
+      
+      <img class="avatar avatar-circle" src="/author/saloua-bennani/avatar_hu_3170e35b74684de1.jpg" alt="Avatar">
+    
+
+    <div class="portrait-title">
+      <h2>Saloua Bennani</h2>
+      
+      <h3>2021 - Software Engineer</h3>
+      <ul class="network-icon" aria-hidden="true">
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+    <li>
+      <a href="mailto:saloua.bennani91@gmail.com" >
+        <i class="fas fa-envelope"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://www.linkedin.com/in/saloua-bennani/" target="_blank" rel="noopener">
+        <i class="fab fa-linkedin"></i>
+      </a>
+    </li>
+  
+</ul>
+
+      
+    </div>
+  </div>
+  
+  
+</div>
+
+
+    
+
+    </div>
+  </section>
+
+  
+  
+  
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  
+
+  
+
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+  
+  
+
+  
+  
+
+  
+
+  
+  
+
+  
+  
+
+  
+  <section id="journals" class="home-section wg-pages  "  >
+   <div class="home-section-bg " ></div>
+    <div class="container">
+
+    
+      <div class="row  ">
+      
+        
+          <div class="section-heading col-12 col-lg-4 mb-3 mb-lg-0 d-flex flex-column align-items-center align-items-lg-start">
+            <h1 class="mb-0">Journal Publications</h1>
+            <p class="mt-1">You can also access the <a href="https://hal.science/IRIT-SMART" target="_blank" rel="noopener">official list</a> from the lab (up to date, but only related to it).</p>
+          </div>
+        
+      
+    
+
+      
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+  
+
+
+
+
+<div class="col-12 col-lg-8">
+
+  
+
+  
+    
+      
+
+<div class="pub-list-item" style="margin-bottom: 1rem">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+
+  
+  
+
+  <span class="article-metadata li-cite-author">
+    
+
+  
+  </span>
+  (2023).
+  <a href="/publication/jot-issue-2023-01-article-3/">Object-Oriented Requirements: a Unified Framework for Specifications, Scenarios and Tests</a>.
+  <em>Journal of Object Technology</em>.
+  
+  <p>
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+<a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
+        data-filename="/publication/jot-issue-2023-01-article-3/cite.bib">
+  Cite
+</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.5381/jot.2023.22.1.a3" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="http://www.jot.fm/contents/issue_2023_01/article3.html" target="_blank" rel="noopener">
+    
+    URL
+  </a>
+
+</p>
+
+  
+  
+</div>
+
+    
+  
+    
+      
+
+<div class="pub-list-item" style="margin-bottom: 1rem">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+
+  
+  
+
+  <span class="article-metadata li-cite-author">
+    
+
+  
+  </span>
+  (2022).
+  <a href="/publication/incose-2022/">Artificial Intelligence Capabilities for Effective Model‐Based Systems Engineering: A Vision Paper</a>.
+  <em>INCOSE International Symposium</em>.
+  
+  <p>
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+<a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
+        data-filename="/publication/incose-2022/cite.bib">
+  Cite
+</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.1002/iis2.12988" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://incose.onlinelibrary.wiley.com/doi/abs/10.1002/iis2.12988" target="_blank" rel="noopener">
+    
+    URL
+  </a>
+
+</p>
+
+  
+  
+</div>
+
+    
+  
+    
+      
+
+<div class="pub-list-item" style="margin-bottom: 1rem">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+
+  
+  
+
+  <span class="article-metadata li-cite-author">
+    
+
+  
+  </span>
+  (2022).
+  <a href="/publication/dblp-journalssncs-capozucca-bmm-22/">Special Issue on New Paradigms of Software Production and Deployment</a>.
+  <em>SN Comput. Sci.</em>.
+  
+  <p>
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.1007/s42979-022-01029-9" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+<a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
+        data-filename="/publication/dblp-journalssncs-capozucca-bmm-22/cite.bib">
+  Cite
+</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.1007/s42979-022-01029-9" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+</p>
+
+  
+  
+</div>
+
+    
+  
+    
+      
+
+<div class="pub-list-item" style="margin-bottom: 1rem">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+
+  
+  
+
+  <span class="article-metadata li-cite-author">
+    
+
+  
+  </span>
+  (2021).
+  <a href="/publication/acm-surveys-2021/">The Role of Formalism in System Requirements</a>.
+  <em>ACM Computing Surveys</em>.
+  
+  <p>
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.1145/3448975" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+<a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
+        data-filename="/publication/acm-surveys-2021/cite.bib">
+  Cite
+</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.1145/3448975" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+</p>
+
+  
+  
+</div>
+
+    
+  
+    
+      
+
+<div class="pub-list-item" style="margin-bottom: 1rem">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+
+  
+  
+
+  <span class="article-metadata li-cite-author">
+    
+
+  
+  </span>
+  (2021).
+  <a href="/publication/jucs-2021/">Model-Driven Engineering for End-Users in the Loop in Smart Ambient Systems</a>.
+  <em>JUCS - Journal of Universal Computer Science</em>.
+  
+  <p>
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.3897/jucs.70515" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+<a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
+        data-filename="/publication/jucs-2021/cite.bib">
+  Cite
+</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.3897/jucs.70515" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+</p>
+
+  
+  
+</div>
+
+    
+  
+
+  
+  
+  
+
+    
+    
+      
+    
+
+    
+
+    <div class="see-all">
+      <a href="/publication-type/2/">
+        More Publications
+        <i class="fas fa-angle-right"></i>
+      </a>
+    </div>
+  
+
+</div>
+
+
+    
+      </div>
+    
+
+    </div>
+  </section>
+
+  
+  
+  
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  
+
+  
+
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+  
+  
+
+  
+  
+
+  
+
+  
+  
+
+  
+  
+
+  
+  <section id="publications" class="home-section wg-pages  "  >
+   <div class="home-section-bg " ></div>
+    <div class="container">
+
+    
+      <div class="row  ">
+      
+        
+          <div class="section-heading col-12 col-lg-4 mb-3 mb-lg-0 d-flex flex-column align-items-center align-items-lg-start">
+            <h1 class="mb-0">Conference Publications</h1>
+            <p class="mt-1">(and workshops)</p>
+          </div>
+        
+      
+    
+
+      
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+  
+
+
+
+
+<div class="col-12 col-lg-8">
+
+  
+
+  
+    
+      
+
+<div class="pub-list-item" style="margin-bottom: 1rem">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+
+  
+  
+
+  <span class="article-metadata li-cite-author">
+    
+
+  
+  </span>
+  (2023).
+  <a href="/publication/pons-hal-04144980/">Traçabilité by design : conception d&#39;un système interactif pour améliorer la génération automatique de traces Git pendant une activité d&#39;apprentissage</a>.
+  <em>11ème Conférence sur les Environnements Informatiques pour l&rsquo;Apprentissage Humain (EIAH 2023)</em>.
+  
+  <p>
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+<a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
+        data-filename="/publication/pons-hal-04144980/cite.bib">
+  Cite
+</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://hal.science/hal-04144980" target="_blank" rel="noopener">
+    
+    URL
+  </a>
+
+</p>
+
+  
+  
+</div>
+
+    
+  
+    
+      
+
+<div class="pub-list-item" style="margin-bottom: 1rem">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+
+  
+  
+
+  <span class="article-metadata li-cite-author">
+    
+
+  
+  </span>
+  (2022).
+  <a href="/publication/liu-hal-03941814/">Modelling and Verification of Natural Language Requirements based on States and Modes</a>.
+  <em>30th International Requirements Engineering Conference Workshops (REW 2022)</em>.
+  
+  <p>
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+<a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
+        data-filename="/publication/liu-hal-03941814/cite.bib">
+  Cite
+</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.1109/REW56159.2022.00043" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://hal.science/hal-03941814" target="_blank" rel="noopener">
+    
+    URL
+  </a>
+
+</p>
+
+  
+  
+</div>
+
+    
+  
+    
+      
+
+<div class="pub-list-item" style="margin-bottom: 1rem">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+
+  
+  
+
+  <span class="article-metadata li-cite-author">
+    
+
+  
+  </span>
+  (2022).
+  <a href="/publication/dblp-conficst-nigmatullin-smeb-22/">RQCODE - Towards Object-Oriented Requirements in the Software Security Domain</a>.
+  <em>15th IEEE International Conference on Software Testing, Verification and Validation Workshops ICST Workshops 2022, Valencia, Spain, April 4-13, 2022</em>.
+  
+  <p>
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.1109/ICSTW55395.2022.00015" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+<a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
+        data-filename="/publication/dblp-conficst-nigmatullin-smeb-22/cite.bib">
+  Cite
+</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.1109/ICSTW55395.2022.00015" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+</p>
+
+  
+  
+</div>
+
+    
+  
+    
+      
+
+<div class="pub-list-item" style="margin-bottom: 1rem">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+
+  
+  
+
+  <span class="article-metadata li-cite-author">
+    
+
+  
+  </span>
+  (2021).
+  <a href="/publication/dblp-confisdevel-aslam-nbb-21/">Examining Requirements Documentation through the Focused Conversation Method</a>.
+  <em>Information Systems Development: Crossing Boundaries between Development and Operations (DevOps) in Information Systems (ISD2021 Proceedings), Valencia, Spain, September 8-10, 2021</em>.
+  
+  <p>
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://aisel.aisnet.org/isd2014/proceedings2021/managingdevops/5" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+<a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
+        data-filename="/publication/dblp-confisdevel-aslam-nbb-21/cite.bib">
+  Cite
+</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</p>
+
+  
+  
+</div>
+
+    
+  
+    
+      
+
+<div class="pub-list-item" style="margin-bottom: 1rem">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+
+  
+  
+
+  <span class="article-metadata li-cite-author">
+    
+
+  
+  </span>
+  (2020).
+  <a href="/publication/alary-hal-03120764/">Using Comp-O to Build and Describe Component-Based Services</a>.
+  <em>Demos and Industry Tracks: From Novel Ideas to Industrial Practice (ISWC-Posters 2020 ) co-located with 19th International Semantic Web Conference</em>.
+  
+  <p>
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://hal.archives-ouvertes.fr/hal-03120764" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+<a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
+        data-filename="/publication/alary-hal-03120764/cite.bib">
+  Cite
+</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</p>
+
+  
+  
+</div>
+
+    
+  
+
+  
+  
+  
+
+    
+    
+      
+    
+
+    
+
+    <div class="see-all">
+      <a href="/publication-type/1/">
+        More Publications
+        <i class="fas fa-angle-right"></i>
+      </a>
+    </div>
+  
+
+</div>
+
+
+    
+      </div>
+    
+
+    </div>
+  </section>
+
+  
+  
+  
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  
+
+  
+
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+  
+  
+
+  
+  
+
+  
+
+  
+  
+
+  
+  
+
+  
+  <section id="PhDs" class="home-section wg-pages  "  >
+   <div class="home-section-bg " ></div>
+    <div class="container">
+
+    
+      <div class="row  ">
+      
+        
+          <div class="section-heading col-12 col-lg-4 mb-3 mb-lg-0 d-flex flex-column align-items-center align-items-lg-start">
+            <h1 class="mb-0">Ph.D. thesis</h1>
+            <p class="mt-1">(and Habilitations)</p>
+          </div>
+        
+      
+    
+
+      
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+  
+
+
+
+
+<div class="col-12 col-lg-8">
+
+  
+
+  
+    
+      
+
+<div class="pub-list-item" style="margin-bottom: 1rem">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+
+  
+  
+
+  <span class="article-metadata li-cite-author">
+    
+
+  
+  </span>
+  (2021).
+  <a href="/publication/ebersold-tel-03201997/">Modélisation des systèmes complexes et Points de vue : l&#39;Ingénierie des Modèles centrée utilisateur pour l&#39;Ingénierie Système</a>.
+  
+  <p>
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://hal.archives-ouvertes.fr/tel-03201997" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+<a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
+        data-filename="/publication/ebersold-tel-03201997/cite.bib">
+  Cite
+</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</p>
+
+  
+  
+</div>
+
+    
+  
+    
+      
+
+<div class="pub-list-item" style="margin-bottom: 1rem">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+
+  
+  
+
+  <span class="article-metadata li-cite-author">
+    
+
+  
+  </span>
+  (2020).
+  <a href="/publication/koussaifi-tel-03209249/">Modélisation centrée utilisateur pour la configuration logicielle en environnement ambiant</a>.
+  
+  <p>
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://tel.archives-ouvertes.fr/tel-03209249" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+<a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
+        data-filename="/publication/koussaifi-tel-03209249/cite.bib">
+  Cite
+</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</p>
+
+  
+  
+</div>
+
+    
+  
+    
+      
+
+<div class="pub-list-item" style="margin-bottom: 1rem">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+
+  
+  
+
+  <span class="article-metadata li-cite-author">
+    
+
+  
+  </span>
+  (2020).
+  <a href="/publication/lerouxbeaudout-tel-03098563/">Méthodologie de conception de systèmes de simulations en entreprise étendue, basée sur l&#39;ingénierie système dirigée par les modèles</a>.
+  
+  <p>
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://tel.archives-ouvertes.fr/tel-03098563" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+<a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
+        data-filename="/publication/lerouxbeaudout-tel-03098563/cite.bib">
+  Cite
+</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</p>
+
+  
+  
+</div>
+
+    
+  
+    
+      
+
+<div class="pub-list-item" style="margin-bottom: 1rem">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+
+  
+  
+
+  <span class="article-metadata li-cite-author">
+    
+
+  
+  </span>
+  (2020).
+  <a href="/publication/cisse-tel-03280101/">Modélisation et exécution flexible de processus collaboratifs</a>.
+  
+  <p>
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://tel.archives-ouvertes.fr/tel-03280101" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+<a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
+        data-filename="/publication/cisse-tel-03280101/cite.bib">
+  Cite
+</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</p>
+
+  
+  
+</div>
+
+    
+  
+    
+      
+
+<div class="pub-list-item" style="margin-bottom: 1rem">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+
+  
+  
+
+  <span class="article-metadata li-cite-author">
+    
+
+  
+  </span>
+  (2020).
+  <a href="/publication/bennani-tel-03267969/">Une approche IDM pour l&#39;alignement collaboratif de modèles hétérogènes</a>.
+  
+  <p>
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://tel.archives-ouvertes.fr/tel-03267969" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+<a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
+        data-filename="/publication/bennani-tel-03267969/cite.bib">
+  Cite
+</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</p>
+
+  
+  
+</div>
+
+    
+  
+    
+      
+
+<div class="pub-list-item" style="margin-bottom: 1rem">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+
+  
+  
+
+  <span class="article-metadata li-cite-author">
+    
+
+  
+  </span>
+  (2019).
+  <a href="/publication/baduel-tel-03012187/">An integrated model-based early validation approach for railway systems</a>.
+  
+  <p>
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://hal-univ-tlse2.archives-ouvertes.fr/tel-03012187" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+<a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
+        data-filename="/publication/baduel-tel-03012187/cite.bib">
+  Cite
+</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</p>
+
+  
+  
+</div>
+
+    
+  
+    
+      
+
+<div class="pub-list-item" style="margin-bottom: 1rem">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+
+  
+  
+
+  <span class="article-metadata li-cite-author">
+    
+
+  
+  </span>
+  (2019).
+  <a href="/publication/naumchev-tel-02872242/">Seamless Object-Oriented Requirements</a>.
+  
+  <p>
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://tel.archives-ouvertes.fr/tel-02872242" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+<a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
+        data-filename="/publication/naumchev-tel-02872242/cite.bib">
+  Cite
+</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</p>
+
+  
+  
+</div>
+
+    
+  
+
+  
+  
+  
+
+</div>
+
+
+    
+      </div>
+    
+
+    </div>
+  </section>
+
+  
+  
+  
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  
+
+  
+
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+  
+  
+
+  
+  
+
+  
+
+  
+  
+
+  
+  
+
+  
+  <section id="talks" class="home-section wg-pages  "  >
+   <div class="home-section-bg " ></div>
+    <div class="container">
+
+    
+      <div class="row  ">
+      
+        
+          <div class="section-heading col-12 col-lg-4 mb-3 mb-lg-0 d-flex flex-column align-items-center align-items-lg-start">
+            <h1 class="mb-0">Recent &amp; Upcoming Talks</h1>
+            
+          </div>
+        
+      
+    
+
+      
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+  
+
+
+
+
+<div class="col-12 col-lg-8">
+
+  
+
+  
+    
+      
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+<div class="media stream-item">
+  <div class="media-body">
+
+    <div class="section-subheading article-title mb-0 mt-0">
+      <a href="/talk/20220901-youtube-fsl/" >L&#39;importance du Génie Logiciel</a>
+    </div>
+
+    
+    <a href="/talk/20220901-youtube-fsl/"  class="summary-link">
+      <div class="article-style">
+        Presentation of why Software Engineering is important
+      </div>
+    </a>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+        
+
+
+<div class="article-metadata">
+
+  
+  
+  
+  
+  <div>
+    
+
+  
+  </div>
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+          Last updated on
+      
+    
+    Apr 15, 2025
+  </span>
+  
+
+  
+
+  
+
+  
+  
+  
+  
+  
+  
+
+  
+  
+
+</div>
+
+      
+    </div>
+
+    
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+    
+  
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://www.youtube.com/watch?v=zYc-6G0sr0Y" target="_blank" rel="noopener">
+  Video
+</a>
+
+
+
+
+
+    </div>
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+  </div>
+</div>
+
+    
+  
+    
+      
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+<div class="media stream-item">
+  <div class="media-body">
+
+    <div class="section-subheading article-title mb-0 mt-0">
+      <a href="/talk/20220224-diversecoffee/" >Data-Informed Instructional Design</a>
+    </div>
+
+    
+    <a href="/talk/20220224-diversecoffee/"  class="summary-link">
+      <div class="article-style">
+        Presentation of the ongoing thesis
+      </div>
+    </a>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+        
+
+
+<div class="article-metadata">
+
+  
+  
+  
+  
+  <div>
+    
+
+  
+  </div>
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+          Last updated on
+      
+    
+    Oct 12, 2022
+  </span>
+  
+
+  
+
+  
+
+  
+  
+  
+  
+  
+  
+
+  
+  
+
+</div>
+
+      
+    </div>
+
+    
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="/files/DiverseCoffee2022.pdf" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    </div>
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+  </div>
+</div>
+
+    
+  
+    
+      
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+<div class="media stream-item">
+  <div class="media-body">
+
+    <div class="section-subheading article-title mb-0 mt-0">
+      <a href="/talk/20220216-wsse22/" >Use of acceptance testing (BDD using Cucumber) in a DevOps</a>
+    </div>
+
+    
+    <a href="/talk/20220216-wsse22/"  class="summary-link">
+      <div class="article-style">
+        Lecture on the International Winter School on Software Engineering
+      </div>
+    </a>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+        
+
+
+<div class="article-metadata">
+
+  
+  
+  
+  
+  <div>
+    
+
+  
+  </div>
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+          Last updated on
+      
+    
+    Oct 12, 2022
+  </span>
+  
+
+  
+
+  
+
+  
+  
+  
+  
+  
+  
+
+  
+  
+
+</div>
+
+      
+    </div>
+
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+  </div>
+</div>
+
+    
+  
+    
+      
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+<div class="media stream-item">
+  <div class="media-body">
+
+    <div class="section-subheading article-title mb-0 mt-0">
+      <a href="/talk/20211130-gt-cifre/" >CIFRE REX</a>
+    </div>
+
+    
+    <a href="/talk/20211130-gt-cifre/"  class="summary-link">
+      <div class="article-style">
+        Présentation de mon expérience d&rsquo;encadrant d&rsquo;une thèse CIFRE
+      </div>
+    </a>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+        
+
+
+<div class="article-metadata">
+
+  
+  
+  
+  
+  <div>
+    
+
+  
+  </div>
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+          Last updated on
+      
+    
+    Oct 12, 2022
+  </span>
+  
+
+  
+
+  
+
+  
+  
+  
+  
+  
+  
+
+  
+  
+
+</div>
+
+      
+    </div>
+
+    
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="/files/gt-cifre.pdf" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    </div>
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+  </div>
+</div>
+
+    
+  
+
+  
+  
+  
+
+    
+    
+      
+    
+
+    
+
+    <div class="see-all">
+      <a href="/talk/">
+        See all
+        <i class="fas fa-angle-right"></i>
+      </a>
+    </div>
+  
+
+</div>
+
+
+    
+      </div>
+    
+
+    </div>
+  </section>
+
+  
+  
+  
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  
+
+  
+
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+  
+  
+
+  
+  
+
+  
+
+  
+  
+
+  
+  
+
+  
+  <section id="projects" class="home-section wg-portfolio  "  >
+   <div class="home-section-bg " ></div>
+    <div class="container">
+
+    
+      <div class="row  ">
+      
+        
+          <div class="section-heading col-12 col-lg-4 mb-3 mb-lg-0 d-flex flex-column align-items-center align-items-lg-start">
+            <h1 class="mb-0">Projects</h1>
+            
+          </div>
+        
+      
+    
+
+      
+
+
+
+
+
+
+
+<div class="col-12 col-lg-8">
+
+  
+
+  
+
+    
+
+    
+    
+    
+    
+      
+    
+
+    <span class="d-none default-project-filter">*</span>
+
+    
+    
+    <div class="project-toolbar">
+      <div class="project-filters">
+        <div class="btn-toolbar">
+          <div class="btn-group flex-wrap">
+            
+              
+              
+              
+                
+              
+              <a href="#" data-filter="*" class="btn btn-primary btn-lg active">All</a>
+            
+              
+              
+              
+              <a href="#" data-filter=".js-id-FUN" class="btn btn-primary btn-lg">Final User Needs</a>
+            
+              
+              
+              
+              <a href="#" data-filter=".js-id-MBSE,-MDE" class="btn btn-primary btn-lg">MBSE</a>
+            
+              
+              
+              
+              <a href="#" data-filter=".js-id-Requirements,-Lean" class="btn btn-primary btn-lg">Requirements</a>
+            
+          </div>
+        </div>
+      </div>
+    </div>
+    
+  
+
+  <div class="isotope projects-container js-layout-masonry ">
+
+    
+    
+      
+    
+
+    
+
+      
+      
+      
+        
+        
+      
+
+      
+        
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+<div class="project-card project-item isotope-item js-id-Lean js-id-MBSE js-id-V&amp;V js-id-Ontology js-id-Requirements">
+  <div class="card">
+    
+    
+    <a href="https://cocovad.github.io/website" target="_blank" rel="noopener" class="card-image hover-overlay">
+      <img src="/project/airbus/featured_hu_f0fcfda2ce68b7ea.jpg" alt="Chaire Industrielle" class="img-responsive" loading="lazy">
+    </a>
+    
+    <div class="card-text">
+      <h4><a href="https://cocovad.github.io/website" target="_blank" rel="noopener">Chaire Industrielle</a></h4>
+
+      
+      <div class="article-style">
+        <p>Despite the success of Model-Based Systems Engineering adoption, its application at scale and in a continuous approach to ensure the delivery of added value for its adopters is far from straightforward. The inherent complexity in terms of implied domains or of massively heterogeneous and poorly related data is not weaved by the simple use of a formal and disciplined modeling approach. A collaborative and continuous framework and process are required and need to aggregate up-to-date technologies in complementary techniques such as models, ontologies, and complex data management. It is the purpose of this Chair to study and make effective such complementarity.</p>
+      </div>
+      
+
+      
+    </div>
+  </div>
+</div>
+
+      
+
+    
+
+      
+      
+      
+
+      
+        
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+<div class="project-card project-item isotope-item js-id-Lean js-id-Requirements">
+  <div class="card">
+    
+    
+    <a href="/project/innopolis/"  class="card-image hover-overlay">
+      <img src="/project/innopolis/featured_hu_6d86328d9500e629.png" alt="Formal Requirements" class="img-responsive" loading="lazy">
+    </a>
+    
+    <div class="card-text">
+      <h4><a href="/project/innopolis/" >Formal Requirements</a></h4>
+
+      
+      <div class="article-style">
+        <p>Collaboration initiated with the Innopolis University on the use of formal methods in Requirements Engineering</p>
+      </div>
+      
+
+      
+    </div>
+  </div>
+</div>
+
+      
+
+    
+
+      
+      
+      
+
+      
+        
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+<div class="project-card project-item isotope-item js-id-Collaboration js-id-FUN">
+  <div class="card">
+    
+    
+    <a href="/project/fun/"  class="card-image hover-overlay">
+      <img src="/project/fun/featured_hu_de7597dc8502a4e2.png" alt="FUN Modeling" class="img-responsive" loading="lazy">
+    </a>
+    
+    <div class="card-text">
+      <h4><a href="/project/fun/" >FUN Modeling</a></h4>
+
+      
+      <div class="article-style">
+        <p>Placing the Final User Needs (FUN) at the center of the (modeling) concerns</p>
+      </div>
+      
+
+      
+    </div>
+  </div>
+</div>
+
+      
+
+    
+
+      
+      
+      
+        
+        
+      
+
+      
+        
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+<div class="project-card project-item isotope-item js-id-Lean js-id-MBSE js-id-V&amp;V">
+  <div class="card">
+    
+    
+    <a href="https://www.researchgate.net/project/An-integrated-model-based-early-validation-approach-for-Railway-Systems" target="_blank" rel="noopener" class="card-image hover-overlay">
+      <img src="/project/bombardier/featured_hu_fb10ea7a0aed35e4.png" alt="MBSE &amp; Early Validation" class="img-responsive" loading="lazy">
+    </a>
+    
+    <div class="card-text">
+      <h4><a href="https://www.researchgate.net/project/An-integrated-model-based-early-validation-approach-for-Railway-Systems" target="_blank" rel="noopener">MBSE &amp; Early Validation</a></h4>
+
+      
+      <div class="article-style">
+        <p>An integrated model-based early validation approach for Railway Systems</p>
+      </div>
+      
+
+      
+    </div>
+  </div>
+</div>
+
+      
+
+    
+
+      
+      
+      
+        
+        
+      
+
+      
+        
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+<div class="project-card project-item isotope-item js-id-Language js-id-Workbench js-id-Globalization js-id-MDE js-id-FUN">
+  <div class="card">
+    
+    
+    <a href="http://gemoc.org" target="_blank" rel="noopener" class="card-image hover-overlay">
+      <img src="/project/gemoc/featured_hu_927f3b6af3b1287.png" alt="GEMOC Initiative" class="img-responsive" loading="lazy">
+    </a>
+    
+    <div class="card-text">
+      <h4><a href="http://gemoc.org" target="_blank" rel="noopener">GEMOC Initiative</a></h4>
+
+      
+      <div class="article-style">
+        <p>GEMOC is an open and international initiative that aims to coordinate and disseminate the research results regarding the support of the coordinated use of various modeling languages that will lead to the concept of the globalization of modeling languages.</p>
+      </div>
+      
+
+      
+    </div>
+  </div>
+</div>
+
+      
+
+    
+
+      
+      
+      
+        
+        
+      
+
+      
+        
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+<div class="project-card project-item isotope-item js-id-Requirements js-id-Collaboration js-id-Language js-id-MBSE js-id-past">
+  <div class="card">
+    
+    
+    <a href="https://www.irt-saintexupery.com/expertise/systems-engineering-modeling-domain" target="_blank" rel="noopener" class="card-image hover-overlay">
+      <img src="/project/moise/featured_hu_12e16496b88c7e33.jpg" alt="Moise" class="img-responsive" loading="lazy">
+    </a>
+    
+    <div class="card-text">
+      <h4><a href="https://www.irt-saintexupery.com/expertise/systems-engineering-modeling-domain" target="_blank" rel="noopener">Moise</a></h4>
+
+      
+      <div class="article-style">
+        <p>MOdels and Information Sharing for System Engineering in Extended Entreprise</p>
+      </div>
+      
+
+      
+    </div>
+  </div>
+</div>
+
+      
+
+    
+  </div>
+</div>
+
+
+    
+      </div>
+    
+
+    </div>
+  </section>
+
+  
+  
+  
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  
+
+  
+
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+  
+  
+
+  
+  
+
+  
+
+  
+  
+
+  
+  
+
+  
+  <section id="tags" class="home-section wg-tag-cloud  "  >
+   <div class="home-section-bg " ></div>
+    <div class="container">
+
+    
+      <div class="row  ">
+      
+        
+          <div class="section-heading col-12 col-lg-4 mb-3 mb-lg-0 d-flex flex-column align-items-center align-items-lg-start">
+            <h1 class="mb-0">Popular Topics</h1>
+            
+          </div>
+        
+      
+    
+
+      
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+<div class="col-12 col-lg-8">
+  
+
+  
+
+    
+    
+    
+    
+    
+    
+
+    <div class="tag-cloud">
+      
+        
+        
+        
+        <a href="/tag/ambient-intelligence/" style="font-size:0.7rem">&#34;Ambient Intelligence&#34;</a>
+      
+        
+        
+        
+        <a href="/tag/collaboration/" style="font-size:0.7rem">&#34;Collaboration&#34;</a>
+      
+        
+        
+        
+        <a href="/tag/design-by-contract/" style="font-size:0.7rem">&#34;Design by Contract&#34;</a>
+      
+        
+        
+        
+        <a href="/tag/domain-specific-languages/" style="font-size:0.9004857356420752rem">&#34;Domain-Specific Languages&#34;</a>
+      
+        
+        
+        
+        <a href="/tag/eiffel/" style="font-size:0.7rem">&#34;Eiffel&#34;</a>
+      
+        
+        
+        
+        <a href="/tag/model-transformation/" style="font-size:0.7rem">&#34;Model Transformation&#34;</a>
+      
+        
+        
+        
+        <a href="/tag/model-driven-engineering/" style="font-size:0.9004857356420752rem">&#34;Model-Driven Engineering&#34;</a>
+      
+        
+        
+        
+        <a href="/tag/seamless-requirements/" style="font-size:0.7rem">&#34;Seamless Requirements&#34;</a>
+      
+        
+        
+        
+        <a href="/tag/current/" style="font-size:1.0642945090615414rem">Current</a>
+      
+        
+        
+        
+        <a href="/tag/dsl/" style="font-size:0.9004857356420752rem">DSL</a>
+      
+        
+        
+        
+        <a href="/tag/fun/" style="font-size:0.9004857356420752rem">FUN</a>
+      
+        
+        
+        
+        <a href="/tag/grant/" style="font-size:0.9004857356420752rem">Grant</a>
+      
+        
+        
+        
+        <a href="/tag/indus/" style="font-size:1.5232513122601157rem">Indus</a>
+      
+        
+        
+        
+        <a href="/tag/mbse/" style="font-size:0.7rem">MBSE</a>
+      
+        
+        
+        
+        <a href="/tag/mde/" style="font-size:0.9004857356420752rem">MDE</a>
+      
+        
+        
+        
+        <a href="/tag/past/" style="font-size:1.6870600856795819rem">Past</a>
+      
+        
+        
+        
+        <a href="/tag/phd/" style="font-size:1.9455311532360802rem">Phd</a>
+      
+        
+        
+        
+        <a href="/tag/publications/" style="font-size:1.4285890181230831rem">Publications</a>
+      
+        
+        
+        
+        <a href="/tag/requirements/" style="font-size:1.0642945090615414rem">Requirements</a>
+      
+        
+        
+        
+        <a href="/tag/research/" style="font-size:0.9004857356420752rem">Research</a>
+      
+    </div>
+  
+
+</div>
+
+
+    
+      </div>
+    
+
+    </div>
+  </section>
+
+  
+  
+  
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  
+
+  
+
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+  
+  
+
+  
+  
+
+  
+
+  
+  
+
+  
+  
+
+  
+  <section id="contact" class="home-section wg-contact  "  >
+   <div class="home-section-bg " ></div>
+    <div class="container">
+
+    
+      <div class="row  ">
+      
+        
+          <div class="section-heading col-12 col-lg-4 mb-3 mb-lg-0 d-flex flex-column align-items-center align-items-lg-start">
+            <h1 class="mb-0">Contact</h1>
+            
+          </div>
+        
+      
+    
+
+      
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="col-12 col-lg-8">
+  
+
+  
+
+    
+    
+      
+    
+
+    <div class="mb-3">
+      <form name="contact" method="POST" netlify netlify-honeypot="welcome-bot" data-netlify-recaptcha="true">
+        <div class="form-group form-inline">
+          <label class="sr-only" for="inputName">Name</label>
+          <input type="text" name="name" class="form-control w-100" id="inputName" placeholder="Name" required>
+        </div>
+        <div class="form-group form-inline">
+          <label class="sr-only" for="inputEmail">Email</label>
+          <input type="email" name="email" class="form-control w-100" id="inputEmail" placeholder="Email" required>
+        </div>
+        <div class="form-group">
+          <label class="sr-only" for="inputMessage">Message</label>
+          <textarea name="message" class="form-control" id="inputMessage" rows="5" placeholder="Message" required></textarea>
+        </div>
+        
+          <div class="d-none">
+            <label>Do not fill this field unless you are a bot: <input name="welcome-bot"></label>
+          </div>
+          
+            <div class="form-group" data-netlify-recaptcha="true"></div>
+          
+        
+        <button type="submit" class="btn btn-outline-primary px-3 py-2">Send</button>
+      </form>
+    </div>
+  
+
+  <ul class="fa-ul">
+
+    
+
+    
+    <li>
+      <i class="fa-li fas fa-phone fa-2x" aria-hidden="true"></i>
+      <span id="person-telephone"><a href="tel:&#43;33%20%280%296.07.65.19.70">&#43;33 (0)6.07.65.19.70</a></span>
+    </li>
+    
+
+    
+    
+      
+      <li>
+        <i class="fa-li fas fa-map-marker fa-2x" aria-hidden="true"></i>
+        <span id="person-address">5 allées Machado, Toulouse Cedex 9, 31058</span>
+      </li>
+    
+
+    
+
+    
+
+    
+    <li>
+      <i class="fa-li fas fa-calendar-check fa-2x" aria-hidden="true"></i>
+      <a href="https://calendly.com/jmbruel" target="_blank" rel="noopener">Book an appointment</a>
+    </li>
+    
+
+    
+    
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <i class="fa-li fab fa-twitter fa-2x" aria-hidden="true"></i>
+      <a href="https://twitter.com/SmartModelTeam" target="_blank" rel="noopener">DM Us</a>
+    </li>
+    
+
+  </ul>
+
+  
+
+</div>
+
+
+    
+      </div>
+    
+
+    </div>
+  </section>
+
+
+
+  </div>
+
+  <div class="page-footer">
+    
+    
+    <div class="container">
+      <footer class="site-footer">
+
+  
+
+
+
+  
+
+  
+
+  
+  <p class="powered-by">
+    © 2025 - ACDC. Last update: April, 15th, 2025
+  </p>
+  
+
+  
+  
+
+
+
+
+
+
+  <p class="powered-by">
+    
+    
+    
+      
+      
+      
+      
+      
+      
+      Published with <a href="https://wowchemy.com/?utm_campaign=poweredby" target="_blank" rel="noopener">Wowchemy</a> — the free, <a href="https://github.com/wowchemy/wowchemy-hugo-modules" target="_blank" rel="noopener">open source</a> website builder that empowers creators.
+    
+  </p>
+</footer>
+
+    </div>
+    
+  </div>
+
+  
+<div id="modal" class="modal fade" role="dialog">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title">Cite</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <pre><code class="tex hljs"></code></pre>
+      </div>
+      <div class="modal-footer">
+        <a class="btn btn-outline-primary my-1 js-copy-cite" href="#" target="_blank">
+          <i class="fas fa-copy"></i> Copy
+        </a>
+        <a class="btn btn-outline-primary my-1 js-download-cite" href="#" target="_blank">
+          <i class="fas fa-download"></i> Download
+        </a>
+        <div id="modal-error"></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+      
+
+    
+    
+    
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js" integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/instant.page/5.1.0/instantpage.min.js" integrity="sha512-1+qUtKoh9XZW7j+6LhRMAyOrgSQKenQ4mluTR+cvxXjP1Z54RxZuzstR/H9kgPXQsVB8IW7DMDFUJpzLjvhGSQ==" crossorigin="anonymous"></script>
+
+      
+      
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.imagesloaded/4.1.4/imagesloaded.pkgd.min.js" integrity="sha256-lqvxZrPLtfffUl2G/e7szqSvPBILGbwmsGE1MKlOi0Q=" crossorigin="anonymous"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.isotope/3.0.6/isotope.pkgd.min.js" integrity="sha256-CBrpuqrMhXwcLLUd5tvQ4euBHCdh7wGlDfNz8vbu/iI=" crossorigin="anonymous"></script>
+      
+
+      
+      
+
+      
+
+      
+        
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.2.0/highlight.min.js" integrity="sha512-TDKKr+IvoqZnPzc3l35hdjpHD0m+b2EC2SrLEgKDRWpxf2rFCxemkgvJ5kfU48ip+Y+m2XVKyOCD85ybtlZDmw==" crossorigin="anonymous"></script>
+        
+        
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.2.0/languages/r.min.js" crossorigin="anonymous"></script>
+        
+      
+
+    
+
+    
+    
+    
+
+    
+    
+
+    
+    
+    
+
+    
+    
+
+    
+    
+    
+    
+
+    
+    <script src="/js/bootstrap.bundle.min.6aed84840afc03ab4d5750157f69c120.js"></script>
+
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    <script src="/en/js/wowchemy.min.bd43aed4561d82c91999367726f41278.js"></script>
+
+    
+
+
+
+
+
+
+</body>
+</html>

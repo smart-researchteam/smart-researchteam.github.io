@@ -2,6 +2,51 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://smart-researchteam.github.io/tag/gpl/</loc>
+    <lastmod>2025-04-17T18:03:38+02:00</lastmod>
+  </url><url>
+    <loc>https://smart-researchteam.github.io/project/</loc>
+    <lastmod>2025-04-17T18:03:38+02:00</lastmod>
+  </url><url>
+    <loc>https://smart-researchteam.github.io/project/sean/</loc>
+    <lastmod>2025-04-17T18:03:38+02:00</lastmod>
+  </url><url>
+    <loc>https://smart-researchteam.github.io/</loc>
+    <lastmod>2025-04-17T18:03:38+02:00</lastmod>
+  </url><url>
+    <loc>https://smart-researchteam.github.io/tag/software-engineering/</loc>
+    <lastmod>2025-04-17T18:03:38+02:00</lastmod>
+  </url><url>
+    <loc>https://smart-researchteam.github.io/tags/</loc>
+    <lastmod>2025-04-17T18:03:38+02:00</lastmod>
+  </url><url>
+    <loc>https://smart-researchteam.github.io/talk/20240417-innopolis/</loc>
+    <lastmod>2025-04-17T18:00:07+02:00</lastmod>
+  </url><url>
+    <loc>https://smart-researchteam.github.io/tag/teaching/</loc>
+    <lastmod>2025-04-17T18:00:07+02:00</lastmod>
+  </url><url>
+    <loc>https://smart-researchteam.github.io/talk/20240329-scalability/</loc>
+    <lastmod>2025-04-17T18:00:07+02:00</lastmod>
+  </url><url>
+    <loc>https://smart-researchteam.github.io/tag/research/</loc>
+    <lastmod>2025-04-17T18:00:07+02:00</lastmod>
+  </url><url>
+    <loc>https://smart-researchteam.github.io/talk/20240221-ai-workshop/</loc>
+    <lastmod>2025-04-17T18:00:07+02:00</lastmod>
+  </url><url>
+    <loc>https://smart-researchteam.github.io/talk/20230905-re23-tuto/</loc>
+    <lastmod>2025-04-17T18:00:07+02:00</lastmod>
+  </url><url>
+    <loc>https://smart-researchteam.github.io/talk/20230905-re23-first/</loc>
+    <lastmod>2025-04-17T18:00:07+02:00</lastmod>
+  </url><url>
+    <loc>https://smart-researchteam.github.io/talk/20230619-mcmaster/</loc>
+    <lastmod>2025-04-17T18:00:07+02:00</lastmod>
+  </url><url>
+    <loc>https://smart-researchteam.github.io/talk/20230606-gdr-gpl-ie/</loc>
+    <lastmod>2025-04-17T18:00:07+02:00</lastmod>
+  </url><url>
     <loc>https://smart-researchteam.github.io/publication-type/1/</loc>
     <lastmod>2025-04-15T09:26:10+02:00</lastmod>
   </url><url>
@@ -9,12 +54,6 @@
     <lastmod>2025-04-15T09:26:10+02:00</lastmod>
   </url><url>
     <loc>https://smart-researchteam.github.io/publication_types/</loc>
-    <lastmod>2025-04-15T09:26:10+02:00</lastmod>
-  </url><url>
-    <loc>https://smart-researchteam.github.io/</loc>
-    <lastmod>2025-04-15T09:26:10+02:00</lastmod>
-  </url><url>
-    <loc>https://smart-researchteam.github.io/tags/</loc>
     <lastmod>2025-04-15T09:26:10+02:00</lastmod>
   </url><url>
     <loc>https://smart-researchteam.github.io/publication/pons-hal-04144980/</loc>
@@ -33,9 +72,6 @@
     <lastmod>2025-04-15T09:26:10+02:00</lastmod>
   </url><url>
     <loc>https://smart-researchteam.github.io/talk/20220901-youtube-fsl/</loc>
-    <lastmod>2025-04-15T09:26:10+02:00</lastmod>
-  </url><url>
-    <loc>https://smart-researchteam.github.io/tag/research/</loc>
     <lastmod>2025-04-15T09:26:10+02:00</lastmod>
   </url><url>
     <loc>https://smart-researchteam.github.io/talk/20220224-diversecoffee/</loc>
@@ -134,9 +170,6 @@
     <loc>https://smart-researchteam.github.io/talk/20201204-cusi/</loc>
     <lastmod>2021-10-06T18:56:48+02:00</lastmod>
   </url><url>
-    <loc>https://smart-researchteam.github.io/tag/teaching/</loc>
-    <lastmod>2021-10-06T18:56:48+02:00</lastmod>
-  </url><url>
     <loc>https://smart-researchteam.github.io/tag/ambient-intelligence/</loc>
     <lastmod>2021-10-08T12:43:30+02:00</lastmod>
   </url><url>
@@ -210,9 +243,6 @@
     <lastmod>2021-11-25T11:00:54+01:00</lastmod>
   </url><url>
     <loc>https://smart-researchteam.github.io/tag/ontology/</loc>
-    <lastmod>2021-11-25T11:00:54+01:00</lastmod>
-  </url><url>
-    <loc>https://smart-researchteam.github.io/project/</loc>
     <lastmod>2021-11-25T11:00:54+01:00</lastmod>
   </url><url>
     <loc>https://smart-researchteam.github.io/tag/requirements/</loc>
