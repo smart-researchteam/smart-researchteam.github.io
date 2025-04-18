@@ -5,12 +5,20 @@
     <link>https://smart-researchteam.github.io/tag/research/</link>
       <atom:link href="https://smart-researchteam.github.io/tag/research/index.xml" rel="self" type="application/rss+xml" />
     <description>Research</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2025 - ACDC. Last update: April, 15th, 2025</copyright><lastBuildDate>Sun, 31 Mar 2024 17:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2025 - ACDC. Last update: April, 15th, 2025</copyright><lastBuildDate>Wed, 16 Apr 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://smart-researchteam.github.io/media/icon_hu_1b4bcfdf7d67b990.png</url>
       <title>Research</title>
       <link>https://smart-researchteam.github.io/tag/research/</link>
     </image>
+    
+    <item>
+      <title>Software Engineering Awareness Network</title>
+      <link>https://smart-researchteam.github.io/talk/20250416-ins2i-sean/</link>
+      <pubDate>Wed, 16 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://smart-researchteam.github.io/talk/20250416-ins2i-sean/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Requirements: Scalability Issues</title>
