@@ -37,10 +37,14 @@ jobs:
         with:
           hugo-version: ${{ env.WC_HUGO_VERSION }}
           extended: true
+      - name: Setup Go
+        uses: actions/setup-go@v5
+        with:
+          go-version: '1.21'
       - uses: actions/cache@v4
         with:
           path: /tmp/hugo_cache_runner/
-          key: ${{ runner.os }}-hugomod-${{ hashFiles('**/go.mod', '**/go.sum', '**/hugo.yaml') }}-${{ hashFiles('**/module.yaml') }}
+          key: ${{ runner.os }}-hugomod-${{ hashFiles('**/go.mod', '**/go.sum') }}
           restore-keys: |
             ${{ runner.os }}-hugomod-
       - name: Setup Pages
@@ -55,8 +59,8 @@ jobs:
           HUGO_ENVIRONMENT: production
         run: |
           echo "Hugo Cache Dir: $(hugo config | grep cachedir)"
-          # hugo mod clean
-          # hugo mod get -u
+          hugo mod clean
+          hugo mod get -u
           hugo --minify --baseURL "${{ steps.pages.outputs.base_url }}/"
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
