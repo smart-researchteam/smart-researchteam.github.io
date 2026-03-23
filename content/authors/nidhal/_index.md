@@ -22,7 +22,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: Co-directed with Sébastien Mosser, Mc Master University.
+note: Co-directed with Sébastien Mosser, Mc Master University.
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons

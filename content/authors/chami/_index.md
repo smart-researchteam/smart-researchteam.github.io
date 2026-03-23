@@ -17,6 +17,7 @@ role: 2021 - Consultant
 bio: Ph.D. thesis on "Evaluation of integrated conceptual models in mechatronic systems"
 from: "2015-10-01"
 to: "2021-12-15"
+note: "Former BT employee. Consultant."
 
 # Organizations/Affiliations
 organizations:
@@ -24,7 +25,6 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: Former BT employee. Consultant.
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons

@@ -22,7 +22,7 @@ organizations:
   url: "https://www.linkedin.com/company/openfn"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Co-directed with U. of Dakar. MAE Campus France Grant.
+note: Co-directed with U. of Dakar. MAE Campus France Grant.
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons

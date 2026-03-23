@@ -25,9 +25,6 @@ organizations:
 - name: Spilen
   url: "https://spilen.fr/"
 
-# Short bio (displayed in user profile at end of posts)
-bio: Co-directed with Bertrand Meyer and Sophie Ebersold
-
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the

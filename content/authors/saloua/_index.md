@@ -22,7 +22,7 @@ bio: "Ph.D. thesis on Alignement collaboratif de modèles de conception hétéro
 #   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: Co-directed with U. Mohammed V, Rabat, Morocco.
+note: Co-directed with U. Mohammed V, Rabat, Morocco.
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons

@@ -13,7 +13,7 @@ superuser: false
 role: 2017 - Consultant IAM chez Sogeti
 
 # Short bio (displayed in user profile at end of posts)
-bio: "Ph.D. thesis on Ingénierie des architectures logicielles sécurisées : patrons, modèles et analyses"
+bio: "Ph.D. thesis on Ingénierie des architectures logicielles sécurisées : patrons, modèles et analyses. Co-directed with Brahim Hamid and Agnès Lanusse. CEA LIST funding."
 
 
 # Organizations/Affiliations
@@ -21,8 +21,6 @@ organizations:
 - name: Sogeti
   url: ""
 
-# Short bio (displayed in user profile at end of posts)
-bio: Co-directed with Brahim Hamid and Agnès Lanusse. CEA LIST funding.
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
