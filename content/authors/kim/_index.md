@@ -13,7 +13,7 @@ superuser: false
 role: Ph.D. student since 10/2023
 
 # Short bio (displayed in user profile at end of posts)
-bio: Ph.D. thesis on "..."
+bio: Ph.D. thesis on Integrating Operational Concerns in Model-Driven Analysis and Optimization
 
 
 # Organizations/Affiliations

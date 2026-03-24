@@ -15,7 +15,9 @@ subtitle = ""
   #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
   user_groups = ["Permanent",
                  "Associates",
+                 "PostDocs",
                  "Ph.D. Students",
+                 "M.Sc. Students",
                  "Former Ph.D. Students"]
 
 [design]

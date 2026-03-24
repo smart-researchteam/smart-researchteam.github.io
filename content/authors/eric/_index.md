@@ -1,20 +1,19 @@
 ---
 # Display name
-title: Tristan Gouaichault
+title: Eric Lubat
 
 # Username (this should match the folder name)
 authors:
-- tristan
+- eric
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Ph.D. student since 03/2025
+role: PostDoc since 01/2026
 
 # Short bio (displayed in user profile at end of posts)
-bio: Data Scientist of the team
-
+bio: Digital Twins expert
 
 # Organizations/Affiliations
 organizations:
@@ -22,7 +21,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-note: Co-directed with Olivier Teste.
+note: Directed by Sophie Ebersold.
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -31,13 +30,13 @@ note: Co-directed with Olivier Teste.
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:tristan.gouaichault@irit.fr'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:Eric.Lubat@irit.fr'  # For a direct email link, use "mailto:test@example.org".
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/in/tristan-gouaichault-419776222
+  link: https://www.linkedin.com/in/eric-lubat-phd-364ab7152
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "tristan.gouaichault@irit.fr"
+email: "Eric.Lubat@irit.fr"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
@@ -45,8 +44,8 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Ph.D. Students
+- PostDocs
 
-tags: ["current", "phd", "indus"]
+tags: ["current", "postdoc", "indus"]
 
 ---
