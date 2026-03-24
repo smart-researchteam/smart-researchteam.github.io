@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>4 | Sm@RT Research Team</title>
+    <link>https://smart-researchteam.github.io/publication-type/4/</link>
+      <atom:link href="https://smart-researchteam.github.io/publication-type/4/index.xml" rel="self" type="application/rss+xml" />
+    <description>4</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><copyright>© 2026 - ACDC. Last update: March, 23rd, 2026</copyright><lastBuildDate>Fri, 01 May 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://smart-researchteam.github.io/media/icon_hu_3405813888f6bb95.png</url>
+      <title>4</title>
+      <link>https://smart-researchteam.github.io/publication-type/4/</link>
+    </image>
+    
+    <item>
+      <title>Putting the End-User in the Loop in Smart Ambient Systems: an Approach based on Model-Driven Engineering</title>
+      <link>https://smart-researchteam.github.io/publication/koussaifi-hal-03120776/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://smart-researchteam.github.io/publication/koussaifi-hal-03120776/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Formal Semantics of Requirements Relationships for Traceability</title>
+      <link>https://smart-researchteam.github.io/publication/galinier-hal-03012573/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://smart-researchteam.github.io/publication/galinier-hal-03012573/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

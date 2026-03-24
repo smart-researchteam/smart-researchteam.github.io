@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Recent | Sm@RT Research Team</title>
+    <link>https://smart-researchteam.github.io/tag/recent/</link>
+      <atom:link href="https://smart-researchteam.github.io/tag/recent/index.xml" rel="self" type="application/rss+xml" />
+    <description>Recent</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><copyright>© 2026 - ACDC. Last update: March, 23rd, 2026</copyright><lastBuildDate>Fri, 27 Jul 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://smart-researchteam.github.io/media/icon_hu_3405813888f6bb95.png</url>
+      <title>Recent</title>
+      <link>https://smart-researchteam.github.io/tag/recent/</link>
+    </image>
+    
+    <item>
+      <title>On the use of models for high-performance scientific computing applications: an experience report</title>
+      <link>https://smart-researchteam.github.io/publication/sosym2018/</link>
+      <pubDate>Fri, 27 Jul 2018 00:00:00 +0000</pubDate>
+      <guid>https://smart-researchteam.github.io/publication/sosym2018/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

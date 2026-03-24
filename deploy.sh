@@ -15,7 +15,7 @@ echo -e "\033[0;32mDeploying updates to IRIT...\033[0m"
 
 # Deploy @ IRIT.
 # rsync -avz --protocol=29 --delete public/ ${USER}@${HOST}:${DIR}
-rsync -avz -e 'ssh -o "ProxyCommand ssh -A ${USER}@sash.irit.fr -W %h:%p"' public/ ${USER}@${HOST}:${DIR}
+rsync -avz -e 'ssh -o "ProxyCommand ssh -A ${USER}@sash.irit.fr -W %h:%p"' docs/ ${USER}@${HOST}:${DIR}
 
 
 exit 0
