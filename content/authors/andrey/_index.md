@@ -1,23 +1,21 @@
 ---
 # Display name
-title: Bertrand Meyer
+title: Andrey Sadovykh
 
 # Username (this should match the folder name)
 authors:
-- bertrand
+- andrey
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Professor of Software Engineering
+role: Researcher in Software Engineering, Softeam Group
 
 # Organizations/Affiliations
 organizations:
-- name: Schaffhausen Institute of Technology
-  url: "https://sit.org/"
-- name: IRIT Laboratory
-  url: "http://www.irit.fr/"
+- name: Softeam Group
+  url: "https://www.softeam.com/"
 # Short bio (displayed in user profile at end of posts)
 bio: 
 
@@ -30,15 +28,14 @@ bio:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:bertrand.meyer@inf.ethz.ch'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
+  link: 'mailto:andrey.sadovykh@docaposte.fr'  # For a direct email link, use "mailto:test@example.org".
+- icon: linkedin
   icon_pack: fab
-  link: https://twitter.com/bertrand_meyer
-
+  link: https://www.linkedin.com/in/sadovykh/
 
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "bertrand.meyer@inf.ethz.ch"
+email: "andrey.sadovykh@docaposte.fr"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
@@ -47,5 +44,4 @@ highlight_name: true
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - Associates
-
 ---
