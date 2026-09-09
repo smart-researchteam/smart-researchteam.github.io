@@ -10,7 +10,9 @@ authors:
 superuser: false
 
 # Role/position
-role: Ph.D. student since 10/2021
+# role: Ph.D. student since 10/2021
+role: 2026 - Freelance
+
 
 # Short bio (displayed in user profile at end of posts)
 bio: Ph.D. thesis on "Technology Enhanced Learning"
@@ -45,8 +47,8 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Ph.D. Students
+- Former Ph.D. Students
 
-tags: ["current", "phd", "grant"]
+tags: ["past","phd","grant"]
 
 ---

@@ -10,14 +10,14 @@ authors:
 superuser: false
 
 # Role/position
-role: Ph.D. student
+role: Ph.D. student since 04/2026
 
 # Short bio (displayed in user profile at end of posts)
 bio: Ph.D. thesis on Education Advisors Digital Twins for Students
 
 # Organizations/Affiliations
 organizations:
-- name: 
+- name: UT2J
   url: ""
 
 # Social/Academic Networking

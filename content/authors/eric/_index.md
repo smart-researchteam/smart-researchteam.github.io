@@ -10,18 +10,19 @@ authors:
 superuser: false
 
 # Role/position
-role: PostDoc since 01/2026
+role: Assistant Professor 
+# since 09/2026
 
 # Short bio (displayed in user profile at end of posts)
 bio: Digital Twins expert
 
 # Organizations/Affiliations
 organizations:
-- name: UT2J
+- name: UT
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-note: Directed by Sophie Ebersold.
+# note: Directed by Sophie Ebersold.
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -39,12 +40,12 @@ social:
 email: "Eric.Lubat@irit.fr"
 
 # Highlight the author in author lists? (true/false)
-highlight_name: false
+highlight_name: true
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- PostDocs
+- Permanent
 
 tags: ["current", "postdoc", "indus"]
 
