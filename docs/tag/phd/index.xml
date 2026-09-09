@@ -7,10 +7,18 @@
     <description>Phd</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><copyright>© 2026 - ACDC. Last update: March, 23rd, 2026</copyright>
     <image>
-      <url>https://smart-researchteam.github.io/media/icon_hu_1b4bcfdf7d67b990.png</url>
+      <url>https://smart-researchteam.github.io/media/icon_hu_3405813888f6bb95.png</url>
       <title>Phd</title>
       <link>https://smart-researchteam.github.io/tag/phd/</link>
     </image>
+    
+    <item>
+      <title>Afek Amiri</title>
+      <link>https://smart-researchteam.github.io/author/afek-amiri/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://smart-researchteam.github.io/author/afek-amiri/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Alexandr Naumchev</title>
@@ -25,6 +33,14 @@
       <link>https://smart-researchteam.github.io/author/anas-motii/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://smart-researchteam.github.io/author/anas-motii/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bathelemy Makaton</title>
+      <link>https://smart-researchteam.github.io/author/bathelemy-makaton/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://smart-researchteam.github.io/author/bathelemy-makaton/</guid>
       <description></description>
     </item>
     
@@ -57,6 +73,14 @@
       <link>https://smart-researchteam.github.io/author/irfan-javid/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://smart-researchteam.github.io/author/irfan-javid/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Iryna Volosheniuk</title>
+      <link>https://smart-researchteam.github.io/author/iryna-volosheniuk/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://smart-researchteam.github.io/author/iryna-volosheniuk/</guid>
       <description></description>
     </item>
     
