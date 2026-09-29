@@ -1,6 +1,7 @@
 ---
 # Display name
 title: Pierre-Jean Charrel
+# décès le 23/09/2026 :-(
 
 # Username (this should match the folder name)
 authors:
@@ -76,7 +77,8 @@ highlight_name: true
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Permanent
+- Former colleague
+
 ---
 
 Pierre-Jean Charrel is a full professor at the {{< ut2j >}}.
