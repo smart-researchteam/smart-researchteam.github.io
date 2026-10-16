@@ -14,7 +14,7 @@ role: Assistant Professor
 
 # Organizations/Affiliations
 organizations:
-- name: University of Toulouse
+- name: University of Toulouse - Jean Jaurès
   url: "http://www.univ-toulouse.fr/"
 - name: IRIT Laboratory
   url: "http://www.irit.fr/"
@@ -27,9 +27,10 @@ interests:
 
 education:
   courses:
-  - course: Ph.D. in Software Engineering
-    institution: University of Rennes
+  - course: Ph.D. in Software Engineering and Cybersecurity
+    institution: University of South Brittany
     year: 2021
+    month: January
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -73,4 +74,4 @@ user_groups:
 - Permanent
 ---
 
-Pierre-Jean Charrel is a full professor at the {{< ut2j >}}.
+Nan MESSE is an assistant professor at the {{< ut2j >}}.
